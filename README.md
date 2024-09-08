@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 🎓 Currently a student at: **Imperial College London** 
 - 🌱 Currently studying: **Computer Engineering**
 - 🔭 Exploring: **New Recipes** 👨‍🍳
-- 🌏 My homeland: **Malaysia**
+- 🌏 My homeland: **Malaysia** 🇲🇾
 - 🎵 I love listening to **music** while coding. Check out what I'm listening to below!
 
 ## Now Playing 🎧
