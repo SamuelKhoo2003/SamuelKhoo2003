@@ -15,7 +15,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/samuel-khoo)
 
+
 ## ✨ Quote of the Day ✨
+
+> "A poem begins in delight and ends in wisdom." — **Robert Frost**
 
 > "The only way to do great work is to love what you do." — **Steve Jobs**
 
