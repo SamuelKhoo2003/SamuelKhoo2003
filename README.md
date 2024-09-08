@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The only way to do great work is to love what you do." — **Steve Jobs**
+> "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life." — **James Freeman Clarke**
 
 ---
 <p align="center">
