@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/samuel-khoo)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=samuel-khoo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=samuel-khoo&redirect=true)
 
 
 ## ✨ Quote of the Day ✨
