@@ -13,7 +13,16 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=samuel-khoo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=samuel-khoo&redirect=true)
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div>
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=samuel-khoo&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=samuel-khoo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    </a>
+  </div>
+  <div>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=samuel-khoo&count=5" alt="Spotify Recently Played" />
+  </div>
+</div>
 
 
 ## ✨ Quote of the Day ✨
