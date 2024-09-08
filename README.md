@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 🌱 Currently studying: **Computer Engineering**
 - 🔭 Exploring: **New Recipes** 👨‍🍳
 - 🌏 My homeland: **Malaysia**
-- 🎵 I love listening to **music** while coding. Check out my Spotify playlist below!
+- 🎵 I love listening to **music** while coding. Check out what I'm listening to below!
 
 ## Now Playing 🎧
 
