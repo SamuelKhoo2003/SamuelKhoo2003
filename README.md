@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&color=000000&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Samuel+!;" />
+</h1>
 
-<!--
-**SamuelKhoo2003/SamuelKhoo2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building cool projects. Here's a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently a student at: **Imperial College London** 
+- 🌱 Currently studying: **Computer Engineering**
+- 🔭 Exploring: **New Recipes** 👨‍🍳
+- 🌏 My homeland: **Malaysia**
+- 🎵 I love listening to **music** while coding. Check out my Spotify playlist below!
+
+## Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/samuel-khoo)
+
+## ✨ Quote of the Day ✨
+
+> "The only way to do great work is to love what you do." — **Steve Jobs**
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or just chat! 😄
+
