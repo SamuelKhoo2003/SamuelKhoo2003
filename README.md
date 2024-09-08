@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 > "The only way to do great work is to love what you do." — **Steve Jobs**
 
 ---
-
-*Feel free to explore my repositories and reach out if you'd like to collaborate or just chat! 😄*
-
+<p align="center">
+  <i>Feel free to explore my repositories and reach out if you'd like to collaborate or just chat! 😄</i>
+</p>
 
