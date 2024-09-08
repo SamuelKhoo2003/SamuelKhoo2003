@@ -18,8 +18,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A poem begins in delight and ends in wisdom." — **Robert Frost**
-
 > "The only way to do great work is to love what you do." — **Steve Jobs**
 
 ---
