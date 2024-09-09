@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life." — **James Freeman Clarke**
+> "If we did the things we are capable of, we would astound ourselves." — **Thomas Edison**
 
 ---
 <p align="center">
