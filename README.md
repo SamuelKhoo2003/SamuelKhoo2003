@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If we did the things we are capable of, we would astound ourselves." — **Thomas Edison**
+> "So long as a person is capable of self-renewal they are a living being." — **Henri-Frédéric Amiel**
 
 ---
 <p align="center">
