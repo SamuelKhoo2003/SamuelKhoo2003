@@ -2,8 +2,8 @@ name: Update Quote of the Day
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:       # Allows manual trigger
 
 jobs:
   update-readme:
@@ -23,6 +23,8 @@ jobs:
 
       - name: Update README with new quote
         run: python daily_quote.py
+        env:
+          API_KEY: ${{ secrets.API_NINJA_KEY }}
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9

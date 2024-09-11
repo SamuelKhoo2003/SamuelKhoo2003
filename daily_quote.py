@@ -1,15 +1,30 @@
+from typing import List, Tuple
 import requests
+import random
+import os
 
-def fetch_quote(tags):
-    tags_query = '|'.join(tags)
-    url = f"https://api.quotable.io/quotes/random?tags={tags_query}"
-    
-    response = requests.get(url)
+
+def fetch_quote(categories: List[str]) -> Tuple[str, str]:
+    category = random.choice(categories)
+    api_url = f"https://api.api-ninjas.com/v1/quotes?category={category}"
+    api_key = os.getenv("API_NINJA_KEY")
+    if not api_key:
+        raise ValueError("API key not found. Please set the API_KEY environment variable.")
+
+    headers = {
+        'X-Api-Key': api_key
+    }
+    response = requests.get(api_url, headers=headers)
     response.raise_for_status()
     quote_data = response.json()
-    return quote_data[0]["content"], quote_data[0]["author"]
 
-def update_readme(new_quote, new_author):
+    if quote_data:
+        return quote_data["quote"], quote_data["author"]
+    else:
+        raise ValueError("No quotes found for the specified category.")
+
+
+def update_readme(new_quote: str, new_author: str) -> None:
     with open("README.md", "r", encoding='utf-8') as file:
         readme_content = file.readlines()
 
@@ -24,6 +39,6 @@ def update_readme(new_quote, new_author):
         file.writelines(updated_content)
 
 if __name__ == "__main__":
-    tags = ["technology", "famous-quotes"]
-    quote, author = fetch_quote(tags)
+    categories = ["computer", "education", "architecture", "famous", "inspirational", "intelligence", "success", "life", "learning"]
+    quote, author = fetch_quote(categories)
     update_readme(quote, author)
