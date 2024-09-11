@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Half our life is spent trying to find something to do with the time we have rushed through life trying to save." — **Rogers, Will**
+> "Japanese architecture is very much copied in this country and in Europe." — **Minoru Yamasaki**
 
 ---
 <p align="center">
