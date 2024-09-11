@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "So long as a person is capable of self-renewal they are a living being." — **Henri-Frédéric Amiel**
+> "Education, therefore, is a process of living and not a preparation for future living." — **John Dewey**
 
 ---
 <p align="center">

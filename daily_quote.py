@@ -1,8 +1,10 @@
 from typing import List, Tuple
+from dotenv import load_dotenv
 import requests
 import random
 import os
 
+load_dotenv()
 
 def fetch_quote(categories: List[str]) -> Tuple[str, str]:
     category = random.choice(categories)
@@ -19,7 +21,7 @@ def fetch_quote(categories: List[str]) -> Tuple[str, str]:
     quote_data = response.json()
 
     if quote_data:
-        return quote_data["quote"], quote_data["author"]
+        return quote_data[0]["quote"], quote_data[0]["author"]
     else:
         raise ValueError("No quotes found for the specified category.")
 
@@ -39,6 +41,6 @@ def update_readme(new_quote: str, new_author: str) -> None:
         file.writelines(updated_content)
 
 if __name__ == "__main__":
-    categories = ["computer", "education", "architecture", "famous", "inspirational", "intelligence", "success", "life", "learning"]
+    categories = ["computers", "education", "architecture", "famous", "inspirational", "intelligence", "success", "life", "learning"]
     quote, author = fetch_quote(categories)
     update_readme(quote, author)
