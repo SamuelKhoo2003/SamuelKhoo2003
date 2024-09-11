@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Education, therefore, is a process of living and not a preparation for future living." — **John Dewey**
+> "Half our life is spent trying to find something to do with the time we have rushed through life trying to save." — **Rogers, Will**
 
 ---
 <p align="center">
