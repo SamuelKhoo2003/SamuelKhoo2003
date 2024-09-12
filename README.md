@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Japanese architecture is very much copied in this country and in Europe." — **Minoru Yamasaki**
+> "Over and over again, financial experts and wonkish talking heads endeavor to explain these mysterious, 'toxic' financial instruments to us lay folk. Over and over, they ignobly fail, because we all know that no one understands credit default obligations and derivatives, except perhaps Mr. Buffett and the computers who created them." — **Richard Dooling**
 
 ---
 <p align="center">
