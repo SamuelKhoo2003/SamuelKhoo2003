@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Over and over again, financial experts and wonkish talking heads endeavor to explain these mysterious, 'toxic' financial instruments to us lay folk. Over and over, they ignobly fail, because we all know that no one understands credit default obligations and derivatives, except perhaps Mr. Buffett and the computers who created them." — **Richard Dooling**
+> "It is not the beauty of a building you should look at its the construction of the foundation that will stand the test of time." — **David Allan Coe**
 
 ---
 <p align="center">
