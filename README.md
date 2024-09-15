@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The men who succeed are the efficient few. They are the few who have the ambition and will power to develop themselves." — **Casson, Herbert N.**
+> "Unrest of spirit is a mark of life." — **Karl A. Menninger**
 
 ---
 <p align="center">
