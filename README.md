@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Unrest of spirit is a mark of life." — **Karl A. Menninger**
+> "Next year, I hope there will be even more parties, lots of holidays and just having a good time, really. Plus wing-walking, air shows and learning to fly, as they are all things I want to do. I won't be restricted by age." — **Carol Vorderman**
 
 ---
 <p align="center">
