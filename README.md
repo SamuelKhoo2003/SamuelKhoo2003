@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Next year, I hope there will be even more parties, lots of holidays and just having a good time, really. Plus wing-walking, air shows and learning to fly, as they are all things I want to do. I won't be restricted by age." — **Carol Vorderman**
+> "Children make your life important." — **Erma Bombeck**
 
 ---
 <p align="center">
