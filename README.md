@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=600&color=000000&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;+I'm+Samuel+!;" />
 </h1>
 
-
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building cool projects. Here's a bit about me:
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building cool projects. Feel free to explore my [personal website](https://samuelkhoo.vercel.app/) for more about me and my work. Here's a bit about me:
 
 - 🎓 Currently a student at: **Imperial College London** 
 - 🌱 Currently studying: **Computer Engineering**
@@ -23,7 +22,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=samuel-khoo&count=3&unique={true}&width=350" alt="Spotify Recently Played" />
   </div>
 </div>
-
 
 ## ✨ Quote of the Day ✨
 
