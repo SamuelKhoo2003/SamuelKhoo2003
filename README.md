@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Children make your life important." — **Erma Bombeck**
+> "My goal wasn't to make a ton of money. It was to build good computers." — **Steve Wozniak**
 
 ---
 <p align="center">
