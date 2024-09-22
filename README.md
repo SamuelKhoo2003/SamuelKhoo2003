@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Well look, CIA is an agency that has to collect intelligence, do operations. We have to take risks and it's important that we take risks and that we know that we have the support of the government and we have the support of the American people in what we're doing." — **Leon Panetta**
+> "As a Member of Congress, I've continued my family's tradition of focusing on education." — **Mark Kennedy**
 
 ---
 <p align="center">
