@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "As a Member of Congress, I've continued my family's tradition of focusing on education." — **Mark Kennedy**
+> "Men must live and create. Live to the point of tears." — **Albert Camus**
 
 ---
 <p align="center">
