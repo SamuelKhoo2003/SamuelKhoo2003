@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Men must live and create. Live to the point of tears." — **Albert Camus**
+> "I wanted to be a political science professor and go to school in Boston. I never wanted to be a big, famous movie star and TV star. It kind of found me." — **Eliza Dushku**
 
 ---
 <p align="center">
