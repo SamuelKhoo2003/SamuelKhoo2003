@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I wanted to be a political science professor and go to school in Boston. I never wanted to be a big, famous movie star and TV star. It kind of found me." — **Eliza Dushku**
+> "I am prepared for the worst, but hope for the best." — **Benjamin Disraeli**
 
 ---
 <p align="center">
