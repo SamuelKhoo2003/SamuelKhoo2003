@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I am prepared for the worst, but hope for the best." — **Benjamin Disraeli**
+> "We are constantly protecting the male ego, and it's a disservice to men. If a man has any sensitivity or intelligence, he wants to get the straight scoop from his girlfriend." — **Betty Dodson**
 
 ---
 <p align="center">
