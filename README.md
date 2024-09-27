@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We are constantly protecting the male ego, and it's a disservice to men. If a man has any sensitivity or intelligence, he wants to get the straight scoop from his girlfriend." — **Betty Dodson**
+> "I never got a formal education. So my intellect is my common sense. I don't have anything else going for me. And my common sense opens the door to instinct." — **Jerry Lewis**
 
 ---
 <p align="center">
