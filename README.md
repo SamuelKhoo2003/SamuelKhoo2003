@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I never got a formal education. So my intellect is my common sense. I don't have anything else going for me. And my common sense opens the door to instinct." — **Jerry Lewis**
+> "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything - all external expectations, all pride, all fear of embarrassment or failure - these things just fall away in the face of death, leaving only what is truly important." — **Steve Jobs**
 
 ---
 <p align="center">
