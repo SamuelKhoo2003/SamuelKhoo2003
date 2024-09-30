@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Learning how to operate a soul figures to take time." — **Timothy Leary**
+> "All the learning in the world cannot replace instinct." — **Robert Ley**
 
 ---
 <p align="center">
