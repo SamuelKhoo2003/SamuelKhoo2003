@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "All the learning in the world cannot replace instinct." — **Robert Ley**
+> "Home computers are being called upon to perform many new functions, including the consumption of homework formerly eaten by the dog." — **Doug Larson**
 
 ---
 <p align="center">
