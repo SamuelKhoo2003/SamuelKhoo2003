@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Home computers are being called upon to perform many new functions, including the consumption of homework formerly eaten by the dog." — **Doug Larson**
+> "Computers and electronic music are not the opposite of the warm human music. It's exactly the same." — **Bill Laswell**
 
 ---
 <p align="center">
