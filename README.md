@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Computers and electronic music are not the opposite of the warm human music. It's exactly the same." — **Bill Laswell**
+> "Fact is, famous people say fame stinks because they love it so - like a secret restaurant or holiday island they don't want the hoi polloi to get their grubby paws on." — **Julie Burchill**
 
 ---
 <p align="center">
