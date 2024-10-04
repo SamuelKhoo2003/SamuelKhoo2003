@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Fact is, famous people say fame stinks because they love it so - like a secret restaurant or holiday island they don't want the hoi polloi to get their grubby paws on." — **Julie Burchill**
+> "Wisdom and deep intelligence require an honest appreciation of mystery." — **Thomas Moore**
 
 ---
 <p align="center">
