@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Wisdom and deep intelligence require an honest appreciation of mystery." — **Thomas Moore**
+> "We must walk consciously only part way toward our goal, and then leap in the dark to our success." — **Thoreau, Henry David**
 
 ---
 <p align="center">
