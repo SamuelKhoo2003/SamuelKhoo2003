@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We must walk consciously only part way toward our goal, and then leap in the dark to our success." — **Thoreau, Henry David**
+> "The five different areas in which boys are in crisis - education jobs emotional health physical health and fatherlessness - are handled by different portions of the government." — **Warren Farrell**
 
 ---
 <p align="center">
