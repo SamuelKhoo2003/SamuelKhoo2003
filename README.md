@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The five different areas in which boys are in crisis - education jobs emotional health physical health and fatherlessness - are handled by different portions of the government." — **Warren Farrell**
+> "I look like a geeky hacker, but I don't know anything about computers." — **Justin Long**
 
 ---
 <p align="center">
