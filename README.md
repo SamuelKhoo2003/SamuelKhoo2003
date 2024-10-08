@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I look like a geeky hacker, but I don't know anything about computers." — **Justin Long**
+> "I\'m passionately involved in life: I love its change, its color, its movement. To be alive, to be able to see, to walk, to have houses, music, paintings--iT\'s All A Miracle." — **Rubinstein, Arthur**
 
 ---
 <p align="center">
