@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I\'m passionately involved in life: I love its change, its color, its movement. To be alive, to be able to see, to walk, to have houses, music, paintings--iT\'s All A Miracle." — **Rubinstein, Arthur**
+> "The building of the architecture of a novel - the craft of it - is something I never tire of." — **John Irving**
 
 ---
 <p align="center">
