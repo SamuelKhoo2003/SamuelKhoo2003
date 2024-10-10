@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The building of the architecture of a novel - the craft of it - is something I never tire of." — **John Irving**
+> "Life is too short to worry about anything. You had better enjoy it because the next day promises nothing." — **Eric Davis**
 
 ---
 <p align="center">
