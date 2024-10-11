@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Life is too short to worry about anything. You had better enjoy it because the next day promises nothing." — **Eric Davis**
+> "Emotion is often what we rely upon to carry us across the unfathomable voids in our intelligence." — **Bryant H. McGill**
 
 ---
 <p align="center">
