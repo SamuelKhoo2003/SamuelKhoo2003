@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Emotion is often what we rely upon to carry us across the unfathomable voids in our intelligence." — **Bryant H. McGill**
+> "I am deliberate and afraid of nothing." — **Audre Lorde**
 
 ---
 <p align="center">
