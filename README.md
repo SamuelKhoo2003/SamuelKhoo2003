@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I am deliberate and afraid of nothing." — **Audre Lorde**
+> "But computers have changed the world for everyone, so there will be some way of working it out." — **Debbie Harry**
 
 ---
 <p align="center">
