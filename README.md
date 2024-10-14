@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "But computers have changed the world for everyone, so there will be some way of working it out." — **Debbie Harry**
+> "Art is the proper task of life." — **Friedrich Nietzsche**
 
 ---
 <p align="center">
