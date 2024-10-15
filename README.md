@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Art is the proper task of life." — **Friedrich Nietzsche**
+> "I belong to the generation of workers who, born in the villages and hamlets of rural Poland, had the opportunity to acquire education and find employment in industry, becoming in the course conscious of their rights and importance in society." — **Lech Walesa**
 
 ---
 <p align="center">
