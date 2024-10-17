@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "For me, I am left leaning when it comes to health and education, on the right when it comes to defense. So I don't know where I come on the political spectrum. And I think this the challenge that a lot of Jordanians have to deal with." — **King Abdullah II**
+> "I hate vacations. If you can build buildings, why sit on the beach?" — **Philip Johnson**
 
 ---
 <p align="center">
