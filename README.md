@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I hate vacations. If you can build buildings, why sit on the beach?" — **Philip Johnson**
+> "Joy descends gently upon us like the evening dew, and does not patter down like a hailstorm." — **Jean Paul**
 
 ---
 <p align="center">
