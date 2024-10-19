@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Joy descends gently upon us like the evening dew, and does not patter down like a hailstorm." — **Jean Paul**
+> "Any life is made up of a single moment, the moment in which a man finds out, once and for all, who he is." — **Jorge Luis Borges**
 
 ---
 <p align="center">
