@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Any life is made up of a single moment, the moment in which a man finds out, once and for all, who he is." — **Jorge Luis Borges**
+> "The secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. If you do that, you're in control of your life. If you don't, life controls you." — **Tony Robbins**
 
 ---
 <p align="center">
