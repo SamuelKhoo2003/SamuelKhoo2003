@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Every major player is working on this technology of artificial intelligence. As of now, it's benign... but I would say that the day is not far off when artificial intelligence as applied to cyber warfare becomes a threat to everybody." — **Ted Bell**
+> "The biggest adventure you can take is to live the life of your dreams." — **Oprah Winfrey**
 
 ---
 <p align="center">
