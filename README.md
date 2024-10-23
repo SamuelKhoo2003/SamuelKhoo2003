@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The biggest adventure you can take is to live the life of your dreams." — **Oprah Winfrey**
+> "I have never let my schooling interfere with my education." — **Twain, Mark**
 
 ---
 <p align="center">
