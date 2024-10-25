@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Holding on to anger, resentment and hurt only gives you tense muscles, a headache and a sore jaw from clenching your teeth. Forgiveness gives you back the laughter and the lightness in your life." — **Joan Lunden**
+> "I have so much empathy for these young actors that are 19 and all of a sudden they're beautiful and famous and rich. I'm like, 'Oh my God, I'd be dead.'" — **Philip Seymour Hoffman**
 
 ---
 <p align="center">
