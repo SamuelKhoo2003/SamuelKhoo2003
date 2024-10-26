@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I have so much empathy for these young actors that are 19 and all of a sudden they're beautiful and famous and rich. I'm like, 'Oh my God, I'd be dead.'" — **Philip Seymour Hoffman**
+> "Ambition is a lust that is never quenched, but grows more inflamed and madder by enjoyment." — **Otway, Thomas**
 
 ---
 <p align="center">
