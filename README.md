@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Ambition is a lust that is never quenched, but grows more inflamed and madder by enjoyment." — **Otway, Thomas**
+> "There is little evidence that our individual intelligence has improved through recorded history." — **James Lovelock**
 
 ---
 <p align="center">
