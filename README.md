@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There is little evidence that our individual intelligence has improved through recorded history." — **James Lovelock**
+> "The Divine of the Lord in heaven is love, for the reason that love is receptive of all things of heaven, such as peace, intelligence, wisdom and happiness." — **Emanuel Swedenborg**
 
 ---
 <p align="center">
