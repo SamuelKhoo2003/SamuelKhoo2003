@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think the biggest difficulty is that when I'm here in America, there's a necessity of using English, so I really have a great sense of really wanting to learn, but unfortunately when I head back to Japan, the necessity vanishes and so does my enthusiasm about learning." — **Chiaki Kuriyama**
+> "If the probability of success is not almost one, then it is damn near zero." — **Ellis, David**
 
 ---
 <p align="center">
