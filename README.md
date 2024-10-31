@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If the probability of success is not almost one, then it is damn near zero." — **Ellis, David**
+> "Losers live in the past. Winners learn from the past and enjoy working in the present toward the future." — **Denis Waitley**
 
 ---
 <p align="center">
