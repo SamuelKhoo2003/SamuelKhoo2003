@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Losers live in the past. Winners learn from the past and enjoy working in the present toward the future." — **Denis Waitley**
+> "Nowadays men lead lives of noisy desperation." — **Thurber, James**
 
 ---
 <p align="center">
