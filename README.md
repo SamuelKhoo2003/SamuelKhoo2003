@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Nowadays men lead lives of noisy desperation." — **Thurber, James**
+> "If you wish to know the mind of a man, listen to his words." — **Chinese Proverb**
 
 ---
 <p align="center">
