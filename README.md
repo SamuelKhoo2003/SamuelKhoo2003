@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you wish to know the mind of a man, listen to his words." — **Chinese Proverb**
+> "Many a man owes his success to his first wife and his second wife to his success." — **Backus, Jim**
 
 ---
 <p align="center">
