@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Many a man owes his success to his first wife and his second wife to his success." — **Backus, Jim**
+> "If architecture is, as is sometimes said, music set in concrete, then football and basketball may be said to be creativity embodied in team sports." — **Michael Mandelbaum**
 
 ---
 <p align="center">
