@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If architecture is, as is sometimes said, music set in concrete, then football and basketball may be said to be creativity embodied in team sports." — **Michael Mandelbaum**
+> "We convince by our presence." — **Walt Whitman**
 
 ---
 <p align="center">
