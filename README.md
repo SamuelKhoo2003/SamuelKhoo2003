@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We convince by our presence." — **Walt Whitman**
+> "I am famous because I am an African American jazz artist." — **Nat King Cole**
 
 ---
 <p align="center">
