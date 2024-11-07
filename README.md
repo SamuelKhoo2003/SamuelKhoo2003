@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I am famous because I am an African American jazz artist." — **Nat King Cole**
+> "So there is a foreign intelligence purpose for every one of our FISA warrants." — **Robert Mueller**
 
 ---
 <p align="center">
