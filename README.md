@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "So there is a foreign intelligence purpose for every one of our FISA warrants." — **Robert Mueller**
+> "It is not ignorance but knowledge which is the mother of wonder." — **Joseph Wood Krutch**
 
 ---
 <p align="center">
