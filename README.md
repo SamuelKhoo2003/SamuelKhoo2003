@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is not ignorance but knowledge which is the mother of wonder." — **Joseph Wood Krutch**
+> "Someday we'll learn the whole story of why George W. Bush brushed off that intelligence briefing of Aug. 6, 2001, 'Bin Laden Determined to Strike in U.S.' But surely a big distraction was the major speech he was readying for delivery on Aug. 9, his first prime-time address to the nation." — **Frank Rich**
 
 ---
 <p align="center">
