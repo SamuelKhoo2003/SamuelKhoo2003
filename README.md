@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If anybody wanted to photograph my life, they'd get bored in a day. 'Heres Matt at home learning his lines. Here's Matt researching in aisle six of his local library'. A few hours of that and they'd go home." — **Matt Damon**
+> "I'm actually about as famous as a fourth division footballer from the 70s." — **Dylan Moran**
 
 ---
 <p align="center">
