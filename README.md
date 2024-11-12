@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm actually about as famous as a fourth division footballer from the 70s." — **Dylan Moran**
+> "Every heart that has beat strongly and cheerfully has left a hopeful impulse behind it in the world, and bettered the tradition of mankind." — **Robert Louis Stevenson**
 
 ---
 <p align="center">
