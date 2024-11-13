@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Every heart that has beat strongly and cheerfully has left a hopeful impulse behind it in the world, and bettered the tradition of mankind." — **Robert Louis Stevenson**
+> "Thus, after finishing high school, I started with high expectations and enthusiasm to study chemistry at the famous Swiss Federal Institute of Technology in Zurich." — **Richard Ernst**
 
 ---
 <p align="center">
