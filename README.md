@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Thus, after finishing high school, I started with high expectations and enthusiasm to study chemistry at the famous Swiss Federal Institute of Technology in Zurich." — **Richard Ernst**
+> "How glorious a greeting the sun gives the mountains!" — **John Muir**
 
 ---
 <p align="center">
