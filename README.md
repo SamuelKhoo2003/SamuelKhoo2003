@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "How glorious a greeting the sun gives the mountains!" — **John Muir**
+> "Once you've wrestled, everything else in life is easy." — **Dan Gable**
 
 ---
 <p align="center">
