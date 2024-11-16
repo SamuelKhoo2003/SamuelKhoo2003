@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Once you've wrestled, everything else in life is easy." — **Dan Gable**
+> "Where ambition can cover its enterprises, even to the person himself, under the appearance of principle, it is the most incurable and inflexible of passions." — **Hume, David**
 
 ---
 <p align="center">
