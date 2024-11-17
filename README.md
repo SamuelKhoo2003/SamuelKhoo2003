@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Where ambition can cover its enterprises, even to the person himself, under the appearance of principle, it is the most incurable and inflexible of passions." — **Hume, David**
+> "It's only through listening that you learn, and I never want to stop learning." — **Drew Barrymore**
 
 ---
 <p align="center">
