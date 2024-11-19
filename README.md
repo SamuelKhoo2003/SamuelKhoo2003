@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's mainly about working hard and proving to people you're serious about it, and stretching yourself and learning. The mistake a lot of actors make, particularly young ones, is allowing themselves to feel that they're the finished articles, the bee's knees, and it's not true." — **Daniel Radcliffe**
+> "Anyway, all these computers and digital gadgets are no good. They just fill your head with numbers and that can't be good for you." — **Prince**
 
 ---
 <p align="center">
