@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Anyway, all these computers and digital gadgets are no good. They just fill your head with numbers and that can't be good for you." — **Prince**
+> "It is not ignorance but knowledge which is the mother of wonder." — **Joseph Wood Krutch**
 
 ---
 <p align="center">
