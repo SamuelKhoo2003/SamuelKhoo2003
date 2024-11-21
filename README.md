@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is not ignorance but knowledge which is the mother of wonder." — **Joseph Wood Krutch**
+> "I had been involved in U.S. intelligence in Berlin, Germany, while in the military and had worked with a contact with the Central Intelligence Agency office there." — **George J. Mitchell**
 
 ---
 <p align="center">
