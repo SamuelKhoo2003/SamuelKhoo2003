@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I had been involved in U.S. intelligence in Berlin, Germany, while in the military and had worked with a contact with the Central Intelligence Agency office there." — **George J. Mitchell**
+> "Music is the movement of sound to reach the soul for the education of its virtue." — **Plato**
 
 ---
 <p align="center">
