@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Music is the movement of sound to reach the soul for the education of its virtue." — **Plato**
+> "When AI approximates Machine Intelligence, then many online and computer-run RPGs will move towards actual RPG activity. Nonetheless, that will not replace the experience of 'being there,' any more than seeing a theatrical motion picture can replace the stage play." — **Gary Gygax**
 
 ---
 <p align="center">
