@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "When AI approximates Machine Intelligence, then many online and computer-run RPGs will move towards actual RPG activity. Nonetheless, that will not replace the experience of 'being there,' any more than seeing a theatrical motion picture can replace the stage play." — **Gary Gygax**
+> "Realizing that the majority of kids that get molested feel that it is their fault, along with shame, those kids have no idea what to say or do to try to report anything, and add that with the lack of education, it is a complete recipe for disaster that leads to non-reporting of molestation." — **Sherri Shepherd**
 
 ---
 <p align="center">
