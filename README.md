@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Justice turns the scale, bringing to some learning through suffering." — **Aeschylus**
+> "Undernourished, intelligence becomes like the bloated belly of a starving child: swollen, filled with nothing the body can use." — **Andrea Dworkin**
 
 ---
 <p align="center">
