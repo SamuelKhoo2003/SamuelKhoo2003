@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Undernourished, intelligence becomes like the bloated belly of a starving child: swollen, filled with nothing the body can use." — **Andrea Dworkin**
+> "The purpose of life is a life of purpose." — **Robert Byrne**
 
 ---
 <p align="center">
