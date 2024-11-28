@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The purpose of life is a life of purpose." — **Robert Byrne**
+> "Intelligence is quickness in seeing things as they are." — **George Santayana**
 
 ---
 <p align="center">
