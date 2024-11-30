@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A man is a god in ruins. When men are innocent, life shall be longer, and shall pass into the immortal, as gently as we awake from dreams." — **Ralph Waldo Emerson**
+> "How far high failure overleaps the bounds of low success." — **Morris, Lewis**
 
 ---
 <p align="center">
