@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "How far high failure overleaps the bounds of low success." — **Morris, Lewis**
+> "Let each man exercise the art he knows." — **Aristophanes**
 
 ---
 <p align="center">
