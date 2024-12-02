@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Let each man exercise the art he knows." — **Aristophanes**
+> "Globalization, as defined by rich people like us, is a very nice thing... you are talking about the Internet, you are talking about cell phones, you are talking about computers. This doesn't affect two-thirds of the people of the world." — **Jimmy Carter**
 
 ---
 <p align="center">
