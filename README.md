@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Cities are the greatest creations of humanity." — **Daniel Libeskind**
+> "I can never really enjoy being famous." — **Utada Hikaru**
 
 ---
 <p align="center">
