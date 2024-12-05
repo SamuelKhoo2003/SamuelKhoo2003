@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I can never really enjoy being famous." — **Utada Hikaru**
+> "It would be incredibly presumptuous and self-serving of me to believe that Facebook was the end of history. The only way it could possibly be the end of history is if it becomes some sort of artificial super intelligence that takes over the world." — **Sean Parker**
 
 ---
 <p align="center">
