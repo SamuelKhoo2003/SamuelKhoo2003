@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Architecture is my work, and I've spent my whole life at a drawing board, but life is more important than architecture. What matters is to improve human beings." — **Oscar Niemeyer**
+> "It's learning how to negotiate to keep both sides happy - whether it's for a multi-million dollar contract or just which show to watch on TV, that determines the quality and enjoyment of our lives." — **Leigh Steinberg**
 
 ---
 <p align="center">
