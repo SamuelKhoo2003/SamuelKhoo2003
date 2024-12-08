@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's learning how to negotiate to keep both sides happy - whether it's for a multi-million dollar contract or just which show to watch on TV, that determines the quality and enjoyment of our lives." — **Leigh Steinberg**
+> "I arise full of eagerness and energy, knowing well what achievement lies ahead of me." — **Zane Grey**
 
 ---
 <p align="center">
