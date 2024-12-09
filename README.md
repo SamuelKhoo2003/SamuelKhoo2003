@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I arise full of eagerness and energy, knowing well what achievement lies ahead of me." — **Zane Grey**
+> "I believe that being successful means having a balance of success stories across the many areas of your life. You can't truly be considered successful in your business life if your home life is in shambles." — **Zig Ziglar**
 
 ---
 <p align="center">
