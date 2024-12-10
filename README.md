@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I believe that being successful means having a balance of success stories across the many areas of your life. You can't truly be considered successful in your business life if your home life is in shambles." — **Zig Ziglar**
+> "To provide meaningful architecture is not to parody history but to articulate it." — **Daniel Libeskind**
 
 ---
 <p align="center">
