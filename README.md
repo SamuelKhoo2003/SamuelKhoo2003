@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm still shy - I'm no good at my children's parent-teacher conferences, and I'm slowly learning how to ask for what I want. But I now know that I have a reserve of courage to draw upon when I really need it. There's nothing that I'm too scared to have a go at." — **Emily Mortimer**
+> "Melville brought to the task a sound knowledge of actual whaling, much curious learning in the literature of the subject, and, above all, an imagination which worked with great power upon the facts of his own experience." — **Carl Clinton Van Doren**
 
 ---
 <p align="center">
