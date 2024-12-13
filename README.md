@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Melville brought to the task a sound knowledge of actual whaling, much curious learning in the literature of the subject, and, above all, an imagination which worked with great power upon the facts of his own experience." — **Carl Clinton Van Doren**
+> "People can inhabit anything. And they can be miserable in anything and ecstatic in anything. More and more I think that architecture has nothing to do with it. Of course, that's both liberating and alarming." — **Rem Koolhaas**
 
 ---
 <p align="center">
