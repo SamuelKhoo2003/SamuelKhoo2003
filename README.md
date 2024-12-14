@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "People can inhabit anything. And they can be miserable in anything and ecstatic in anything. More and more I think that architecture has nothing to do with it. Of course, that's both liberating and alarming." — **Rem Koolhaas**
+> "Aristotle was famous for knowing everything. He taught that the brain exists merely to cool the blood and is not involved in the process of thinking. This is true only of certain persons." — **Will Cuppy**
 
 ---
 <p align="center">
