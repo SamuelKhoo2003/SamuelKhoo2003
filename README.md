@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Aristotle was famous for knowing everything. He taught that the brain exists merely to cool the blood and is not involved in the process of thinking. This is true only of certain persons." — **Will Cuppy**
+> "There is nothing so stupid as an educated man, if you get off the thing he was educated in." — **Rogers, Will**
 
 ---
 <p align="center">
