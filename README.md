@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There is nothing so stupid as an educated man, if you get off the thing he was educated in." — **Rogers, Will**
+> "I would like to attend college in the future when I have time. I have always been interested in architecture, so perhaps I would pursue a degree in that or business." — **James Maslow**
 
 ---
 <p align="center">
