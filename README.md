@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I would like to attend college in the future when I have time. I have always been interested in architecture, so perhaps I would pursue a degree in that or business." — **James Maslow**
+> "What's fascinating about D.C., the exteriors are these elaborate structures, this gorgeous architecture and beautiful stonework, and then you go inside and it's crap-looking - apart from the White House, which is beautiful." — **Tony Hale**
 
 ---
 <p align="center">
