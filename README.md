@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "What's fascinating about D.C., the exteriors are these elaborate structures, this gorgeous architecture and beautiful stonework, and then you go inside and it's crap-looking - apart from the White House, which is beautiful." — **Tony Hale**
+> "The war we are fighting today against terrorism is a multifaceted fight. We have to use every tool in our toolkit to wage this war - diplomacy, finance, intelligence, law enforcement, and of course, military power - and we are developing new tools as we go along." — **Richard Armitage**
 
 ---
 <p align="center">
