@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The war we are fighting today against terrorism is a multifaceted fight. We have to use every tool in our toolkit to wage this war - diplomacy, finance, intelligence, law enforcement, and of course, military power - and we are developing new tools as we go along." — **Richard Armitage**
+> "People have taught me not to look for intelligence in rockmusic." — **Andrew Eldritch**
 
 ---
 <p align="center">
