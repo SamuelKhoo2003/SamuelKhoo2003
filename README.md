@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "What I was proud of was that I used very few parts to build a computer that could actually speak words on a screen and type words on a keyboard and run a programming language that could play games. And I did all this myself." — **Steve Wozniak**
+> "There are two ways of spreading light: to be the candle or the mirror that reflects it." — **Edith Wharton**
 
 ---
 <p align="center">
