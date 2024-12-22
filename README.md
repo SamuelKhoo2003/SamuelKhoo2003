@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There are two ways of spreading light: to be the candle or the mirror that reflects it." — **Edith Wharton**
+> "The tallest trees are most in the power of the winds, and ambitious men of the blasts of fortune." — **Penn, William**
 
 ---
 <p align="center">
