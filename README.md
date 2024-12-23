@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The tallest trees are most in the power of the winds, and ambitious men of the blasts of fortune." — **Penn, William**
+> "To compete in a global economy, our students must continue their education beyond high school. To make this expectation a reality, we must give students the tools they need to succeed, including the opportunity to take a college entrance exam." — **Jennifer Granholm**
 
 ---
 <p align="center">
