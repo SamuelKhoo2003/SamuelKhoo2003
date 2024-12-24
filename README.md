@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "To compete in a global economy, our students must continue their education beyond high school. To make this expectation a reality, we must give students the tools they need to succeed, including the opportunity to take a college entrance exam." — **Jennifer Granholm**
+> "Emotional intelligence begins to develop in the earliest years. All the small exchanges children have with their parents, teachers, and with each other carry emotional messages." — **Daniel Goleman**
 
 ---
 <p align="center">
