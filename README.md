@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Emotional intelligence begins to develop in the earliest years. All the small exchanges children have with their parents, teachers, and with each other carry emotional messages." — **Daniel Goleman**
+> "Our intelligence community needs better coordination of operations and exchange of information, and that's why we need an overall director of national intelligence and a national counterterrorism center." — **Jim Ramstad**
 
 ---
 <p align="center">
