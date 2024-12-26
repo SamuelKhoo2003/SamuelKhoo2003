@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Our intelligence community needs better coordination of operations and exchange of information, and that's why we need an overall director of national intelligence and a national counterterrorism center." — **Jim Ramstad**
+> "There is only one success - to be able to spend your life in your own way." — **Christopher Morley**
 
 ---
 <p align="center">
