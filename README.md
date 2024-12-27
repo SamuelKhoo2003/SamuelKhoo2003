@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There is only one success - to be able to spend your life in your own way." — **Christopher Morley**
+> "You do not want to get married at 22! Especially if you're famous, because girls are going to be throwing themselves at you." — **Usain Bolt**
 
 ---
 <p align="center">
