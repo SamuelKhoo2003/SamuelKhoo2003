@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You do not want to get married at 22! Especially if you're famous, because girls are going to be throwing themselves at you." — **Usain Bolt**
+> "Eventually, I believe, current attempts to understand the mind by analogy with man-made computers that can perform superbly some of the same external tasks as conscious beings will be recognized as a gigantic waste of time." — **Thomas Nagel**
 
 ---
 <p align="center">
