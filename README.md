@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Change your thoughts and you change your world." — **Norman Vincent Peale**
+> "One thing I think celebrities shy away from is exposing the reality that we're all the same. Somebody's not more important because they have a Bentley or a big house or a famous boyfriend or plastic surgery - we're all the same." — **Aubrey O'Day**
 
 ---
 <p align="center">
