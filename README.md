@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Every piece of software written today is likely going to infringe on someone else's patent." — **Miguel de Icaza**
+> "Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest." — **Isaac Asimov**
 
 ---
 <p align="center">
