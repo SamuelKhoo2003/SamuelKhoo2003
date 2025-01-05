@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If we really wanted to be cool, and everyone in the world had Pro Tools, we could just put it up on the internet and everyone could make their own record out of it." — **Charlie Hunter**
+> "This is all you have. This is not a dry run. This is your life. If you want to fritter it away with your fears, then you will fritter it away, but you won't get it back later." — **Laura Schlessinger**
 
 ---
 <p align="center">
