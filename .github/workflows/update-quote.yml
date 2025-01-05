@@ -22,9 +22,9 @@ jobs:
           pip install requests python-dotenv  # Install dependencies including python-dotenv
 
       - name: Update README with new quote
-        run: python daily_quote.py
         env:
           API_NINJA_KEY: ${{ secrets.API_NINJA_KEY }}  # Pass API key from GitHub Secrets
+        run: python daily_quote.py
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
