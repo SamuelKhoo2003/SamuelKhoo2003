@@ -8,7 +8,7 @@ load_dotenv()
 
 def fetch_quote(categories: List[str]) -> Tuple[str, str]:
     category = random.choice(categories)
-    api_url = f"https://api.api-ninjas.com/v1/quotes?category={category}"
+    api_url = f"https://api.api-ninjas.com/v1/quotes"
     api_key = os.getenv("API_NINJA_KEY")
     if not api_key:
         raise ValueError("API key not found. Please set the API_KEY environment variable.")

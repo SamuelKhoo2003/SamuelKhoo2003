@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest." — **Isaac Asimov**
+> "If we really wanted to be cool, and everyone in the world had Pro Tools, we could just put it up on the internet and everyone could make their own record out of it." — **Charlie Hunter**
 
 ---
 <p align="center">
