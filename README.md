@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "This is all you have. This is not a dry run. This is your life. If you want to fritter it away with your fears, then you will fritter it away, but you won't get it back later." — **Laura Schlessinger**
+> "The penalty of success is to be bored by the attentions of people who formerly snubbed you." — **Little, M.W.**
 
 ---
 <p align="center">
