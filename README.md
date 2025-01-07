@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The penalty of success is to be bored by the attentions of people who formerly snubbed you." — **Little, M.W.**
+> "As long as the opposition believes the world will stand with Ukraine's democrat reformers, they will have the leverage and the courage to establish a legitimate republic under the leadership of Viktor Yushchenko." — **Bob Schaffer**
 
 ---
 <p align="center">
