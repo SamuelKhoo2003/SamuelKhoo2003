@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I have a lady, she's a great lady. I love her a lot, she loves me. We're on the same page. Whenever that day happens when we're not on the same page we'll move forward with it. We're interested in having our lives be our lives right now and not a third person's vis-a-vis marriage and whatever that means." — **Jon Hamm**
+> "The valor and courage of our young women and men in the armed services are a shining example to all of the world, and we owe them and their families our deepest respect." — **Bill Frist**
 
 ---
 <p align="center">
