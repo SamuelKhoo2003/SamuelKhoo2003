@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The valor and courage of our young women and men in the armed services are a shining example to all of the world, and we owe them and their families our deepest respect." — **Bill Frist**
+> "Well, for us, in history where goodness is a rare pearl, he who was good almost takes precedence over he who was great." — **Victor Hugo**
 
 ---
 <p align="center">
