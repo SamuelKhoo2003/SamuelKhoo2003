@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Well, for us, in history where goodness is a rare pearl, he who was good almost takes precedence over he who was great." — **Victor Hugo**
+> "What nourishes us at home and in school is what inspires us. When we get awareness and learn about the great potential that we all human beings have, we are able to discover our leadership." — **Vicente Fox**
 
 ---
 <p align="center">
