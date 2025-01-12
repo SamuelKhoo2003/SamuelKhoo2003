@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "What nourishes us at home and in school is what inspires us. When we get awareness and learn about the great potential that we all human beings have, we are able to discover our leadership." — **Vicente Fox**
+> "The man who does not read good books has no advantage over the man who cannot read them." — **Mark Twain**
 
 ---
 <p align="center">
