@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The man who does not read good books has no advantage over the man who cannot read them." — **Mark Twain**
+> "The word 'Spanx' was funny. It made people laugh. No one ever forgot it." — **Sara Blakely**
 
 ---
 <p align="center">
