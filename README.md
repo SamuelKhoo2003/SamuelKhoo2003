@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The word 'Spanx' was funny. It made people laugh. No one ever forgot it." — **Sara Blakely**
+> "Politicians also have a love affair with the 'small business exemption.' Too much paperwork? Too heavy a burden? Not enough time? Just exempt small businesses from the rule. It sounds so pro-growth. Instead it's an admission that the costs of a regulation just can't be justified." — **John Sununu**
 
 ---
 <p align="center">
