@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Politicians also have a love affair with the 'small business exemption.' Too much paperwork? Too heavy a burden? Not enough time? Just exempt small businesses from the rule. It sounds so pro-growth. Instead it's an admission that the costs of a regulation just can't be justified." — **John Sununu**
+> "The hardest thing about being famous is that people are always nice to you." — **Robert De Niro**
 
 ---
 <p align="center">
