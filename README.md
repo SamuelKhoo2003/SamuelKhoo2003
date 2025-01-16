@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The hardest thing about being famous is that people are always nice to you." — **Robert De Niro**
+> "I was made to believe there was a plan in place for ending Donald's previous marriage. I pulled away because I wanted to allow him the time to deal with his wife." — **Marla Maples**
 
 ---
 <p align="center">
