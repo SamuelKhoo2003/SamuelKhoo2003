@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I was made to believe there was a plan in place for ending Donald's previous marriage. I pulled away because I wanted to allow him the time to deal with his wife." — **Marla Maples**
+> "We all struggle with our failure to communicate and our failure to reach beyond fear to love people." — **Mira Sorvino**
 
 ---
 <p align="center">
