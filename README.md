@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We all struggle with our failure to communicate and our failure to reach beyond fear to love people." — **Mira Sorvino**
+> "I hated the idea of a high school sweetheart. Growing up, oh my God, it just made me sick. I wanted to have a range of cool boyfriends. I wanted to travel around and date these interesting men. Then it just happened. You fall in love." — **Charlotte Arnold**
 
 ---
 <p align="center">
