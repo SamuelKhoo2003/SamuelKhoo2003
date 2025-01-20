@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "While I relish our warm months, winter forms our character and brings out our best." — **Tom Allen**
+> "The power of faith will often shine forth the most when the character is naturally weak." — **Augustus Hare**
 
 ---
 <p align="center">
