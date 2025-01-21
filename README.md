@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The power of faith will often shine forth the most when the character is naturally weak." — **Augustus Hare**
+> "I work at home, in the country, and days will go by when, except for my husband and son and the occasional UPS man, the only sentient creatures that see me are my chickens and turkeys." — **Susan Orlean**
 
 ---
 <p align="center">
