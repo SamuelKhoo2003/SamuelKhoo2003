@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I work at home, in the country, and days will go by when, except for my husband and son and the occasional UPS man, the only sentient creatures that see me are my chickens and turkeys." — **Susan Orlean**
+> "Where there is an absence of international political leadership, civil society should step in to fill the gap, providing the energy and vision needed to move the world in a new and better direction." — **Daisaku Ikeda**
 
 ---
 <p align="center">
