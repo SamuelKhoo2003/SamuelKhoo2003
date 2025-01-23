@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Where there is an absence of international political leadership, civil society should step in to fill the gap, providing the energy and vision needed to move the world in a new and better direction." — **Daisaku Ikeda**
+> "It is not God's will merely that we should be happy, but that we should make ourselves happy." — **Immanuel Kant**
 
 ---
 <p align="center">
