@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is not God's will merely that we should be happy, but that we should make ourselves happy." — **Immanuel Kant**
+> "It is a mistake to suppose that men succeed through success they much oftener succeed through failures. Precept, study, advice, and example could never have taught them so well as failure has done." — **Samuel Smiles**
 
 ---
 <p align="center">
