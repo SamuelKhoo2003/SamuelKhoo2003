@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is a mistake to suppose that men succeed through success they much oftener succeed through failures. Precept, study, advice, and example could never have taught them so well as failure has done." — **Samuel Smiles**
+> "If you're talking to an architect, he can look at a blank piece of paper, and once the initial design is there, the formula kicks in. Each room should have something unique and different about it - much the same way that in a song, every eight bars or so, a new piece of information should be introduced." — **Ryan Tedder**
 
 ---
 <p align="center">
