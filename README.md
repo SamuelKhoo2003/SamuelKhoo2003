@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you're talking to an architect, he can look at a blank piece of paper, and once the initial design is there, the formula kicks in. Each room should have something unique and different about it - much the same way that in a song, every eight bars or so, a new piece of information should be introduced." — **Ryan Tedder**
+> "I know that if I'd had to go and take an exam for acting, I wouldn't have got anywhere. You don't take exams for acting, you take your courage." — **Dame Edith Evans**
 
 ---
 <p align="center">
