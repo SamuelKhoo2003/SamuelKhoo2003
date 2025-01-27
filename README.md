@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I know that if I'd had to go and take an exam for acting, I wouldn't have got anywhere. You don't take exams for acting, you take your courage." — **Dame Edith Evans**
+> "I think that there is nothing, not even crime, more opposed to poetry, to philosophy, ay, to life itself than this incessant business." — **Henry David Thoreau**
 
 ---
 <p align="center">
