@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think that there is nothing, not even crime, more opposed to poetry, to philosophy, ay, to life itself than this incessant business." — **Henry David Thoreau**
+> "My encounters with racism are sort of second-hand situations where I might be standing around with a group of white friends and someone makes a comment that they wouldn't make at my family reunion." — **Wentworth Miller**
 
 ---
 <p align="center">
