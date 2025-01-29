@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My encounters with racism are sort of second-hand situations where I might be standing around with a group of white friends and someone makes a comment that they wouldn't make at my family reunion." — **Wentworth Miller**
+> "When I found out I got this job, I cried, of course - I'm a girly-girl - and then I called my dad, and he cried, too. On so many levels, this is a thrill for me." — **Lisa Guerrero**
 
 ---
 <p align="center">
