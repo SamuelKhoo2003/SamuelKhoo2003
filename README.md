@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We tried to have diplomas without learning, we tried to have jobs without work, we tried to have houses without savings, we tried to have government without responsibility." — **Newt Gingrich**
+> "I think marriage is ghastly." — **Rupert Everett**
 
 ---
 <p align="center">
