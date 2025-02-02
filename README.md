@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "American dreams are strongest in the hearts of those who have seen America only in their dreams." — **Pico Iyer**
+> "Imagine all the people living life in peace. You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the world will be as one." — **John Lennon**
 
 ---
 <p align="center">
