@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Imagine all the people living life in peace. You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the world will be as one." — **John Lennon**
+> "You can involve yourself in electronics, computers, puzzles... there's a lot of creativity and brain working. There's a lot to model trains that people don't realize." — **Gary Coleman**
 
 ---
 <p align="center">
