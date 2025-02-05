@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Any authentic work of art must start an argument between the artist and his audience." — **Rebecca West**
+> "Looking back, I think I was always musical. My dad was very musical, and I think my mom was musical." — **Paul McCartney**
 
 ---
 <p align="center">
