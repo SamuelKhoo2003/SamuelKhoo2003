@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Looking back, I think I was always musical. My dad was very musical, and I think my mom was musical." — **Paul McCartney**
+> "Mind unemployed is mind unenjoyed." — **Bovee, Christian Nestell**
 
 ---
 <p align="center">
