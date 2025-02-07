@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Mind unemployed is mind unenjoyed." — **Bovee, Christian Nestell**
+> "Unfortunately we don't have all the bits and pieces on the car that we had hoped to have by this stage so we've got to make as good a job as we can with what we have and we feel we are doing well with that at the moment." — **David Leslie**
 
 ---
 <p align="center">
