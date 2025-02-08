@@ -25,7 +25,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Unfortunately we don't have all the bits and pieces on the car that we had hoped to have by this stage so we've got to make as good a job as we can with what we have and we feel we are doing well with that at the moment." — **David Leslie**
+> "Twilight' is such an amazing project, and I think it opened up doors for all of us cast members.;Kellan Lutz;amazing
+2293;I finish so many books it's amazing. I'm also doing Rosetta Stone, learning some French.;Kellan Lutz;amazing
+2294;I was blessed, because I come from a family where they knock you down before you float away. I have a lot of brothers who just make sure we have our feet on the ground, and my mom is a rock star. She is an amazing mother.;Kellan Lutz;amazing
+2295;When we're on set, we kind of joke around, and when we're rehearsing, we change up the scenes and make each other laugh. We lighten up the mood. The blooper reel is going to be amazing on 'New Moon." — **Kellan Lutz**
 
 ---
 <p align="center">
