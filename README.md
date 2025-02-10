@@ -25,7 +25,10 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The fact that the Kardashians could be more popular than a show like 'Mad Men' is disgusting. It's a super disgusting part of our culture, but I still find it funny to make a joke about it." — **Jonah Hill**
+> "Keep your head down at school.' Those are sage words from my dad. They kept me in check for years.;Dhani Harrison;dad
+12754;Playing music has always felt very natural. You know, you do try to do other things, and you do learn lessons that way, but, eventually - well... if your dad is a plumber, you become a plumber. It's the family business, and I felt like I was taking over the family business.;Dhani Harrison;dad
+12755;I never really saw my dad around when the Iron Maiden and the AC/DC were playing. But he knew what I was doing. I was just absorbing music. So he just kind of left me to my own devices.;Dhani Harrison;dad
+12756;I did Albert Hall, I got to play the Hall of Fame with Prince. So I've done that kind of stuff for ages. It wasn't until after we finished working on Brainwash, my dad's album after he died, then it was like 'That phase is over in my life now, now we can get on with our music, with our band." — **Dhani Harrison**
 2293;I finish so many books it's amazing. I'm also doing Rosetta Stone, learning some French.;Kellan Lutz;amazing
 2294;I was blessed, because I come from a family where they knock you down before you float away. I have a lot of brothers who just make sure we have our feet on the ground, and my mom is a rock star. She is an amazing mother.;Kellan Lutz;amazing
 2295;When we're on set, we kind of joke around, and when we're rehearsing, we change up the scenes and make each other laugh. We lighten up the mood. The blooper reel is going to be amazing on 'New Moon." — **Kellan Lutz**
