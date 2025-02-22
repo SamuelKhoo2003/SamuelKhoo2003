@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I want people to think of me as a nice person. I really am so blessed. All of this has been a great experience and I thank the American public so much for putting me in this position. I appreciate every second of it." — **Carrie Underwood**
+> "I've talked to some drummers who seem to have a very hard time staying in shape on the road, including some drummers touring with high-profile acts that don't have to live on fast food every night." — **Matt Cameron**
 12754;Playing music has always felt very natural. You know, you do try to do other things, and you do learn lessons that way, but, eventually - well... if your dad is a plumber, you become a plumber. It's the family business, and I felt like I was taking over the family business.;Dhani Harrison;dad
 12755;I never really saw my dad around when the Iron Maiden and the AC/DC were playing. But he knew what I was doing. I was just absorbing music. So he just kind of left me to my own devices.;Dhani Harrison;dad
 12756;I did Albert Hall, I got to play the Hall of Fame with Prince. So I've done that kind of stuff for ages. It wasn't until after we finished working on Brainwash, my dad's album after he died, then it was like 'That phase is over in my life now, now we can get on with our music, with our band." — **Dhani Harrison**
