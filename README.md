@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Only those who have learned the power of sincere and selfless contribution experience life's deepest joy: true fulfillment." — **Tony Robbins**
+> "All Americans value the freedom of speech and the freedom of the press, and I believe this is essential for our continued way of life. But with this freedom comes responsibility. That responsibility has been abdicated here by some in the media and some in the government." — **Steven Hatfill**
 12754;Playing music has always felt very natural. You know, you do try to do other things, and you do learn lessons that way, but, eventually - well... if your dad is a plumber, you become a plumber. It's the family business, and I felt like I was taking over the family business.;Dhani Harrison;dad
 12755;I never really saw my dad around when the Iron Maiden and the AC/DC were playing. But he knew what I was doing. I was just absorbing music. So he just kind of left me to my own devices.;Dhani Harrison;dad
 12756;I did Albert Hall, I got to play the Hall of Fame with Prince. So I've done that kind of stuff for ages. It wasn't until after we finished working on Brainwash, my dad's album after he died, then it was like 'That phase is over in my life now, now we can get on with our music, with our band." — **Dhani Harrison**
