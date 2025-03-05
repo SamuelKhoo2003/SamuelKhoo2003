@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
->
+> "I think marriage is ghastly." — **Rupert Everett**
 
 ---
 <p align="center">
