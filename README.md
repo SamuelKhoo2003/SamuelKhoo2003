@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think marriage is ghastly." — **Rupert Everett**
+> "It's enough to indulge and to be selfish but true happiness is really when you start giving back." — **Adrian Grenier**
 
 ---
 <p align="center">
