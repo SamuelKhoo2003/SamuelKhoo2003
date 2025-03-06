@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's enough to indulge and to be selfish but true happiness is really when you start giving back." — **Adrian Grenier**
+> "My mom took me to a Dolly Parton concert when I was 3." — **Kat Dennings**
 
 ---
 <p align="center">
