@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My mom took me to a Dolly Parton concert when I was 3." — **Kat Dennings**
+> "Life is too short to spend hoping that the perfectly arched eyebrow or hottest new lip shade will mask an ugly heart." — **Kevyn Aucoin**
 
 ---
 <p align="center">
