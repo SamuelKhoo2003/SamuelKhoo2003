@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Life is too short to spend hoping that the perfectly arched eyebrow or hottest new lip shade will mask an ugly heart." — **Kevyn Aucoin**
+> "There is no principle worth the name if it is not wholly good." — **Mahatma Gandhi**
 
 ---
 <p align="center">
