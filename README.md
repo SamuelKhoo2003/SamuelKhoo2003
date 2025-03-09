@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There is no principle worth the name if it is not wholly good." — **Mahatma Gandhi**
+> "Local and regional food systems are about opportunity." — **Tom Vilsack**
 
 ---
 <p align="center">
