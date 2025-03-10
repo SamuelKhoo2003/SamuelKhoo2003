@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Local and regional food systems are about opportunity." — **Tom Vilsack**
+> "There are a lot of female artists my age around at the moment, but they're all American and blonde and blue-eyed and smiley. I'm totally the opposite of that. I want to show a bit more attitude and I have an opinion." — **Samantha Mumba**
 
 ---
 <p align="center">
