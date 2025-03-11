@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There are a lot of female artists my age around at the moment, but they're all American and blonde and blue-eyed and smiley. I'm totally the opposite of that. I want to show a bit more attitude and I have an opinion." — **Samantha Mumba**
+> "Leadership is solving problems. The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help or concluded you do not care. Either case is a failure of leadership." — **Colin Powell**
 
 ---
 <p align="center">
