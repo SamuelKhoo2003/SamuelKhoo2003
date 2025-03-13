@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I love vampire movies. I think they are sexy." — **Marguerite Moreau**
+> "It has always amazed me how tax cuts don't work until they take effect. Mr. Obama's experience with deferred tax rate increases will be the reverse. The economy will collapse in 2011." — **Arthur Laffer**
 
 ---
 <p align="center">
