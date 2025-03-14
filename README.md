@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It has always amazed me how tax cuts don't work until they take effect. Mr. Obama's experience with deferred tax rate increases will be the reverse. The economy will collapse in 2011." — **Arthur Laffer**
+> "I don't know if I'm built for marriage." — **Jamie Foxx**
 
 ---
 <p align="center">
