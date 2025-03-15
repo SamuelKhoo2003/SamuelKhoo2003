@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I don't know if I'm built for marriage." — **Jamie Foxx**
+> "Sooner or later, those who win are those who think they can." — **Paul Tournier**
 
 ---
 <p align="center">
