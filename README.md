@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Sooner or later, those who win are those who think they can." — **Paul Tournier**
+> "It's a funny old world." — **Margaret Thatcher**
 
 ---
 <p align="center">
