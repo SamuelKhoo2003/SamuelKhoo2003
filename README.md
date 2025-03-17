@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's a funny old world." — **Margaret Thatcher**
+> "The herd instinct among forecasters makes sheep look like independent thinkers." — **Edgar R. Fiedler**
 
 ---
 <p align="center">
