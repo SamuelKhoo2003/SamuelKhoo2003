@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The herd instinct among forecasters makes sheep look like independent thinkers." — **Edgar R. Fiedler**
+> "It only looks like I get to eat a lot of food on TV. I really just get the one bite and the crew and guests eat everything else." — **Rachael Ray**
 
 ---
 <p align="center">
