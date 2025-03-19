@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It only looks like I get to eat a lot of food on TV. I really just get the one bite and the crew and guests eat everything else." — **Rachael Ray**
+> "Although my art work was heavily informed by my design work on a formal and visual level, as regards meaning and content the two practices parted ways." — **Barbara Kruger**
 
 ---
 <p align="center">
