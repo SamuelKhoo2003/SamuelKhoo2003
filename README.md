@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Although my art work was heavily informed by my design work on a formal and visual level, as regards meaning and content the two practices parted ways." — **Barbara Kruger**
+> "I recently spent quite a bit of time in Sheffield, England, which is where I'm from. I wouldn't move back there, but it's funny when you spend a bit of time in the place where you were brought up. You kind of realize how that place has had quite a big effect on you or made you a certain way." — **Jarvis Cocker**
 
 ---
 <p align="center">
