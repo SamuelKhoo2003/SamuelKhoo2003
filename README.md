@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I recently spent quite a bit of time in Sheffield, England, which is where I'm from. I wouldn't move back there, but it's funny when you spend a bit of time in the place where you were brought up. You kind of realize how that place has had quite a big effect on you or made you a certain way." — **Jarvis Cocker**
+> "The future of Indo-Pak cricket will depend on how the peace process goes." — **Imran Khan**
 
 ---
 <p align="center">
