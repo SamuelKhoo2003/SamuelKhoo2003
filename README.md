@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The future of Indo-Pak cricket will depend on how the peace process goes." — **Imran Khan**
+> "He was what I often think is a dangerous thing for a statesman to be - a student of history and like most of those who study history, he learned from the mistakes of the past how to make new ones." — **A. J. P. Taylor**
 
 ---
 <p align="center">
