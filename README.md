@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "He was what I often think is a dangerous thing for a statesman to be - a student of history and like most of those who study history, he learned from the mistakes of the past how to make new ones." — **A. J. P. Taylor**
+> "I actually don't know anyone who wants to be famous for fame's sake, at least not anyone I respect. But you need to have a certain amount of power in order to be able to do what you want." — **Michael Ian Black**
 
 ---
 <p align="center">
