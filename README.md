@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I actually don't know anyone who wants to be famous for fame's sake, at least not anyone I respect. But you need to have a certain amount of power in order to be able to do what you want." — **Michael Ian Black**
+> "If man knew how women pass the time when they are alone, they'd never marry." — **O. Henry**
 
 ---
 <p align="center">
