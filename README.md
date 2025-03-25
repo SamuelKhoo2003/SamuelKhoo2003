@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If man knew how women pass the time when they are alone, they'd never marry." — **O. Henry**
+> "How can a doctor judge a woman's sanity by merely bidding her good morning and refusing to hear her pleas for release? Even the sick ones know it is useless to say anything, for the answer will be that it is their imagination." — **Nellie Bly**
 
 ---
 <p align="center">
