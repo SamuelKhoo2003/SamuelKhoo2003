@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Children are the anchors of a mother's life." — **Sophocles**
+> "If you use your mind to study reality, you won't understand either your mind or reality. If you study reality without using your mind, you'll understand both." — **Bodhidharma**
 
 ---
 <p align="center">
