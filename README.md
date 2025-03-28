@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you use your mind to study reality, you won't understand either your mind or reality. If you study reality without using your mind, you'll understand both." — **Bodhidharma**
+> "Since Castro took power, the Cuban people have been denied basic human freedoms. No freedom of religion, no freedom of the press, no political freedom. And the regime uses brutality and violence to suppress these freedoms and impose its will." — **Mitt Romney**
 
 ---
 <p align="center">
