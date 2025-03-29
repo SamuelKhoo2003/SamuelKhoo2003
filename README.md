@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Since Castro took power, the Cuban people have been denied basic human freedoms. No freedom of religion, no freedom of the press, no political freedom. And the regime uses brutality and violence to suppress these freedoms and impose its will." — **Mitt Romney**
+> "I try to give to the poor people for love what the rich could get for money. No, I wouldn't touch a leper for a thousand pounds yet I willingly cure him for the love of God." — **Mother Teresa**
 
 ---
 <p align="center">
