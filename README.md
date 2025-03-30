@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I try to give to the poor people for love what the rich could get for money. No, I wouldn't touch a leper for a thousand pounds yet I willingly cure him for the love of God." — **Mother Teresa**
+> "Fame and power are the objects of all men. Even their partial fruition is gained by very few and that, too, at the expense of social pleasure, health, conscience, life." — **Benjamin Disraeli**
 
 ---
 <p align="center">
