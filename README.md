@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I hope to refine music, study it, try to find some area that I can unlock. I don't quite know how to explain it but it's there. These can't be the only notes in the world, there's got to be other notes some place, in some dimension, between the cracks on the piano keys." — **Marvin Gaye**
+> "Grab the broom of anger and drive off the beast of fear." — **Zora Neale Hurston**
 
 ---
 <p align="center">
