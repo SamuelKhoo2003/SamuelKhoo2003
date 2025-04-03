@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's the game of life. Do I win or do I lose? One day they're gonna shut the game down. I gotta have as much fun and go around the board as many times as I can before it's my turn to leave." — **Tupac Shakur**
+> "All the miseries and evils which men suffer from vice, crime, ambition, injustice, oppression, slavery and war, proceed from their despising or neglecting the precepts contained in the Bible." — **Noah Webster**
 
 ---
 <p align="center">
