@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "All the miseries and evils which men suffer from vice, crime, ambition, injustice, oppression, slavery and war, proceed from their despising or neglecting the precepts contained in the Bible." — **Noah Webster**
+> "Apply yourself. Get all the education you can, but then, by God, do something. Don't just stand there, make it happen." — **Lee Iacocca**
 
 ---
 <p align="center">
