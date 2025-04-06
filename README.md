@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I taped my first series for PBS in 1982 at WJCT-TV in Jacksonville, Florida. The show, called 'Everyday Cooking with Jacques Pepin,' was about saving time and money in the kitchen - and it was a celebration of simple and unpretentious food." — **Jacques Pepin**
+> "The day after the prison was transferred to the military intelligence command, they had an entire battalion - 1,200, 1,500 soldiers - arrive at Abu Ghraib just for force protection alone." — **Janis Karpinski**
 
 ---
 <p align="center">
