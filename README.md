@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The day after the prison was transferred to the military intelligence command, they had an entire battalion - 1,200, 1,500 soldiers - arrive at Abu Ghraib just for force protection alone." — **Janis Karpinski**
+> "Part of Obama's persona is self-reliance. He's calm he's cool he's self-possessed. In many ways, he has tried to define himself in opposition to Clinton's sometimes needy, often undisciplined, emotionalism." — **Dee Dee Myers**
 
 ---
 <p align="center">
