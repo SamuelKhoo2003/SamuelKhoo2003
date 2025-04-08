@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Part of Obama's persona is self-reliance. He's calm he's cool he's self-possessed. In many ways, he has tried to define himself in opposition to Clinton's sometimes needy, often undisciplined, emotionalism." — **Dee Dee Myers**
+> "The weak can never forgive. Forgiveness is the attribute of the strong." — **Mahatma Gandhi**
 
 ---
 <p align="center">
