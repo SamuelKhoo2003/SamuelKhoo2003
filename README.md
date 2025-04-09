@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The weak can never forgive. Forgiveness is the attribute of the strong." — **Mahatma Gandhi**
+> "Yeah, I'm a thrill seeker, but crikey, education's the most important thing." — **Steve Irwin**
 
 ---
 <p align="center">
