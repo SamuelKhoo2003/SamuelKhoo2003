@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Yeah, I'm a thrill seeker, but crikey, education's the most important thing." — **Steve Irwin**
+> "The secret of happiness is this: let your interests be as wide as possible, and let your reactions to the things and persons that interest you be as far as possible friendly rather than hostile." — **Bertrand Russell**
 
 ---
 <p align="center">
