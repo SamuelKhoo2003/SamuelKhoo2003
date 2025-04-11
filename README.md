@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The secret of happiness is this: let your interests be as wide as possible, and let your reactions to the things and persons that interest you be as far as possible friendly rather than hostile." — **Bertrand Russell**
+> "I feel sorry for people who don't drink. They wake up in the morning and that's the best they're going to feel all day." — **Dean Martin**
 
 ---
 <p align="center">
