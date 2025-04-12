@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I feel sorry for people who don't drink. They wake up in the morning and that's the best they're going to feel all day." — **Dean Martin**
+> "If you're under 26, you can stay on your parents' plan. You can go back to school or get extra training without fear of a health catastrophe bankrupting your family. Over three million previously uninsured young adults are now on their parents' plans." — **Kathleen Sebelius**
 
 ---
 <p align="center">
