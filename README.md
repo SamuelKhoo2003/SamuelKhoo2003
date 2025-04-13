@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you're under 26, you can stay on your parents' plan. You can go back to school or get extra training without fear of a health catastrophe bankrupting your family. Over three million previously uninsured young adults are now on their parents' plans." — **Kathleen Sebelius**
+> "The question is what will Mitt Romney do as president if his policy is simply to be hands off and let the government be made so small it can be drowned in a bathtub. In the 21st century global economy, no state alone has the ability to compete against China." — **Jennifer Granholm**
 
 ---
 <p align="center">
