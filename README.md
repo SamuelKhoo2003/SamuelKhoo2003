@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The question is what will Mitt Romney do as president if his policy is simply to be hands off and let the government be made so small it can be drowned in a bathtub. In the 21st century global economy, no state alone has the ability to compete against China." — **Jennifer Granholm**
+> "I think the Iraqi people have shown extraordinary patience and courage in the last few months. They have really put a political system on the way to success, to a real democracy here." — **Paul Bremer**
 
 ---
 <p align="center">
