@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think the Iraqi people have shown extraordinary patience and courage in the last few months. They have really put a political system on the way to success, to a real democracy here." — **Paul Bremer**
+> "Personally, I need a high level of physical fitness in order to feel at ease." — **Jurgen Klinsmann**
 
 ---
 <p align="center">
