@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Personally, I need a high level of physical fitness in order to feel at ease." — **Jurgen Klinsmann**
+> "People spend time worrying about things they think they have to have and lose perception of what they do have. You can have all the money and material things you want. If you aren't here to enjoy them, what good do they do?" — **Eric Davis**
 
 ---
 <p align="center">
