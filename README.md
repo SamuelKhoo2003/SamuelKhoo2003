@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "People spend time worrying about things they think they have to have and lose perception of what they do have. You can have all the money and material things you want. If you aren't here to enjoy them, what good do they do?" — **Eric Davis**
+> "Certainly there are things in life that money can't buy, but it's very funny - Did you ever try buying then without money?" — **Ogden Nash**
 
 ---
 <p align="center">
