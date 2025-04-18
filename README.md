@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Certainly there are things in life that money can't buy, but it's very funny - Did you ever try buying then without money?" — **Ogden Nash**
+> "He's a good tough producer, yes. But I don't think that he's unreasonable unless he feels threatened. And when somebody's in your home, I think everybody in the home gets threatened." — **Liza Minnelli**
 
 ---
 <p align="center">
