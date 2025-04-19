@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "He's a good tough producer, yes. But I don't think that he's unreasonable unless he feels threatened. And when somebody's in your home, I think everybody in the home gets threatened." — **Liza Minnelli**
+> "If women are supposed to be less rational and more emotional at the beginning of our menstrual cycle when the female hormone is at its lowest level, then why isn't it logical to say that, in those few days, women behave the most like the way men behave all month long?" — **Gloria Steinem**
 
 ---
 <p align="center">
