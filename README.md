@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "An effort made for the happiness of others lifts above ourselves." — **Lydia M. Child**
+> "We do not really feel grateful toward those who make our dreams come true they ruin our dreams." — **Eric Hoffer**
 
 ---
 <p align="center">
