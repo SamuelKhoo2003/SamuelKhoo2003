@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We do not really feel grateful toward those who make our dreams come true they ruin our dreams." — **Eric Hoffer**
+> "God has given you one face, and you make yourself another." — **William Shakespeare**
 
 ---
 <p align="center">
