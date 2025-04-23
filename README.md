@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "God has given you one face, and you make yourself another." — **William Shakespeare**
+> "Once a disease has entered the body, all parts which are healthy must fight it: not one alone, but all. Because a disease might mean their common death. Nature knows this and Nature attacks the disease with whatever help she can muster." — **Paracelsus**
 
 ---
 <p align="center">
