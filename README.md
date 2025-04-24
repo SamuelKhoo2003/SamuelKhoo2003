@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Once a disease has entered the body, all parts which are healthy must fight it: not one alone, but all. Because a disease might mean their common death. Nature knows this and Nature attacks the disease with whatever help she can muster." — **Paracelsus**
+> "The union is much more than me, and when you think the union is you and it's not about who you represent, I think you've sort of lost your morals and focus and the purpose of your leadership." — **Andy Stern**
 
 ---
 <p align="center">
