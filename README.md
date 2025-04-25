@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The union is much more than me, and when you think the union is you and it's not about who you represent, I think you've sort of lost your morals and focus and the purpose of your leadership." — **Andy Stern**
+> "I always believe that to be the best, you have to smell like the best, dress like the best, act like the best. When you throw your trash in the garbage can, it has to be better than anybody else who ever threw trash in the garbage can." — **Lil Wayne**
 
 ---
 <p align="center">
