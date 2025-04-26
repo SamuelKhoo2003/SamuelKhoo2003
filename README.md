@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I always believe that to be the best, you have to smell like the best, dress like the best, act like the best. When you throw your trash in the garbage can, it has to be better than anybody else who ever threw trash in the garbage can." — **Lil Wayne**
+> "When I was young my Father used to tell me that the two most worthwhile pursuits in life were the pursuit of truth and of beauty and I believe that Alfred Nobel must have felt much the same when he gave these prizes for literature and the sciences." — **Frederick Sanger**
 
 ---
 <p align="center">
