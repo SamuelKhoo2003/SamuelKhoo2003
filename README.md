@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Tragedy in life normally comes with betrayal and compromise, and trading on your integrity and not having dignity in life. That's really where failure comes." — **Tom Cochrane**
+> "I have offended God and mankind because my work didn't reach the quality it should have." — **Leonardo da Vinci**
 
 ---
 <p align="center">
