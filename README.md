@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I have offended God and mankind because my work didn't reach the quality it should have." — **Leonardo da Vinci**
+> "Most of the things worth doing in the world had been declared impossible before they were done." — **Louis D. Brandeis**
 
 ---
 <p align="center">
