@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Most of the things worth doing in the world had been declared impossible before they were done." — **Louis D. Brandeis**
+> "Sometimes movie-making happens like clockwork other times, like a car accident." — **Eric Roberts**
 
 ---
 <p align="center">
