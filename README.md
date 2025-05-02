@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Sometimes movie-making happens like clockwork other times, like a car accident." — **Eric Roberts**
+> "You know, in my hometown of Hope, Arkansas, the three sacred heroes were Jesus, Elvis, and FDR, not necessarily in that order." — **Mike Huckabee**
 
 ---
 <p align="center">
