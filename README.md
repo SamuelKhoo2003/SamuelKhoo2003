@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You know, in my hometown of Hope, Arkansas, the three sacred heroes were Jesus, Elvis, and FDR, not necessarily in that order." — **Mike Huckabee**
+> "I'm trying to cut down a little on eating, on sodium, keep my blood pressure down, which is tough. Because I love food! I do, but it's unfair how everything that's bad for you tastes so good, and all the good stuff, veggies and green things, doesn't match up." — **Ice Cube**
 
 ---
 <p align="center">
