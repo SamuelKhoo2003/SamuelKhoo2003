@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm trying to cut down a little on eating, on sodium, keep my blood pressure down, which is tough. Because I love food! I do, but it's unfair how everything that's bad for you tastes so good, and all the good stuff, veggies and green things, doesn't match up." — **Ice Cube**
+> "To keep your marriage brimming, With love in the loving cup, Whenever you're wrong, admit it Whenever you're right, shut up." — **Ogden Nash**
 
 ---
 <p align="center">
