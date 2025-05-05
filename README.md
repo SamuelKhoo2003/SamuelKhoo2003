@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "To keep your marriage brimming, With love in the loving cup, Whenever you're wrong, admit it Whenever you're right, shut up." — **Ogden Nash**
+> "Patriotism is voluntary. It is a feeling of loyalty and allegiance that is the result of knowledge and belief. A patriot shows their their patriotism through their actions, by their choice." — **Jesse Ventura**
 
 ---
 <p align="center">
