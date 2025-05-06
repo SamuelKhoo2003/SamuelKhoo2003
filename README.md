@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Patriotism is voluntary. It is a feeling of loyalty and allegiance that is the result of knowledge and belief. A patriot shows their their patriotism through their actions, by their choice." — **Jesse Ventura**
+> "We like to think about how smart we are. But I think talent as a writer is hard-wired in, it's all there, at least the basic elements of it. You can't change it any more than you can choose whether to be right handed or left handed." — **Stephen King**
 
 ---
 <p align="center">
