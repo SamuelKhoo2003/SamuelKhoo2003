@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We like to think about how smart we are. But I think talent as a writer is hard-wired in, it's all there, at least the basic elements of it. You can't change it any more than you can choose whether to be right handed or left handed." — **Stephen King**
+> "Dad was a chemistry professor at Saint Olaf College in Minnesota, then Oxford College in Minnesota, and a very active member of the American Chemical Society education committee, where he sat on the committee with Linus Pauling, who had authored a very phenomenally important textbook of chemistry." — **Peter Agre**
 
 ---
 <p align="center">
