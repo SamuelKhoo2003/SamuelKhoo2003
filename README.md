@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Dad was a chemistry professor at Saint Olaf College in Minnesota, then Oxford College in Minnesota, and a very active member of the American Chemical Society education committee, where he sat on the committee with Linus Pauling, who had authored a very phenomenally important textbook of chemistry." — **Peter Agre**
+> "The Internet is the most important single development in the history of human communication since the invention of call waiting." — **Dave Barry**
 
 ---
 <p align="center">
