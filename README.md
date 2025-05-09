@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The Internet is the most important single development in the history of human communication since the invention of call waiting." — **Dave Barry**
+> "If Obama wanted to make radical changes to America's health long-term, all he has to do is treble the price of sugar and salt." — **Jamie Oliver**
 
 ---
 <p align="center">
