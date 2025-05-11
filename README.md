@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "For all my years in public life, I have believed that America must sail toward the shores of liberty and justice for all. There is no end to that journey, only the next great voyage. We know the future will outlast all of us, but I believe that all of us will live on in the future we make." — **Edward Kennedy**
+> "Ours is essentially a tragic age, so we refuse to take it tragically." — **David Herbert Lawrence**
 
 ---
 <p align="center">
