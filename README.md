@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Ours is essentially a tragic age, so we refuse to take it tragically." — **David Herbert Lawrence**
+> "I like the idea of being alone. I like the idea of often being alone in all aspects of my life. I like to feel lonely. I like to need things." — **Robert Plant**
 
 ---
 <p align="center">
