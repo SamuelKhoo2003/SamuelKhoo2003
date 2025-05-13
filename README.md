@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I like the idea of being alone. I like the idea of often being alone in all aspects of my life. I like to feel lonely. I like to need things." — **Robert Plant**
+> "Here you do have forests, where pigs could be raised by letting them root about in the forests for a good part of the year. Therefore, you have a different attitude toward them compared with what continues to exist in the Middle East." — **Marvin Harris**
 
 ---
 <p align="center">
