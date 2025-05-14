@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Here you do have forests, where pigs could be raised by letting them root about in the forests for a good part of the year. Therefore, you have a different attitude toward them compared with what continues to exist in the Middle East." — **Marvin Harris**
+> "But if somebody dies, if something happens to you, there is a normal process of depression, it is part of being human, and some people view it as a learning experience etc." — **Bob Geldof**
 
 ---
 <p align="center">
