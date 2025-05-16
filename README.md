@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Men love to wonder, and that is the seed of science." — **Ralph Waldo Emerson**
+> "I don't know why I don't watch a lot of movies I can barely keep up with the things my friends are in. There isn't enough time in life." — **Meryl Streep**
 
 ---
 <p align="center">
