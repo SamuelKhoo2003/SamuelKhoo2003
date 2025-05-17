@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I don't know why I don't watch a lot of movies I can barely keep up with the things my friends are in. There isn't enough time in life." — **Meryl Streep**
+> "The fact is, if our primary legislative goals are to repeal and replace the health spending bill to end the bailouts cut spending and shrink the size and scope of government, the only way to do all these things it is to put someone in the White House who won't veto any of these things." — **Mitch McConnell**
 
 ---
 <p align="center">
