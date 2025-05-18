@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The fact is, if our primary legislative goals are to repeal and replace the health spending bill to end the bailouts cut spending and shrink the size and scope of government, the only way to do all these things it is to put someone in the White House who won't veto any of these things." — **Mitch McConnell**
+> "Writing about music is like dancing about architecture." — **Martin Mull**
 
 ---
 <p align="center">
