@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Writing about music is like dancing about architecture." — **Martin Mull**
+> "I have stepped off the relationship scene to come to terms with myself. I have spent most of my adult life being 'someone's girlfriend', and now I am happy being single." — **Penelope Cruz**
 
 ---
 <p align="center">
