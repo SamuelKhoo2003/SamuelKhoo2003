@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I have stepped off the relationship scene to come to terms with myself. I have spent most of my adult life being 'someone's girlfriend', and now I am happy being single." — **Penelope Cruz**
+> "Courage is the ladder on which all the other virtues mount." — **Clare Boothe Luce**
 
 ---
 <p align="center">
