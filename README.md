@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Courage is the ladder on which all the other virtues mount." — **Clare Boothe Luce**
+> "I love Mickey Mouse more than any woman I have ever known." — **Walt Disney**
 
 ---
 <p align="center">
