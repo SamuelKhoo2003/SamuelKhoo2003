@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I love Mickey Mouse more than any woman I have ever known." — **Walt Disney**
+> "If the probability of success is not almost one, then it is damn near zero." — **Ellis, David**
 
 ---
 <p align="center">
