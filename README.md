@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If the probability of success is not almost one, then it is damn near zero." — **Ellis, David**
+> "He whom the gods love dies young, while he is in health, has his senses and his judgments sound." — **Plautus**
 
 ---
 <p align="center">
