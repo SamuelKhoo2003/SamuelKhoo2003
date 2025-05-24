@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "He whom the gods love dies young, while he is in health, has his senses and his judgments sound." — **Plautus**
+> "There is something great and terrible about suicide." — **Honore de Balzac**
 
 ---
 <p align="center">
