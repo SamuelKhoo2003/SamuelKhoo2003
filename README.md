@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There is something great and terrible about suicide." — **Honore de Balzac**
+> "Because primarily of the power of the Internet, people of modest means can band together and amass vast sums of money that can change the world for some public good if they all agree." — **William J. Clinton**
 
 ---
 <p align="center">
