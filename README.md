@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "By adopting the control strategy, the nation's environmental program has created a built-in antagonism between environmental quality and economic growth." — **Barry Commoner**
+> "No, I never had any dreams. The process of art is a dream in itself. The artist just doesn't... you work out something. It's yours. You don't have to go to sleep to do that. You do that on the canvas." — **LeRoy Neiman**
 
 ---
 <p align="center">
