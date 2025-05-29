@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Anger begins with folly, and ends with repentance." — **Beverly Sills**
+> "That disturbs people when they know they didn't have the guts or integrity to stick to their dreams." — **Sandra Bernhard**
 
 ---
 <p align="center">
