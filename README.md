@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "That disturbs people when they know they didn't have the guts or integrity to stick to their dreams." — **Sandra Bernhard**
+> "The importance of human life should be universally respected - and that refers to children before they are born and after. All children have the right to be brought up in a loving two-parent family where the notion of divorce is not even possible." — **Christopher Monckton**
 
 ---
 <p align="center">
