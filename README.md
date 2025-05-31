@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The importance of human life should be universally respected - and that refers to children before they are born and after. All children have the right to be brought up in a loving two-parent family where the notion of divorce is not even possible." — **Christopher Monckton**
+> "It's a fundamental, social attitude that the 1% supports symphonies and operas and doesn't support Johnny learning to program hip-hop beats. When I put it like that, it sounds like, 'Well, yeah,' but you start to think, 'Why not, though?' What makes one more valuable than another?" — **David Byrne**
 
 ---
 <p align="center">
