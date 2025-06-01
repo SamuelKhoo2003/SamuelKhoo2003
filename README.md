@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's a fundamental, social attitude that the 1% supports symphonies and operas and doesn't support Johnny learning to program hip-hop beats. When I put it like that, it sounds like, 'Well, yeah,' but you start to think, 'Why not, though?' What makes one more valuable than another?" — **David Byrne**
+> "To me, photography is the simultaneous recognition, in a fraction of a second, of the significance of an event." — **Henri Cartier-Bresson**
 
 ---
 <p align="center">
