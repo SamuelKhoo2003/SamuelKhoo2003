@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "To me, photography is the simultaneous recognition, in a fraction of a second, of the significance of an event." — **Henri Cartier-Bresson**
+> "Advances in science and medical research and public health policies have meant that life expectancy for Australians is one of the highest in the world." — **Julie Bishop**
 
 ---
 <p align="center">
