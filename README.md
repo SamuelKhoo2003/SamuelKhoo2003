@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Advances in science and medical research and public health policies have meant that life expectancy for Australians is one of the highest in the world." — **Julie Bishop**
+> "Walk a mile in my shoes is good advice. Our children will learn to respect others if they are used to imagining themselves in another's place." — **Neil Kurshan**
 
 ---
 <p align="center">
