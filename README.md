@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Walk a mile in my shoes is good advice. Our children will learn to respect others if they are used to imagining themselves in another's place." — **Neil Kurshan**
+> "Now and then it's good to pause in our pursuit of happiness and just be happy." — **Guillaume Apollinaire**
 
 ---
 <p align="center">
