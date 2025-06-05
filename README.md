@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Now and then it's good to pause in our pursuit of happiness and just be happy." — **Guillaume Apollinaire**
+> "It is not the young people that degenerate they are not spoiled till those of mature age are already sunk into corruption." — **Charles de Montesquieu**
 
 ---
 <p align="center">
