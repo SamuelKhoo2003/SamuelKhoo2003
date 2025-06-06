@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is not the young people that degenerate they are not spoiled till those of mature age are already sunk into corruption." — **Charles de Montesquieu**
+> "Later, my father died up in Marysville. So, my mother and I got in the car and came down to Hollywood." — **Marc Davis**
 
 ---
 <p align="center">
