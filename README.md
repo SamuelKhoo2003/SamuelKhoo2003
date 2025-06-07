@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Later, my father died up in Marysville. So, my mother and I got in the car and came down to Hollywood." — **Marc Davis**
+> "When you do the common things in life in an uncommon way, you will command the attention of the world." — **George Washington Carver**
 
 ---
 <p align="center">
