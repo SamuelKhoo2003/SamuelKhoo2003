@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "When you do the common things in life in an uncommon way, you will command the attention of the world." — **George Washington Carver**
+> "One thing is sure. We have to do something. We have to do the best we know how at the moment... If it doesn't turn out right, we can modify it as we go along." — **Franklin D. Roosevelt**
 
 ---
 <p align="center">
