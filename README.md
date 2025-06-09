@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "One thing is sure. We have to do something. We have to do the best we know how at the moment... If it doesn't turn out right, we can modify it as we go along." — **Franklin D. Roosevelt**
+> "There are lots of things which I would love to tell him, but in some way, I also feel that I lost the person closest to me. And I got a second chance to live. So in a way I feel that I live for both of us... and I will do my best." — **Petra Nemcova**
 
 ---
 <p align="center">
