@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I like change. There's something Buddhist about it - continuous change is wonderful." — **David Bailey**
+> "Now having said that, I realize that releasing a film in the real world is like trying to get General Motors to release a handmade car." — **Godfrey Reggio**
 
 ---
 <p align="center">
