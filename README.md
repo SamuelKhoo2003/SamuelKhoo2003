@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Now having said that, I realize that releasing a film in the real world is like trying to get General Motors to release a handmade car." — **Godfrey Reggio**
+> "You have a good many little gifts and virtues, but there is no need of parading them, for conceit spoils the finest genius. There is not much danger that real talent or goodness will be overlooked long, and the great charm of all power is modesty." — **Louisa May Alcott**
 
 ---
 <p align="center">
