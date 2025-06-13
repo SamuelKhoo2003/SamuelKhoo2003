@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You have a good many little gifts and virtues, but there is no need of parading them, for conceit spoils the finest genius. There is not much danger that real talent or goodness will be overlooked long, and the great charm of all power is modesty." — **Louisa May Alcott**
+> "I mean, I - it's so funny, I am, you know, I am, you know, a working woman out in the world, but I still live with my parents half the time. I've been sort of taking this very long, stuttering period of moving out." — **Lena Dunham**
 
 ---
 <p align="center">
