@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I mean, I - it's so funny, I am, you know, I am, you know, a working woman out in the world, but I still live with my parents half the time. I've been sort of taking this very long, stuttering period of moving out." — **Lena Dunham**
+> "I write the way you might arrange flowers. Not every try works, but each one launches another. Every constraint, even dullness, frees up a new design." — **Richard Powers**
 
 ---
 <p align="center">
