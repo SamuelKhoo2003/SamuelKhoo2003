@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I write the way you might arrange flowers. Not every try works, but each one launches another. Every constraint, even dullness, frees up a new design." — **Richard Powers**
+> "There is nothing wrong with your marriage if you're dealing with bills and kids and the broken garbage disposal and in-laws and work demands. That's a normal marriage." — **Phil McGraw**
 
 ---
 <p align="center">
