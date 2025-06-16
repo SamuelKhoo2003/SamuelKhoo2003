@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There is nothing wrong with your marriage if you're dealing with bills and kids and the broken garbage disposal and in-laws and work demands. That's a normal marriage." — **Phil McGraw**
+> "God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man." — **Arthur Young**
 
 ---
 <p align="center">
