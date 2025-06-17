@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man." — **Arthur Young**
+> "How we think shows through in how we act. Attitudes are mirrors of the mind. They reflect thinking." — **David Joseph Schwartz**
 
 ---
 <p align="center">
