@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "How we think shows through in how we act. Attitudes are mirrors of the mind. They reflect thinking." — **David Joseph Schwartz**
+> "Some of the best times I've spent in Colorado have been in the backcountry with my mom and siblings, and more recently, with my own kids. That is why I'm concerned to see today's kids spending more time browsing the Internet than exploring nature." — **Mark Udall**
 
 ---
 <p align="center">
