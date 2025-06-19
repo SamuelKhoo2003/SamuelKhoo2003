@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Some of the best times I've spent in Colorado have been in the backcountry with my mom and siblings, and more recently, with my own kids. That is why I'm concerned to see today's kids spending more time browsing the Internet than exploring nature." — **Mark Udall**
+> "We work in the dark - we do what we can - we give what we have. Our doubt is our passion and our passion is our task. The rest is the madness of art." — **Henry James**
 
 ---
 <p align="center">
