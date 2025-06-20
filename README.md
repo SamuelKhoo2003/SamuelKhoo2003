@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We work in the dark - we do what we can - we give what we have. Our doubt is our passion and our passion is our task. The rest is the madness of art." — **Henry James**
+> "No passion so effectually robs the mind of all its powers of acting and reasoning as fear." — **Edmund Burke**
 
 ---
 <p align="center">
