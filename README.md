@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "No passion so effectually robs the mind of all its powers of acting and reasoning as fear." — **Edmund Burke**
+> "When I was born in 1970 with a rare genetic disorder called spondyloepiphyseal dysplasia congenita (SED), medical science wasn't what it is today and my mum and dad were treated terribly by the medical profession." — **Warwick Davis**
 
 ---
 <p align="center">
