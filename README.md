@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "When I was born in 1970 with a rare genetic disorder called spondyloepiphyseal dysplasia congenita (SED), medical science wasn't what it is today and my mum and dad were treated terribly by the medical profession." — **Warwick Davis**
+> "Any film, or to me any creative endeavour, no matter who you're working with, is, in many cases, a wonderful experience." — **Martin Scorsese**
 
 ---
 <p align="center">
