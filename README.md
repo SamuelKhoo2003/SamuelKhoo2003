@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Any film, or to me any creative endeavour, no matter who you're working with, is, in many cases, a wonderful experience." — **Martin Scorsese**
+> "People talk about the courage of condemned men walking to the place of execution: sometimes it needs as much courage to walk with any kind of bearing towards another person's habitual misery." — **Graham Greene**
 
 ---
 <p align="center">
