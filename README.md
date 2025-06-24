@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "People talk about the courage of condemned men walking to the place of execution: sometimes it needs as much courage to walk with any kind of bearing towards another person's habitual misery." — **Graham Greene**
+> "What the mass media offers is not popular art, but entertainment which is intended to be consumed like food, forgotten, and replaced by a new dish." — **W. H. Auden**
 
 ---
 <p align="center">
