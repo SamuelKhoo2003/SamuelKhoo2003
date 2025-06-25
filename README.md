@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "What the mass media offers is not popular art, but entertainment which is intended to be consumed like food, forgotten, and replaced by a new dish." — **W. H. Auden**
+> "It is common knowledge that smoking is considered one of the nation's leading causes of preventable death, but it's less widely known that cigarettes are also the leading cause of fatal fires." — **Ed Markey**
 
 ---
 <p align="center">
