@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is common knowledge that smoking is considered one of the nation's leading causes of preventable death, but it's less widely known that cigarettes are also the leading cause of fatal fires." — **Ed Markey**
+> "I made a real specific decision when I came out of school and most artists were writing about home - if you were a woman, you were writing about being a woman - and I decided not to do that, write about what you know. That's not what I do. I went as far away from home as possible in terms of the development of my imagination." — **Anna Deavere Smith**
 
 ---
 <p align="center">
