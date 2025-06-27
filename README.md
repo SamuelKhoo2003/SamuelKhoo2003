@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I made a real specific decision when I came out of school and most artists were writing about home - if you were a woman, you were writing about being a woman - and I decided not to do that, write about what you know. That's not what I do. I went as far away from home as possible in terms of the development of my imagination." — **Anna Deavere Smith**
+> "Creativity requires the courage to let go of certainties." — **Erich Fromm**
 
 ---
 <p align="center">
