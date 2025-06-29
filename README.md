@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "God is the great mysterious motivator of what we call nature, and it has often been said by philosophers, that nature is the will of God. And I prefer to say that nature is the only body of God that we shall ever see." — **Frank Lloyd Wright**
+> "Kids are finding out about the potential for discovery online from other sources many of them have computers at home, for instance, or their friends have them." — **Daniel Greenberg**
 
 ---
 <p align="center">
