@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Kids are finding out about the potential for discovery online from other sources many of them have computers at home, for instance, or their friends have them." — **Daniel Greenberg**
+> "My dad instilled in me a great sense of humor. I wasn't bullied at school because my outward attitude was confident, and that helps." — **Warwick Davis**
 
 ---
 <p align="center">
