@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My dad instilled in me a great sense of humor. I wasn't bullied at school because my outward attitude was confident, and that helps." — **Warwick Davis**
+> "Under the Healthy Americans Act, you're in charge of your health care - not your employer. If you lose your job, change jobs or just can't find a job, your health insurance is guaranteed to stick with you." — **Ron Wyden**
 
 ---
 <p align="center">
