@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Under the Healthy Americans Act, you're in charge of your health care - not your employer. If you lose your job, change jobs or just can't find a job, your health insurance is guaranteed to stick with you." — **Ron Wyden**
+> "But my mom was a pianist, and she taught piano out of her house. I was just so excited, being a little kid and having all these other kids come to my house twice a week. I thought it was a big party." — **Vanessa Carlton**
 
 ---
 <p align="center">
