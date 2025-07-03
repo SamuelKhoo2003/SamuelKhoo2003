@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "But my mom was a pianist, and she taught piano out of her house. I was just so excited, being a little kid and having all these other kids come to my house twice a week. I thought it was a big party." — **Vanessa Carlton**
+> "My best moment? I have a lot of good moments but the one I prefer is when I kicked the hooligan." — **Eric Cantona**
 
 ---
 <p align="center">
