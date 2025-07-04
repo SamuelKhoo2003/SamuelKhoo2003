@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My best moment? I have a lot of good moments but the one I prefer is when I kicked the hooligan." — **Eric Cantona**
+> "The fundamental defect of fathers, in our competitive society, is that they want their children to be a credit to them." — **Bertrand Russell**
 
 ---
 <p align="center">
