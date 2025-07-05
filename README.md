@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The fundamental defect of fathers, in our competitive society, is that they want their children to be a credit to them." — **Bertrand Russell**
+> "It's an interesting combination: Having a great fear of being alone, and having a desperate need for solitude and the solitary experience. That's always been a tug of war for me." — **Jodie Foster**
 
 ---
 <p align="center">
