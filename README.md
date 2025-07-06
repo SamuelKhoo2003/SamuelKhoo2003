@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's an interesting combination: Having a great fear of being alone, and having a desperate need for solitude and the solitary experience. That's always been a tug of war for me." — **Jodie Foster**
+> "The nation that complacently and fearfully allows its artists and writers to become suspected rather than respected is no longer regarded as a nation possessed with humor or depth." — **James Thurber**
 
 ---
 <p align="center">
