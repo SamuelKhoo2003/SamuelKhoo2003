@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The nation that complacently and fearfully allows its artists and writers to become suspected rather than respected is no longer regarded as a nation possessed with humor or depth." — **James Thurber**
+> "As a housewife, I feel that if the kids are still alive when my husband gets home from work, then hey, I've done my job." — **Roseanne Barr**
 
 ---
 <p align="center">
