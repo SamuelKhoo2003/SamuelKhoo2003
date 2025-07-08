@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "As a housewife, I feel that if the kids are still alive when my husband gets home from work, then hey, I've done my job." — **Roseanne Barr**
+> "I've got my eye on a few things to spend my money on. I've got my own bank card but I am really good with money. I don't spend too much at all." — **Justin Bieber**
 
 ---
 <p align="center">
