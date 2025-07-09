@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I've got my eye on a few things to spend my money on. I've got my own bank card but I am really good with money. I don't spend too much at all." — **Justin Bieber**
+> "The important work of moving the world forward does not wait to be done by perfect men." — **George Eliot**
 
 ---
 <p align="center">
