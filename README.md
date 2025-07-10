@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The important work of moving the world forward does not wait to be done by perfect men." — **George Eliot**
+> "Language is like songs, like food, like dance-it is the expression of what we think." — **Holly Near**
 
 ---
 <p align="center">
