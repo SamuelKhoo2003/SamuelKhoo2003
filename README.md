@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Language is like songs, like food, like dance-it is the expression of what we think." — **Holly Near**
+> "If you think Abraham Lincoln became famous for inventing the town car, it is time to spend a few hours on history." — **Bo Bennett**
 
 ---
 <p align="center">
