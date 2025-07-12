@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you think Abraham Lincoln became famous for inventing the town car, it is time to spend a few hours on history." — **Bo Bennett**
+> "The most dangerous man to any government is the man who is able to think things out... without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane, intolerable." — **H. L. Mencken**
 
 ---
 <p align="center">
