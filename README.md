@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The creative act lasts but a brief moment, a lightning instant of give-and-take, just long enough for you to level the camera and to trap the fleeting prey in your little box." — **Henri Cartier-Bresson**
+> "What they're not ready for is guys like you and I and Nails and all the other gnarly gnarlingtons in my life, that we are high priests, Vatican assassin warlocks. Boom. Print that, people. See where that goes." — **Charlie Sheen**
 
 ---
 <p align="center">
