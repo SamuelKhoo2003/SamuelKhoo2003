@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "What they're not ready for is guys like you and I and Nails and all the other gnarly gnarlingtons in my life, that we are high priests, Vatican assassin warlocks. Boom. Print that, people. See where that goes." — **Charlie Sheen**
+> "The real cure for what ails our health care system today is less government and more freedom." — **Steve Forbes**
 
 ---
 <p align="center">
