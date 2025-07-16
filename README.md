@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The real cure for what ails our health care system today is less government and more freedom." — **Steve Forbes**
+> "Is it faith to understand nothing, and merely submit your convictions implicitly to the Church?" — **John Calvin**
 
 ---
 <p align="center">
