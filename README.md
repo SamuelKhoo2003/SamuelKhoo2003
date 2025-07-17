@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Is it faith to understand nothing, and merely submit your convictions implicitly to the Church?" — **John Calvin**
+> "True happiness arises, in the first place, from the enjoyment of one's self, and in the next, from the friendship and conversation of a few select companions." — **Joseph Addison**
 
 ---
 <p align="center">
