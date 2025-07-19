@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You cannot create experience. You must undergo it." — **Camus, Albert**
+> "It's never too late to take your heart health seriously and make it a priority." — **Jennie Garth**
 
 ---
 <p align="center">
