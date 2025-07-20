@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's never too late to take your heart health seriously and make it a priority." — **Jennie Garth**
+> "You know, young actors say all the time, 'Should I use my own life experience?' And my response is, 'What choice do you have?'" — **David Mamet**
 
 ---
 <p align="center">
