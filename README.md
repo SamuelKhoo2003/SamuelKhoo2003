@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You know, young actors say all the time, 'Should I use my own life experience?' And my response is, 'What choice do you have?'" — **David Mamet**
+> "I had always loved beautiful and artistic things, though before leav" — **Albani, Emma**
 
 ---
 <p align="center">
