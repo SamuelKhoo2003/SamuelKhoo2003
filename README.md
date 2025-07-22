@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I had always loved beautiful and artistic things, though before leav" — **Albani, Emma**
+> "The only way to predict the future is to have power to shape the future." — **Eric Hoffer**
 
 ---
 <p align="center">
