@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The only way to predict the future is to have power to shape the future." — **Eric Hoffer**
+> "The only good luck many great men ever had was being born with the ability and determination to overcome bad luck." — **Channing Pollock**
 
 ---
 <p align="center">
