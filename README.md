@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The only good luck many great men ever had was being born with the ability and determination to overcome bad luck." — **Channing Pollock**
+> "We must walk consciously only part way toward our goal, and then leap in the dark to our success." — **Thoreau, Henry David**
 
 ---
 <p align="center">
