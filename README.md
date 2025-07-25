@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We must walk consciously only part way toward our goal, and then leap in the dark to our success." — **Thoreau, Henry David**
+> "Being president is like being a jackass in a hailstorm. There's nothing to do but to stand there and take it." — **Lyndon B. Johnson**
 
 ---
 <p align="center">
