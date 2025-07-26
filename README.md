@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Being president is like being a jackass in a hailstorm. There's nothing to do but to stand there and take it." — **Lyndon B. Johnson**
+> "Design, in its broadest sense, is the enabler of the digital era - it's a process that creates order out of chaos, that renders technology usable to business. Design means being good, not just looking good." — **Clement Mok**
 
 ---
 <p align="center">
