@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Design, in its broadest sense, is the enabler of the digital era - it's a process that creates order out of chaos, that renders technology usable to business. Design means being good, not just looking good." — **Clement Mok**
+> "Who looks outside, dreams who looks inside, awakes." — **Carl Jung**
 
 ---
 <p align="center">
