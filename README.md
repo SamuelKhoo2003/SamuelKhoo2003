@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Who looks outside, dreams who looks inside, awakes." — **Carl Jung**
+> "I am just at that stage of wondering where I go from here. I came into this business almost by accident, but now it has become serious. What started as a bit of fun, something to do other than be a model, has taken on a different career curve. I have been forced to ask where that curve is going to end up." — **Cameron Diaz**
 
 ---
 <p align="center">
