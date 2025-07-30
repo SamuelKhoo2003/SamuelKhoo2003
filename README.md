@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Happiness cannot be traveled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace, and gratitude." — **Denis Waitley**
+> "In the company of the accomplished, people hope it will rub off on themselves, in the company of the misfortunate, they fear it!" — **Bryant H. McGill**
 
 ---
 <p align="center">
