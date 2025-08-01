@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I like to listen. I have learned a great deal from listening carefully. Most people never listen." — **Ernest Hemingway**
+> "Those who knew Lincoln described him as an extraordinarily funny man. Humor was an essential aspect of his temperament. He laughed, he explained, so he did not weep." — **Doris Kearns Goodwin**
 
 ---
 <p align="center">
