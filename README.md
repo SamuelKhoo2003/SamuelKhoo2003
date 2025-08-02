@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Those who knew Lincoln described him as an extraordinarily funny man. Humor was an essential aspect of his temperament. He laughed, he explained, so he did not weep." — **Doris Kearns Goodwin**
+> "Smiling is definitely one of the best beauty remedies. If you have a good sense of humor and a good approach to life, that's beautiful." — **Rashida Jones**
 
 ---
 <p align="center">
