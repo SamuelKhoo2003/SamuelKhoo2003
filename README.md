@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Smiling is definitely one of the best beauty remedies. If you have a good sense of humor and a good approach to life, that's beautiful." — **Rashida Jones**
+> "Yes, all my songs come from personal experience and relationships." — **Rick Springfield**
 
 ---
 <p align="center">
