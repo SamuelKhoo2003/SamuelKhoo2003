@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Yes, all my songs come from personal experience and relationships." — **Rick Springfield**
+> "My worst hair experience was when I was trying to relax my hair and my grandmother did it. It went all straight and I looked like a black Bee Gee." — **Jamie Foxx**
 
 ---
 <p align="center">
