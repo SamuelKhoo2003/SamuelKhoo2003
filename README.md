@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Why should 20-year-olds only be considered sexy? I think we get better with age." — **Jenny McCarthy**
+> "My mom's a secret Rastafarian." — **Jenna Bush**
 
 ---
 <p align="center">
