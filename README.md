@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My mom's a secret Rastafarian." — **Jenna Bush**
+> "Happiness is having a large, loving, caring, close-knit family in another city." — **George Burns**
 
 ---
 <p align="center">
