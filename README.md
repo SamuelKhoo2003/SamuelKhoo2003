@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Happiness is having a large, loving, caring, close-knit family in another city." — **George Burns**
+> "Overall, the challenge of leadership is both moral and one of developing the characteristics that make us respected by one another." — **Louis Farrakhan**
 
 ---
 <p align="center">
