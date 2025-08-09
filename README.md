@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Overall, the challenge of leadership is both moral and one of developing the characteristics that make us respected by one another." — **Louis Farrakhan**
+> "My dear brothers, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry, for man's anger does not bring about the righteous life that God desires." — **Beverly Sills**
 
 ---
 <p align="center">
