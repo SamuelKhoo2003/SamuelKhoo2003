@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My dear brothers, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry, for man's anger does not bring about the righteous life that God desires." — **Beverly Sills**
+> "Purring would seem to be, in her case, an automatic safety valve device for dealing with happiness overflow." — **Monica Edwards**
 
 ---
 <p align="center">
