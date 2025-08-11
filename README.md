@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Purring would seem to be, in her case, an automatic safety valve device for dealing with happiness overflow." — **Monica Edwards**
+> "By keeping my hand in that, it's the way I keep learning. The main way you learn in medicine is by practicing and working with patients." — **Andrew Weil**
 
 ---
 <p align="center">
