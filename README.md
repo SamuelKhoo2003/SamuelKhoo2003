@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "By keeping my hand in that, it's the way I keep learning. The main way you learn in medicine is by practicing and working with patients." — **Andrew Weil**
+> "So great was the extremity of his pain and anguish, that he did not only sigh but roar." — **Matthew Henry**
 
 ---
 <p align="center">
