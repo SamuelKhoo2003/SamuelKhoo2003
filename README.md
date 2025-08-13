@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "So great was the extremity of his pain and anguish, that he did not only sigh but roar." — **Matthew Henry**
+> "I've always been homeschooled, so doing it on set is kind of the same thing. My mom makes it very interactive - we'll get a book on chocolate and learn how to make it, or she will buy antique items. I love military history, the mechanics and strategy of it." — **Atticus Shaffer**
 
 ---
 <p align="center">
