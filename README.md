@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I've always been homeschooled, so doing it on set is kind of the same thing. My mom makes it very interactive - we'll get a book on chocolate and learn how to make it, or she will buy antique items. I love military history, the mechanics and strategy of it." — **Atticus Shaffer**
+> "It seems to me there is a change in what audiences want to see. I can only hope that's correct, because there's an awful lot of people of my age around now and we outnumber the others." — **Maggie Smith**
 
 ---
 <p align="center">
