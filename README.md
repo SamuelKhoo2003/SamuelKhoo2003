@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It seems to me there is a change in what audiences want to see. I can only hope that's correct, because there's an awful lot of people of my age around now and we outnumber the others." — **Maggie Smith**
+> "There cannot be a crisis next week. My schedule is already full." — **Henry A. Kissinger**
 
 ---
 <p align="center">
