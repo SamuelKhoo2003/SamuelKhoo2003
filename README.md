@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There cannot be a crisis next week. My schedule is already full." — **Henry A. Kissinger**
+> "In a funny way, poems are suited to modern life. They're short, they're intense. Nobody has time to read a 700-page book. People read magazines, and a poem takes less time than an article." — **Caroline Kennedy**
 
 ---
 <p align="center">
