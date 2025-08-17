@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "In a funny way, poems are suited to modern life. They're short, they're intense. Nobody has time to read a 700-page book. People read magazines, and a poem takes less time than an article." — **Caroline Kennedy**
+> "A great revolution in just one single individual will help achieve a change in the destiny of a society and, further, will enable a change in the destiny of humankind." — **Daisaku Ikeda**
 
 ---
 <p align="center">
