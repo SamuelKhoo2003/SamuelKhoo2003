@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A great revolution in just one single individual will help achieve a change in the destiny of a society and, further, will enable a change in the destiny of humankind." — **Daisaku Ikeda**
+> "Girls are the future mothers of our society, and it is important that we focus on their well-being." — **Miriam Makeba**
 
 ---
 <p align="center">
