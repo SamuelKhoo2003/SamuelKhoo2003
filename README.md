@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Girls are the future mothers of our society, and it is important that we focus on their well-being." — **Miriam Makeba**
+> "I had the opportunity to go to law school, and my dad, who was an accountant, couldn't believe I wanted to walk away from that and start cooking." — **Curtis Stone**
 
 ---
 <p align="center">
