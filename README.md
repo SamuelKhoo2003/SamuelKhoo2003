@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I had the opportunity to go to law school, and my dad, who was an accountant, couldn't believe I wanted to walk away from that and start cooking." — **Curtis Stone**
+> "I would not give half a guinea to live under one form of government other than another. It is of no moment to the happiness of an individual." — **Samuel Johnson**
 
 ---
 <p align="center">
