@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I would not give half a guinea to live under one form of government other than another. It is of no moment to the happiness of an individual." — **Samuel Johnson**
+> "To a certain extent I am taking a leap of faith. I'm adding up the evidence on either side, and I'm seeing the evidence of there not being a God is overwhelming compared to the evidence for there being a God." — **Julia Sweeney**
 
 ---
 <p align="center">
