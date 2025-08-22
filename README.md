@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "To a certain extent I am taking a leap of faith. I'm adding up the evidence on either side, and I'm seeing the evidence of there not being a God is overwhelming compared to the evidence for there being a God." — **Julia Sweeney**
+> "I think that the reason for my success is that I am really not aspirational. I am inspirational in that the people at home feel like they can really relate to me." — **Rosie O'Donnell**
 
 ---
 <p align="center">
