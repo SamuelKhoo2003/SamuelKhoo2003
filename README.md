@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think that the reason for my success is that I am really not aspirational. I am inspirational in that the people at home feel like they can really relate to me." — **Rosie O'Donnell**
+> "Why should 20-year-olds only be considered sexy? I think we get better with age." — **Jenny McCarthy**
 
 ---
 <p align="center">
