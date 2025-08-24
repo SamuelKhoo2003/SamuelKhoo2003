@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Why should 20-year-olds only be considered sexy? I think we get better with age." — **Jenny McCarthy**
+> "I wake up every morning in a cold sweat, regardless of how well things went the day before. And put that I said that in a somewhat but not completely tongue-in-cheek way." — **Harvey Pekar**
 
 ---
 <p align="center">
