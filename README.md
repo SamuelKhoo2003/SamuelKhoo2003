@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I wake up every morning in a cold sweat, regardless of how well things went the day before. And put that I said that in a somewhat but not completely tongue-in-cheek way." — **Harvey Pekar**
+> "It's the game of life. Do I win or do I lose? One day they're gonna shut the game down. I gotta have as much fun and go around the board as many times as I can before it's my turn to leave." — **Tupac Shakur**
 
 ---
 <p align="center">
