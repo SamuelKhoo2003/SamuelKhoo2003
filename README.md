@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I try and have a relaxed attitude and stay quite switched off until about an hour before kick-off." — **Roy Keane**
+> "Whoever does not have a good father should procure one." — **Friedrich Nietzsche**
 
 ---
 <p align="center">
