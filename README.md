@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Whoever does not have a good father should procure one." — **Friedrich Nietzsche**
+> "A group or an artist shouldn't get his money until his boss gets his." — **Bobby Darin**
 
 ---
 <p align="center">
