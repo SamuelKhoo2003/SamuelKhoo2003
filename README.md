@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A group or an artist shouldn't get his money until his boss gets his." — **Bobby Darin**
+> "Religion has caused more misery to all of mankind in every stage of human history than any other single idea." — **Madalyn Murray O'Hair**
 
 ---
 <p align="center">
