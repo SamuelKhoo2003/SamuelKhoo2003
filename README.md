@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Religion has caused more misery to all of mankind in every stage of human history than any other single idea." — **Madalyn Murray O'Hair**
+> "I guess happiness is not a state you want to be in all the time." — **John Belushi**
 
 ---
 <p align="center">
