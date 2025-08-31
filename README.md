@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I guess happiness is not a state you want to be in all the time." — **John Belushi**
+> "I wouldn't attach too much importance to these student riots. I remember when I was a student at the Sorbonne in Paris, I used to go out and riot occasionally." — **John Foster Dulles**
 
 ---
 <p align="center">
