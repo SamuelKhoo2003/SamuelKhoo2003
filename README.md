@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I wouldn't attach too much importance to these student riots. I remember when I was a student at the Sorbonne in Paris, I used to go out and riot occasionally." — **John Foster Dulles**
+> "All I can tell you really is if you get to the point where someone is telling you that you are not great or not good enough, just follow your heart and don't let anybody crush your dream." — **Patti LaBelle**
 
 ---
 <p align="center">
