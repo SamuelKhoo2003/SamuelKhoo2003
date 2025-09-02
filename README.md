@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "All I can tell you really is if you get to the point where someone is telling you that you are not great or not good enough, just follow your heart and don't let anybody crush your dream." — **Patti LaBelle**
+> "To keep the record straight, it wasn't always John and Yoko. We've all accused one another of various business things we tend to be pretty paranoid by now, as you can imagine. There's a lot of money involved." — **Paul McCartney**
 
 ---
 <p align="center">
