@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "To keep the record straight, it wasn't always John and Yoko. We've all accused one another of various business things we tend to be pretty paranoid by now, as you can imagine. There's a lot of money involved." — **Paul McCartney**
+> "My dad was a sports writer when I was younger and then he became just a general columnist. But I grew up with him literally getting into brawls with football coaches." — **Amy Klobuchar**
 
 ---
 <p align="center">
