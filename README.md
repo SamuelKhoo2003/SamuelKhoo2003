@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My dad was a sports writer when I was younger and then he became just a general columnist. But I grew up with him literally getting into brawls with football coaches." — **Amy Klobuchar**
+> "It's very important that every movie I do makes money because I want the people that had the faith in me to get their money back." — **Quentin Tarantino**
 
 ---
 <p align="center">
