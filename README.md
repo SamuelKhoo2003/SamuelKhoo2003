@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's very important that every movie I do makes money because I want the people that had the faith in me to get their money back." — **Quentin Tarantino**
+> "As a young boy, I was taught in high school that hacking was cool." — **Kevin Mitnick**
 
 ---
 <p align="center">
