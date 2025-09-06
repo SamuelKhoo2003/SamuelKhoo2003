@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "As a young boy, I was taught in high school that hacking was cool." — **Kevin Mitnick**
+> "Sure, I have friends, plenty of friends, and they all come around wantin' to borrow money. I've always been generous with my friends and family, with money, but selfish with the important stuff like love." — **Richard Pryor**
 
 ---
 <p align="center">
