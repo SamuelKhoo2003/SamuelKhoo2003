@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Sure, I have friends, plenty of friends, and they all come around wantin' to borrow money. I've always been generous with my friends and family, with money, but selfish with the important stuff like love." — **Richard Pryor**
+> "My mom came from such humble beginnings and especially my dad as well. He didn't go to university." — **Petra Ecclestone**
 
 ---
 <p align="center">
