@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My mom came from such humble beginnings and especially my dad as well. He didn't go to university." — **Petra Ecclestone**
+> "Inventions reached their limit long ago, and I see no hope for further development." — **Frontinus, Julius**
 
 ---
 <p align="center">
