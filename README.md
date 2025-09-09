@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Inventions reached their limit long ago, and I see no hope for further development." — **Frontinus, Julius**
+> "One and God make a majority." — **Frederick Douglass**
 
 ---
 <p align="center">
