@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "One and God make a majority." — **Frederick Douglass**
+> "Do not take life too seriously. You will never get out of it alive." — **Elbert Hubbard**
 
 ---
 <p align="center">
