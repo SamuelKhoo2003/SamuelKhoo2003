@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Do not take life too seriously. You will never get out of it alive." — **Elbert Hubbard**
+> "I've never dreamed of being famous. The idea of it really scares me." — **Jeremy London**
 
 ---
 <p align="center">
