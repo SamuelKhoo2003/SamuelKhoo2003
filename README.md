@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I've never dreamed of being famous. The idea of it really scares me." — **Jeremy London**
+> "It is for us to pray not for tasks equal to our powers, but for powers equal to our tasks, to go forward with a great desire forever beating at the door of our hearts as we travel toward our distant goal." — **Helen Keller**
 
 ---
 <p align="center">
