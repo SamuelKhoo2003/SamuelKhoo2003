@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is for us to pray not for tasks equal to our powers, but for powers equal to our tasks, to go forward with a great desire forever beating at the door of our hearts as we travel toward our distant goal." — **Helen Keller**
+> "I think somehow you need to get to a certain point in your life where the notion of failure is absurd." — **Jeff Tweedy**
 
 ---
 <p align="center">
