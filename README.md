@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think somehow you need to get to a certain point in your life where the notion of failure is absurd." — **Jeff Tweedy**
+> "It is impossible to rightly govern a nation without God and the Bible." — **George Washington**
 
 ---
 <p align="center">
