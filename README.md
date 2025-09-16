@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Because if you lived, as I did, several years under Nazi totalitarianism, and then 20 years in communist totalitarianism, you would certainly realize how precious freedom is, and how easy it is to lose your freedom." — **Milos Forman**
+> "Marriage is an adventure, like going to war." — **Gilbert K. Chesterton**
 
 ---
 <p align="center">
