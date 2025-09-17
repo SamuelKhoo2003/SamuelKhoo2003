@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Marriage is an adventure, like going to war." — **Gilbert K. Chesterton**
+> "They change, and we, who pass like foam,<" — **Masefield, John**
 
 ---
 <p align="center">
