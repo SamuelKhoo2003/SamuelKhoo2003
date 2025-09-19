@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's like driving a car at night. You never see further than your headlights, but you can make the whole trip that way." — **E. L. Doctorow**
+> "I hope to work harder than ever to help people around the world." — **Lech Walesa**
 
 ---
 <p align="center">
