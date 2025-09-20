@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I hope to work harder than ever to help people around the world." — **Lech Walesa**
+> "Children are not casual guests in our home. They have been loaned to us temporarily for the purpose of loving them and instilling a foundation of values on which their future lives will be built." — **James Dobson**
 
 ---
 <p align="center">
