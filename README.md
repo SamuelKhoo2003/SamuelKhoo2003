@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Children are not casual guests in our home. They have been loaned to us temporarily for the purpose of loving them and instilling a foundation of values on which their future lives will be built." — **James Dobson**
+> "Where I come from, it was a heresy to say you wanted to be in movies, leave alone American movies." — **Daniel Day-Lewis**
 
 ---
 <p align="center">
