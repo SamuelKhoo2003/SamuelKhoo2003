@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Where I come from, it was a heresy to say you wanted to be in movies, leave alone American movies." — **Daniel Day-Lewis**
+> "Do we talk about the dignity of work? Do we give our students any reason for believing it is worthwhile to sacrifice for their work because such sacrifices improve the psychological and mental health of the person who makes them?" — **Sargent Shriver**
 
 ---
 <p align="center">
