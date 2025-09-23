@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Do we talk about the dignity of work? Do we give our students any reason for believing it is worthwhile to sacrifice for their work because such sacrifices improve the psychological and mental health of the person who makes them?" — **Sargent Shriver**
+> "You take somebody that cries their goddam eyes out over phoney stuff in the movies, and nine times out of ten they're mean bastards at heart." — **J. D. Salinger**
 
 ---
 <p align="center">
