@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You take somebody that cries their goddam eyes out over phoney stuff in the movies, and nine times out of ten they're mean bastards at heart." — **J. D. Salinger**
+> "But if somebody dies, if something happens to you, there is a normal process of depression, it is part of being human, and some people view it as a learning experience etc." — **Bob Geldof**
 
 ---
 <p align="center">
