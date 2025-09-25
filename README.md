@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "But if somebody dies, if something happens to you, there is a normal process of depression, it is part of being human, and some people view it as a learning experience etc." — **Bob Geldof**
+> "You can conquer almost any fear if you will only make up your mind to do so. For remember, fear doesn't exist anywhere except in the mind." — **Dale Carnegie**
 
 ---
 <p align="center">
