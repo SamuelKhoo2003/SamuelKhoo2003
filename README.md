@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You can conquer almost any fear if you will only make up your mind to do so. For remember, fear doesn't exist anywhere except in the mind." — **Dale Carnegie**
+> "But it is my happiness to be half Welsh, and that the better half." — **Richard Cobden**
 
 ---
 <p align="center">
