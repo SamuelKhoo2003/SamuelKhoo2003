@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "But it is my happiness to be half Welsh, and that the better half." — **Richard Cobden**
+> "Think with your whole body." — **Taisen Deshimaru**
 
 ---
 <p align="center">
