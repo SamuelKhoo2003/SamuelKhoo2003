@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Think with your whole body." — **Taisen Deshimaru**
+> "The upward course of a nation's history is due in the long run to the soundness of heart of its average men and women." — **Queen Elizabeth II**
 
 ---
 <p align="center">
