@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The upward course of a nation's history is due in the long run to the soundness of heart of its average men and women." — **Queen Elizabeth II**
+> "Stand by your man. Give him two arms to cling to and something warm to come to." — **Tammy Wynette**
 
 ---
 <p align="center">
