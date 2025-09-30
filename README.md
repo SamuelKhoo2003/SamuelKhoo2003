@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Stand by your man. Give him two arms to cling to and something warm to come to." — **Tammy Wynette**
+> "Fanatics do not have faith - they have belief. With faith you let go. You trust. Whereas with belief you cling." — **Yann Martel**
 
 ---
 <p align="center">
