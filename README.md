@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Fanatics do not have faith - they have belief. With faith you let go. You trust. Whereas with belief you cling." — **Yann Martel**
+> "Even though I didn't get a business degree, I enjoyed learning about economics." — **Herb Ritts**
 
 ---
 <p align="center">
