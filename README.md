@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Even though I didn't get a business degree, I enjoyed learning about economics." — **Herb Ritts**
+> "I am very interested in what has been called bad taste. I believe the fear of displaying a soi-disant bad taste stops us from venturing into special cultural zones." — **Manuel Puig**
 
 ---
 <p align="center">
