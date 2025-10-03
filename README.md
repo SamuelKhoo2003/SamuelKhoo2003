@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I am very interested in what has been called bad taste. I believe the fear of displaying a soi-disant bad taste stops us from venturing into special cultural zones." — **Manuel Puig**
+> "As far as your personal goals are and what you actually want to do with your life, it should never have to do with the government. You should never depend on the government for your retirement, your financial security, for anything. If you do, you're screwed." — **Drew Carey**
 
 ---
 <p align="center">
