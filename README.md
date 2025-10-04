@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "As far as your personal goals are and what you actually want to do with your life, it should never have to do with the government. You should never depend on the government for your retirement, your financial security, for anything. If you do, you're screwed." — **Drew Carey**
+> "Faith is the state of being ultimately concerned." — **Paul Tillich**
 
 ---
 <p align="center">
