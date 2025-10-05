@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Faith is the state of being ultimately concerned." — **Paul Tillich**
+> "Pick the day. Enjoy it - to the hilt. The day as it comes. People as they come... The past, I think, has helped me appreciate the present - and I don't want to spoil any of it by fretting about the future." — **Audrey Hepburn**
 
 ---
 <p align="center">
