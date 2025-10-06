@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Pick the day. Enjoy it - to the hilt. The day as it comes. People as they come... The past, I think, has helped me appreciate the present - and I don't want to spoil any of it by fretting about the future." — **Audrey Hepburn**
+> "I have many times thought I did the wrong thing, but the reason was not to be a medical doctor - it was just to have the information. But then, maybe I was wrong, I don't know." — **Lennart Nilsson**
 
 ---
 <p align="center">
