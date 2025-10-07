@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I have many times thought I did the wrong thing, but the reason was not to be a medical doctor - it was just to have the information. But then, maybe I was wrong, I don't know." — **Lennart Nilsson**
+> "When you look good, you feel good. Confidence with what you're wearing is very important. If you feel good, you will always perform your best without worrying about anything." — **Maria Sharapova**
 
 ---
 <p align="center">
