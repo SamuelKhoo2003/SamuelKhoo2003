@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Every business and every product has risks. You can't get around it." — **Lee Iacocca**
+> "Anyone who teaches knows that you don't really experience a text until you've taught it, in loving detail, with an intelligent and responsive class." — **Joyce Carol Oates**
 
 ---
 <p align="center">
