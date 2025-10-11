@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Anyone who teaches knows that you don't really experience a text until you've taught it, in loving detail, with an intelligent and responsive class." — **Joyce Carol Oates**
+> "I'm fortunate that I've been in this business long enough that I've earned the right to be left alone by my record company." — **Don Henley**
 
 ---
 <p align="center">
