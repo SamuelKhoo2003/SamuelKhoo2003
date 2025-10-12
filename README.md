@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm fortunate that I've been in this business long enough that I've earned the right to be left alone by my record company." — **Don Henley**
+> "What is absurd and monstrous about war is that men who have no personal quarrel should be trained to murder one another in cold blood." — **Aldous Huxley**
 
 ---
 <p align="center">
