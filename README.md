@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "What is absurd and monstrous about war is that men who have no personal quarrel should be trained to murder one another in cold blood." — **Aldous Huxley**
+> "My mom FedExes a red velvet cake she makes from scratch to me every birthday." — **Molly Sims**
 
 ---
 <p align="center">
