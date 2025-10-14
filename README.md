@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My mom FedExes a red velvet cake she makes from scratch to me every birthday." — **Molly Sims**
+> "Music is my home." — **Jennifer Hudson**
 
 ---
 <p align="center">
