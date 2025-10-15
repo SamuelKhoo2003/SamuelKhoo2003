@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Music is my home." — **Jennifer Hudson**
+> "The founder of the Mona Foundation actually knew my dad for years, and the more I learned about it, the more I realized I really found the perfect charity. It sponsors schools and educational initiatives all over the planet." — **Rainn Wilson**
 
 ---
 <p align="center">
