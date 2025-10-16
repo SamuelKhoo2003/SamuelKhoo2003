@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The founder of the Mona Foundation actually knew my dad for years, and the more I learned about it, the more I realized I really found the perfect charity. It sponsors schools and educational initiatives all over the planet." — **Rainn Wilson**
+> "I think it's really cool how J. Lo's been able to balance an acting career and a music career. That's something I strive for." — **Victoria Justice**
 
 ---
 <p align="center">
