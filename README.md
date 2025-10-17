@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think it's really cool how J. Lo's been able to balance an acting career and a music career. That's something I strive for." — **Victoria Justice**
+> "My face has changed with the years and has enough history in it to give audiences something to work with." — **Jeanne Moreau**
 
 ---
 <p align="center">
