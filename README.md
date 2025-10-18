@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My face has changed with the years and has enough history in it to give audiences something to work with." — **Jeanne Moreau**
+> "Life all comes down to a few moments. This is one of them." — **Charlie Sheen**
 
 ---
 <p align="center">
