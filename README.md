@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Life all comes down to a few moments. This is one of them." — **Charlie Sheen**
+> "I have designed the most buildings of any living American architect." — **Alexander Jackson Davis**
 
 ---
 <p align="center">
