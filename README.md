@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I have designed the most buildings of any living American architect." — **Alexander Jackson Davis**
+> "It's not only imagination, it's the distortion of the vision. You suddenly think, This person is idealistic, this person is strong, this person has dreams, when you know better most of the time. You put what you want to see on people." — **Olivier Martinez**
 
 ---
 <p align="center">
