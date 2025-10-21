@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's not only imagination, it's the distortion of the vision. You suddenly think, This person is idealistic, this person is strong, this person has dreams, when you know better most of the time. You put what you want to see on people." — **Olivier Martinez**
+> "The only reason I became the singer in the band is because I sang the best. It wasn't out of some desire to be a star or be a famous singer. It's not like I love interviews." — **Adam Levine**
 
 ---
 <p align="center">
