@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The only reason I became the singer in the band is because I sang the best. It wasn't out of some desire to be a star or be a famous singer. It's not like I love interviews." — **Adam Levine**
+> "The advantages found in history seem to be of three kinds, as it amuses the fancy, as it improves the understanding, and as it strengthens virtue." — **David Hume**
 
 ---
 <p align="center">
