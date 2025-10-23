@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The advantages found in history seem to be of three kinds, as it amuses the fancy, as it improves the understanding, and as it strengthens virtue." — **David Hume**
+> "Words do not change their meanings so drastically in the course of centuries as, in our minds, names do in the course of a year or two." — **Marcel Proust**
 
 ---
 <p align="center">
