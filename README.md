@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Words do not change their meanings so drastically in the course of centuries as, in our minds, names do in the course of a year or two." — **Marcel Proust**
+> "I believe the American people have a genuine and justifiable fear of government intrusion in what they instinctively know is going to be an ever more intrusive world." — **Joe Biden**
 
 ---
 <p align="center">
