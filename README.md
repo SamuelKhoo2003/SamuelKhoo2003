@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My friends, whoever has had experience of evils knows how whenever a flood of ills comes upon mortals, a man fears everything but whenever a divine force cheers on our voyage, then we believe that the same fate will always blow fair." — **Aeschylus**
+> "People are always looking for the single magic bullet that will totally change everything. There is no single magic bullet." — **Temple Grandin**
 
 ---
 <p align="center">
