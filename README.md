@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "People are always looking for the single magic bullet that will totally change everything. There is no single magic bullet." — **Temple Grandin**
+> "I've been such an oddball my whole life, but I've always been cool and I've always dressed fairly smartly." — **Cee Lo Green**
 
 ---
 <p align="center">
