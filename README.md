@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I've been such an oddball my whole life, but I've always been cool and I've always dressed fairly smartly." — **Cee Lo Green**
+> "I didn't have any success in show business until I was 30 to 31 years of age." — **Adam Carolla**
 
 ---
 <p align="center">
