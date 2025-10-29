@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I didn't have any success in show business until I was 30 to 31 years of age." — **Adam Carolla**
+> "The less routine the more life." — **Amos Bronson Alcott**
 
 ---
 <p align="center">
