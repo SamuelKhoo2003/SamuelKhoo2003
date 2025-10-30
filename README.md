@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The less routine the more life." — **Amos Bronson Alcott**
+> "It's easier to replace a dead man than a good picture." — **George Bernard Shaw**
 
 ---
 <p align="center">
