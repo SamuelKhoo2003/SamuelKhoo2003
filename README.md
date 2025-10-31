@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's easier to replace a dead man than a good picture." — **George Bernard Shaw**
+> "Frequent worshippers are also significantly more active citizens. They are more likely to belong to community organizations, especially those concerned with young people, health, arts and leisure, neighborhood and civic groups and professional associations." — **Jonathan Sacks**
 
 ---
 <p align="center">
