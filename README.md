@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Frequent worshippers are also significantly more active citizens. They are more likely to belong to community organizations, especially those concerned with young people, health, arts and leisure, neighborhood and civic groups and professional associations." — **Jonathan Sacks**
+> "I'm so glad I never feel important, it does complicate life!" — **Eleanor Roosevelt**
 
 ---
 <p align="center">
