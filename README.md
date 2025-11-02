@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm so glad I never feel important, it does complicate life!" — **Eleanor Roosevelt**
+> "Alas! if the principles of contentment are not within us, the height of station and worldly grandeur will as soon add a cubit to a man's stature as to his happiness." — **Laurence Sterne**
 
 ---
 <p align="center">
