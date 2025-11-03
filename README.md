@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Alas! if the principles of contentment are not within us, the height of station and worldly grandeur will as soon add a cubit to a man's stature as to his happiness." — **Laurence Sterne**
+> "America... just a nation of two hundred million used car salesmen with all the money we need to buy guns and no qualms about killing anybody else in the world who tries to make us uncomfortable." — **Hunter S. Thompson**
 
 ---
 <p align="center">
