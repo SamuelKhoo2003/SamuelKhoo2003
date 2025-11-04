@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "America... just a nation of two hundred million used car salesmen with all the money we need to buy guns and no qualms about killing anybody else in the world who tries to make us uncomfortable." — **Hunter S. Thompson**
+> "In a sense, words are encyclopedias of ignorance because they freeze perceptions at one moment in history and then insist we continue to use these frozen perceptions when we should be doing better." — **Edward de Bono**
 
 ---
 <p align="center">
