@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "In a sense, words are encyclopedias of ignorance because they freeze perceptions at one moment in history and then insist we continue to use these frozen perceptions when we should be doing better." — **Edward de Bono**
+> "A woman's experience is different from a man's in virtually every respect, including how she is treated by the media." — **Carly Fiorina**
 
 ---
 <p align="center">
