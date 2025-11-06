@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A woman's experience is different from a man's in virtually every respect, including how she is treated by the media." — **Carly Fiorina**
+> "I've become a less brave traveller since I became a dad, but in the past I was more foolhardy than brave." — **David Mitchell**
 
 ---
 <p align="center">
