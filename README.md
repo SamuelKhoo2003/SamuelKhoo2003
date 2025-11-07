@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I've become a less brave traveller since I became a dad, but in the past I was more foolhardy than brave." — **David Mitchell**
+> "I guess now that I think back, I used to play priest and be a funny priest. I don't know, I grew up in such a Catholic family that I kind of liked to test the boundaries a little bit and I think I had fun watching my mom laugh." — **Jenny McCarthy**
 
 ---
 <p align="center">
