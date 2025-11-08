@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I guess now that I think back, I used to play priest and be a funny priest. I don't know, I grew up in such a Catholic family that I kind of liked to test the boundaries a little bit and I think I had fun watching my mom laugh." — **Jenny McCarthy**
+> "Look, if you have somebody who doesn't have health insurance, who doesn't have a doctor or dentist, and in order to deal with their cold or flu or dental problem, they go to an emergency room - in general, that visit will cost ten times more than walking into a community health center." — **Bernie Sanders**
 
 ---
 <p align="center">
