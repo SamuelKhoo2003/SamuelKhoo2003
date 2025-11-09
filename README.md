@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Look, if you have somebody who doesn't have health insurance, who doesn't have a doctor or dentist, and in order to deal with their cold or flu or dental problem, they go to an emergency room - in general, that visit will cost ten times more than walking into a community health center." — **Bernie Sanders**
+> "I think women as well as men are concerned about jobs and the economy and spending and, and other issues. They're concerned that when their kids graduate from college they have an economy and they have a future in this country and they, they have the same opportunity that we've had and our grandparents have had." — **Ken Buck**
 
 ---
 <p align="center">
