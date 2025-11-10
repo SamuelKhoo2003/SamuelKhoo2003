@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think women as well as men are concerned about jobs and the economy and spending and, and other issues. They're concerned that when their kids graduate from college they have an economy and they have a future in this country and they, they have the same opportunity that we've had and our grandparents have had." — **Ken Buck**
+> "The hardest thing to understand in the world is the income tax." — **Albert Einstein**
 
 ---
 <p align="center">
