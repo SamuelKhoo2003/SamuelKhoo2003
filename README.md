@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The hardest thing to understand in the world is the income tax." — **Albert Einstein**
+> "I am known for a life spent in the struggle for freedom, and freedom includes the freedom of religion." — **Oriana Fallaci**
 
 ---
 <p align="center">
