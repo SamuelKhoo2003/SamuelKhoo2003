@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I am known for a life spent in the struggle for freedom, and freedom includes the freedom of religion." — **Oriana Fallaci**
+> "The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy." — **Sun Tzu**
 
 ---
 <p align="center">
