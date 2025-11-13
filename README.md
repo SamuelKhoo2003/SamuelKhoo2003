@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy." — **Sun Tzu**
+> "Like hatred, jealousy is forbidden by the laws of life because it is essentially destructive." — **Alexis Carrel**
 
 ---
 <p align="center">
