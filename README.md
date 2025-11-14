@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Like hatred, jealousy is forbidden by the laws of life because it is essentially destructive." — **Alexis Carrel**
+> "My wife disagrees with 100 percent of what I say. That's the same marriage I have." — **Curtis Sliwa**
 
 ---
 <p align="center">
