@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My wife disagrees with 100 percent of what I say. That's the same marriage I have." — **Curtis Sliwa**
+> "I am the the type to have a personal experience with a celebrity, but I'm too classy to bring that up." — **Todd Barry**
 
 ---
 <p align="center">
