@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I am the the type to have a personal experience with a celebrity, but I'm too classy to bring that up." — **Todd Barry**
+> "I feel good because I believe I have made progress in rebuilding the people's trust in their government." — **Arnold Schwarzenegger**
 
 ---
 <p align="center">
