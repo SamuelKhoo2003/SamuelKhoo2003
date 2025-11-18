@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I should have been out there having a wild time like all the other girls my age, but I wasn't. I was going home every night to what was, initially, a very happy marriage." — **Amanda Holden**
+> "The best thing to hold onto in life is each other." — **Audrey Hepburn**
 
 ---
 <p align="center">
