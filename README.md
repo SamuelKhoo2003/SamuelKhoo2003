@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My dad taught me to play bass. He's a bass player he still plays in a band in Michigan to this day. He taught me to play bass when I was about 6. I used to just go to band practice with him, and whoever didn't show up for rehearsal that day, I would take their spot." — **Mayer Hawthorne**
+> "If you're the type of person who has to fulfill your dreams, you've gotta be resourceful to make sure you can do it. I came out to California when I was 21, thinking my New York credentials would take me all the way. I came back home a year later all dejected and a failure." — **Vin Diesel**
 
 ---
 <p align="center">
