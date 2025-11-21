@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you're the type of person who has to fulfill your dreams, you've gotta be resourceful to make sure you can do it. I came out to California when I was 21, thinking my New York credentials would take me all the way. I came back home a year later all dejected and a failure." — **Vin Diesel**
+> "What creates freedom? A revolution in the streets? Mass protest? Civil war? A change of government? The ousting of the old guard and its replacement by the new? History, more often than not, shows that hopes raised by such events are often dashed, sooner rather than later." — **Jonathan Sacks**
 
 ---
 <p align="center">
