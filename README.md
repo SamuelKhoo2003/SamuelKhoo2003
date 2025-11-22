@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "What creates freedom? A revolution in the streets? Mass protest? Civil war? A change of government? The ousting of the old guard and its replacement by the new? History, more often than not, shows that hopes raised by such events are often dashed, sooner rather than later." — **Jonathan Sacks**
+> "I know people that could serve me canned tuna and saltine crackers and have me feel more at home at their table than some people who can cook circles around me. The more you try to impress people, generally the less you do." — **Alton Brown**
 
 ---
 <p align="center">
