@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I know people that could serve me canned tuna and saltine crackers and have me feel more at home at their table than some people who can cook circles around me. The more you try to impress people, generally the less you do." — **Alton Brown**
+> "My business is to teach my aspirations to confirm themselves to fact, not to try and make facts harmonize with my aspirations." — **Huxley, Thomas H.**
 
 ---
 <p align="center">
