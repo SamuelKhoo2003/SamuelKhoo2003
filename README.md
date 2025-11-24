@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My business is to teach my aspirations to confirm themselves to fact, not to try and make facts harmonize with my aspirations." — **Huxley, Thomas H.**
+> "It is always self-defeating to pretend to a generation younger than your own it simply erases your own experience in history." — **Renata Adler**
 
 ---
 <p align="center">
