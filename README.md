@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is always self-defeating to pretend to a generation younger than your own it simply erases your own experience in history." — **Renata Adler**
+> "Some people are so busy learning the tricks of the trade that they never learn the trade." — **Vernon Law**
 
 ---
 <p align="center">
