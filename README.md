@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Some people are so busy learning the tricks of the trade that they never learn the trade." — **Vernon Law**
+> "Mistakes are always forgivable, if one has the courage to admit them." — **Bruce Lee**
 
 ---
 <p align="center">
