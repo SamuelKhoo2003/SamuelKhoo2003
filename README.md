@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Mistakes are always forgivable, if one has the courage to admit them." — **Bruce Lee**
+> "There's a bond among a kitchen staff, I think. You spend more time with your chef in the kitchen than you do with your own family." — **Gordon Ramsay**
 
 ---
 <p align="center">
