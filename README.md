@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There's a bond among a kitchen staff, I think. You spend more time with your chef in the kitchen than you do with your own family." — **Gordon Ramsay**
+> "The past itself, as historical change continues to accelerate, has become the most surreal of subjects - making it possible... to see a new beauty in what is vanishing." — **Susan Sontag**
 
 ---
 <p align="center">
