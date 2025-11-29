@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The past itself, as historical change continues to accelerate, has become the most surreal of subjects - making it possible... to see a new beauty in what is vanishing." — **Susan Sontag**
+> "Man must feel the earth to know himself and recognize his values... God made life simple. It is man who complicates it." — **Charles Lindbergh**
 
 ---
 <p align="center">
