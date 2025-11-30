@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Man must feel the earth to know himself and recognize his values... God made life simple. It is man who complicates it." — **Charles Lindbergh**
+> "I hope to stay on 'Glee,' I hope to still be a 'Housewife' and I hope to do 'The New Normal.' I just want to do it all! Why not? I'm only going to be young for a little while longer." — **NeNe Leakes**
 
 ---
 <p align="center">
