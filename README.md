@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I hope to stay on 'Glee,' I hope to still be a 'Housewife' and I hope to do 'The New Normal.' I just want to do it all! Why not? I'm only going to be young for a little while longer." — **NeNe Leakes**
+> "The Fuhrer alone is the present and future German reality and its law. Learn to know ever more deeply: from now on every single thing demands decision, and every action responsibility." — **Martin Heidegger**
 
 ---
 <p align="center">
