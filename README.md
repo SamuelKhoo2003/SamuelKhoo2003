@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The Fuhrer alone is the present and future German reality and its law. Learn to know ever more deeply: from now on every single thing demands decision, and every action responsibility." — **Martin Heidegger**
+> "I still think of that guy I was without a wife or kids, and I still want to entertain that guy. The lonely guy, the frustrated guy, the guy with no money - this is the guy who needs to laugh." — **Larry David**
 
 ---
 <p align="center">
