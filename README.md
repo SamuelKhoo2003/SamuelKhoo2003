@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I still think of that guy I was without a wife or kids, and I still want to entertain that guy. The lonely guy, the frustrated guy, the guy with no money - this is the guy who needs to laugh." — **Larry David**
+> "I would be a huge hypocrite if I didn't tell you that at one time in my life I thought the way that you made music was you got on a major label and you got famous." — **Neko Case**
 
 ---
 <p align="center">
