@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I would be a huge hypocrite if I didn't tell you that at one time in my life I thought the way that you made music was you got on a major label and you got famous." — **Neko Case**
+> "The game of golf would lose a great deal if croquet mallets and billiard cues were allowed on the putting green." — **Ernest Hemingway**
 
 ---
 <p align="center">
