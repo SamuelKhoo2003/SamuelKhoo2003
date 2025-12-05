@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The game of golf would lose a great deal if croquet mallets and billiard cues were allowed on the putting green." — **Ernest Hemingway**
+> "Fixing health care and fixing the economy are two sides of the same coin." — **Ron Wyden**
 
 ---
 <p align="center">
