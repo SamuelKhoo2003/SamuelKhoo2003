@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Fixing health care and fixing the economy are two sides of the same coin." — **Ron Wyden**
+> "With tens of thousands of patients dying every year from preventable medical errors, it is imperative that we embrace available technologies and drastically improve the way medical records are handled and processed." — **Jon Porter**
 
 ---
 <p align="center">
