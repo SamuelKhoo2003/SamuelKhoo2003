@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "With tens of thousands of patients dying every year from preventable medical errors, it is imperative that we embrace available technologies and drastically improve the way medical records are handled and processed." — **Jon Porter**
+> "It is not so much our friends' help that helps us, as the confidence of their help." — **Epicurus**
 
 ---
 <p align="center">
