@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is not so much our friends' help that helps us, as the confidence of their help." — **Epicurus**
+> "When I'm not writing or tweaking my computer, I do embroidery. When I'm not plunging into the past, tweaking, or embroidering, I'm reading books about history, computers, or embroidery." — **Lynn Abbey**
 
 ---
 <p align="center">
