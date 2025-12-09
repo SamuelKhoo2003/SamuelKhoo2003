@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "When I'm not writing or tweaking my computer, I do embroidery. When I'm not plunging into the past, tweaking, or embroidering, I'm reading books about history, computers, or embroidery." — **Lynn Abbey**
+> "I think women like Ferraris. A Ferrari is everybody's car." — **Tim Allen**
 
 ---
 <p align="center">
