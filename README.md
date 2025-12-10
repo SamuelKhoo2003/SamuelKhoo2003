@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think women like Ferraris. A Ferrari is everybody's car." — **Tim Allen**
+> "An able, disinterested, public-spirited press, with trained intelligence to know the right and courage to do it, can preserve that public virtue without which popular government is a sham and a mockery." — **Joseph Pulitzer**
 
 ---
 <p align="center">
