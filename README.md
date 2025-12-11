@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "An able, disinterested, public-spirited press, with trained intelligence to know the right and courage to do it, can preserve that public virtue without which popular government is a sham and a mockery." — **Joseph Pulitzer**
+> "God is the great mysterious motivator of what we call nature, and it has often been said by philosophers, that nature is the will of God. And I prefer to say that nature is the only body of God that we shall ever see." — **Frank Lloyd Wright**
 
 ---
 <p align="center">
