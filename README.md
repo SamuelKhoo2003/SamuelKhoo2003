@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "God is the great mysterious motivator of what we call nature, and it has often been said by philosophers, that nature is the will of God. And I prefer to say that nature is the only body of God that we shall ever see." — **Frank Lloyd Wright**
+> "Seven and half years ago I began my own journey. For me and my family it was a time of adversity. But during that adversity I derived a deeper faith. And born out of that adversity was a commitment to devote myself to those people and to those issues that truly matter to me." — **Paul Tsongas**
 
 ---
 <p align="center">
