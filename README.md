@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Seven and half years ago I began my own journey. For me and my family it was a time of adversity. But during that adversity I derived a deeper faith. And born out of that adversity was a commitment to devote myself to those people and to those issues that truly matter to me." — **Paul Tsongas**
+> "No one was more important than my mom and dad. I know they are watching from a place up in heaven here today to make sure all their kids are doing good." — **Eddie Murray**
 
 ---
 <p align="center">
