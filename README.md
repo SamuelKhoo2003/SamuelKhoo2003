@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "No one was more important than my mom and dad. I know they are watching from a place up in heaven here today to make sure all their kids are doing good." — **Eddie Murray**
+> "All men having power ought to be distrusted to a certain degree." — **James Madison**
 
 ---
 <p align="center">
