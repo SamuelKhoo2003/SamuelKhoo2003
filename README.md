@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "All men having power ought to be distrusted to a certain degree." — **James Madison**
+> "Excellent firms don't believe in excellence - only in constant improvement and constant change." — **Tom Peters**
 
 ---
 <p align="center">
