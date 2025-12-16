@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Excellent firms don't believe in excellence - only in constant improvement and constant change." — **Tom Peters**
+> "The man who has the courage of his platitudes is always a successful man." — **Van Wyck Brooks**
 
 ---
 <p align="center">
