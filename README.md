@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The man who has the courage of his platitudes is always a successful man." — **Van Wyck Brooks**
+> "And I think that if I were a for real celebrity that was recognizable everywhere, I'd just crawl under a rock and you know, have someone run over the rock with a car, or something." — **Steve Burns**
 
 ---
 <p align="center">
