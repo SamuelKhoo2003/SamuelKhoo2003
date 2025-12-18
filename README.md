@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "And I think that if I were a for real celebrity that was recognizable everywhere, I'd just crawl under a rock and you know, have someone run over the rock with a car, or something." — **Steve Burns**
+> "I want to thank all the women who have worn my clothes, the famous and the unknown, who have been so faithful to me and given me so much joy." — **Yves Saint Laurent**
 
 ---
 <p align="center">
