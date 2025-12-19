@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I want to thank all the women who have worn my clothes, the famous and the unknown, who have been so faithful to me and given me so much joy." — **Yves Saint Laurent**
+> "The energy of the mind is the essence of life." — **Aristotle**
 
 ---
 <p align="center">
