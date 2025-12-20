@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The energy of the mind is the essence of life." — **Aristotle**
+> "Happiness lies first of all in health." — **George William Curtis**
 
 ---
 <p align="center">
