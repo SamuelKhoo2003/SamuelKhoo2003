@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Happiness lies first of all in health." — **George William Curtis**
+> "I'm married to the theater but my mistress is the films." — **Oskar Werner**
 
 ---
 <p align="center">
