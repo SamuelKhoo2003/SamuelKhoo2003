@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm married to the theater but my mistress is the films." — **Oskar Werner**
+> "We will not be intimidated or pushed off the world stage by people who do not like what we stand for, and that is, freedom, democracy and the fight against disease, poverty and terrorism." — **Madeleine Albright**
 
 ---
 <p align="center">
