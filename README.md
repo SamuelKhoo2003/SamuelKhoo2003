@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We will not be intimidated or pushed off the world stage by people who do not like what we stand for, and that is, freedom, democracy and the fight against disease, poverty and terrorism." — **Madeleine Albright**
+> "Toleration is good for all, or it is good for none." — **Edmund Burke**
 
 ---
 <p align="center">
