@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Toleration is good for all, or it is good for none." — **Edmund Burke**
+> "The darker the film, the more vital everyone's sense of humor is on set." — **Eric Bana**
 
 ---
 <p align="center">
