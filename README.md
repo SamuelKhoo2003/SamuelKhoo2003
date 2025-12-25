@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The darker the film, the more vital everyone's sense of humor is on set." — **Eric Bana**
+> "Love seeks one thing only: the good of the one loved. It leaves all the other secondary effects to take care of themselves. Love, therefore, is its own reward." — **Thomas Merton**
 
 ---
 <p align="center">
