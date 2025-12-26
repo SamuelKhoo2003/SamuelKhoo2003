@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Love seeks one thing only: the good of the one loved. It leaves all the other secondary effects to take care of themselves. Love, therefore, is its own reward." — **Thomas Merton**
+> "Accidents happen, whether they're car accidents, friendly fire, drug overdoses. Accidents happen, and they're tragic. It's like a bomb that goes off and pieces of shrapnel rip into the flesh of the family. It's the families that need the compassion, because everywhere they walk, every day, someone reminds them of their loss." — **James Belushi**
 
 ---
 <p align="center">
