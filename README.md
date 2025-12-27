@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Accidents happen, whether they're car accidents, friendly fire, drug overdoses. Accidents happen, and they're tragic. It's like a bomb that goes off and pieces of shrapnel rip into the flesh of the family. It's the families that need the compassion, because everywhere they walk, every day, someone reminds them of their loss." — **James Belushi**
+> "I'm worried about that man or woman sitting around - the coffee table tonight or in their kitchen talking about how are we going to get to work. How are we going to have the dignity to take care of our family." — **Rick Perry**
 
 ---
 <p align="center">
