@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm worried about that man or woman sitting around - the coffee table tonight or in their kitchen talking about how are we going to get to work. How are we going to have the dignity to take care of our family." — **Rick Perry**
+> "My brother was a great favorite with everybody, and his death cast a gloom upon the whole neighborhood." — **Buffalo Bill**
 
 ---
 <p align="center">
