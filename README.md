@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My brother was a great favorite with everybody, and his death cast a gloom upon the whole neighborhood." — **Buffalo Bill**
+> "Put two or three men in positions of conflicting authority. This will force them to work at loggerheads, allowing you to be the ultimate arbiter." — **Franklin D. Roosevelt**
 
 ---
 <p align="center">
