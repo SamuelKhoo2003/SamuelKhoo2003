@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Put two or three men in positions of conflicting authority. This will force them to work at loggerheads, allowing you to be the ultimate arbiter." — **Franklin D. Roosevelt**
+> "From a worldly point of view, there is no mistake so great as that of being always right." — **Samuel Butler**
 
 ---
 <p align="center">
