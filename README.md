@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "From a worldly point of view, there is no mistake so great as that of being always right." — **Samuel Butler**
+> "Failure means a stripping away of the inessential." — **J. K. Rowling**
 
 ---
 <p align="center">
