@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Failure means a stripping away of the inessential." — **J. K. Rowling**
+> "At home in L.A., Sunday is lazy. It's the wife and me lying in bed with coffee, watching 'The Soup' or something funny on TiVo. The kid will occasionally join us. Eventually, breakfast is at a place down the street called Paty's. And we always have some kind of great dinner - my wife makes a great roast beef." — **Eric McCormack**
 
 ---
 <p align="center">
