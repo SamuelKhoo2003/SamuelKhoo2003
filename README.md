@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The only thing that interferes with my learning is my education." — **Albert Einstein**
+> "How does it become a man to behave towards the American government today? I answer, that he cannot without disgrace be associated with it." — **Henry David Thoreau**
 
 ---
 <p align="center">
