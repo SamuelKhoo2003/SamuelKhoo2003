@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "How does it become a man to behave towards the American government today? I answer, that he cannot without disgrace be associated with it." — **Henry David Thoreau**
+> "To design is to communicate clearly by whatever means you can control or master." — **Milton Glaser**
 
 ---
 <p align="center">
