@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "To design is to communicate clearly by whatever means you can control or master." — **Milton Glaser**
+> "Anger elicits anger, fear elicits fear, no matter how well meaning we may be." — **Martha Beck**
 
 ---
 <p align="center">
