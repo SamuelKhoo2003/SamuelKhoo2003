@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Anger elicits anger, fear elicits fear, no matter how well meaning we may be." — **Martha Beck**
+> "A mission is a place where you ask nonbelievers to come and find faith and hope and feel love." — **Robert H. Schuller**
 
 ---
 <p align="center">
