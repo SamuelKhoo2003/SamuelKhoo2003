@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A mission is a place where you ask nonbelievers to come and find faith and hope and feel love." — **Robert H. Schuller**
+> "The promise of America has always been that if you worked hard, had the right values, took some risks, that there was an opportunity to build a better life for your family and for your next generation." — **Mitt Romney**
 
 ---
 <p align="center">
