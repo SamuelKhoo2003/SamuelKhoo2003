@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The promise of America has always been that if you worked hard, had the right values, took some risks, that there was an opportunity to build a better life for your family and for your next generation." — **Mitt Romney**
+> "I didn't attend the funeral, but I sent a nice letter saying I approved of it." — **Mark Twain**
 
 ---
 <p align="center">
