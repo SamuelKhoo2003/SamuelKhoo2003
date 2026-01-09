@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I didn't attend the funeral, but I sent a nice letter saying I approved of it." — **Mark Twain**
+> "Throughout my life I have always been amazed that people couldn't listen to other people, that they couldn't hear their best intent, that there seemed to be an enormous need to demonize." — **Warren Farrell**
 
 ---
 <p align="center">
