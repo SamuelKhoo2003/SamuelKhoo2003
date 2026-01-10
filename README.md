@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Throughout my life I have always been amazed that people couldn't listen to other people, that they couldn't hear their best intent, that there seemed to be an enormous need to demonize." — **Warren Farrell**
+> "He that hath wife and children hath given hostages to fortune for they are impediments to great enterprises, either of virtue or mischief." — **Francis Bacon**
 
 ---
 <p align="center">
