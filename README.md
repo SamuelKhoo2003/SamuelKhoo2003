@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you live long enough, you'll make mistakes. But if you learn from them, you'll be a better person. It's how you handle adversity, not how it affects you. The main thing is never quit, never quit, never quit." — **William J. Clinton**
+> "Inside every working anarchy, there's an Old Boy Network." — **Mitchell Kapor**
 
 ---
 <p align="center">
