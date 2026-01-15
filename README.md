@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Happiness is a mystery, like religion, and should never be rationalised." — **Gilbert K. Chesterton**
+> "The government solution to a problem is usually as bad as the problem." — **Milton Friedman**
 
 ---
 <p align="center">
