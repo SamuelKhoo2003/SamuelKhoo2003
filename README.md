@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The government solution to a problem is usually as bad as the problem." — **Milton Friedman**
+> "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will." — **Vince Lombardi**
 
 ---
 <p align="center">
