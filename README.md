@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will." — **Vince Lombardi**
+> "In South Africa, we could not have achieved our freedom and just peace without the help of people around the world, who through the use of non-violent means, such as boycotts and divestment, encouraged their governments and other corporate actors to reverse decades-long support for the Apartheid regime." — **Desmond Tutu**
 
 ---
 <p align="center">
