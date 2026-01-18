@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "In South Africa, we could not have achieved our freedom and just peace without the help of people around the world, who through the use of non-violent means, such as boycotts and divestment, encouraged their governments and other corporate actors to reverse decades-long support for the Apartheid regime." — **Desmond Tutu**
+> "The right of each individual in any relation to secure to himself the full benefits of his intelligence, his capacity, his industry and skill are among the inalienable inheritances of humanity." — **Leland Stanford**
 
 ---
 <p align="center">
