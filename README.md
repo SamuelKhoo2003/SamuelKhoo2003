@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The right of each individual in any relation to secure to himself the full benefits of his intelligence, his capacity, his industry and skill are among the inalienable inheritances of humanity." — **Leland Stanford**
+> "I don't pray because I don't want to bore God." — **Orson Welles**
 
 ---
 <p align="center">
