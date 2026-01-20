@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I don't pray because I don't want to bore God." — **Orson Welles**
+> "I'd like to work with Justin Bieber. He's talented and he's so young. I know what he's going through. I've lived what he's living through right now. Working with him would complete a circle of sorts for me. And he might find it a worthwhile experience himself." — **Donny Osmond**
 
 ---
 <p align="center">
