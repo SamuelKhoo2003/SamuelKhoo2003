@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I don't have dating tips." — **Bill Keller**
+> "We've put more effort into helping folks reach old age than into helping them enjoy it." — **Frank A. Clark**
 
 ---
 <p align="center">
