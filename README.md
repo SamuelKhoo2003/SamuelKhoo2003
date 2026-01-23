@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We've put more effort into helping folks reach old age than into helping them enjoy it." — **Frank A. Clark**
+> "That terrible mood of depression of whether it's any good or not is what is known as The Artist's Reward." — **Ernest Hemingway**
 
 ---
 <p align="center">
