@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "That terrible mood of depression of whether it's any good or not is what is known as The Artist's Reward." — **Ernest Hemingway**
+> "Not what we experience, but how we perceive what we experience, determines our fate." — **Marie von Ebner-Eschenbach**
 
 ---
 <p align="center">
