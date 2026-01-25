@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Not what we experience, but how we perceive what we experience, determines our fate." — **Marie von Ebner-Eschenbach**
+> "It was once said that the moral test of government is how that government treats those who are in the dawn of life, the children those who are in the twilight of life, the elderly and those who are in the shadows of life, the sick, the needy and the handicapped." — **Hubert H. Humphrey**
 
 ---
 <p align="center">
