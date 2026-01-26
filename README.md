@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It was once said that the moral test of government is how that government treats those who are in the dawn of life, the children those who are in the twilight of life, the elderly and those who are in the shadows of life, the sick, the needy and the handicapped." — **Hubert H. Humphrey**
+> "I think I turned to writing really just to wake up in the morning and be a musician and to have something to do, and feel like a musician every day even if I wasn't working." — **Lesley Gore**
 
 ---
 <p align="center">
