@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think I turned to writing really just to wake up in the morning and be a musician and to have something to do, and feel like a musician every day even if I wasn't working." — **Lesley Gore**
+> "The terrifying and edible beauty of Art Nouveau architecture." — **Salvador Dali**
 
 ---
 <p align="center">
