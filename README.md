@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There's really no such thing as the agony of dying. I'm quite sure that pain is shut off at the moment of death. You see, something happens when the body knows it's about to go. Peptide hormones are released by cells in the hypothalamus and pituitary gland. Endorphins. They attach themselves to the cells responsible for feeling pain." — **Lewis Thomas**
+> "I have some anger issues." — **Bryan Cranston**
 
 ---
 <p align="center">
