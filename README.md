@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think that when you get dressed in the morning, sometimes you're really making a decision about your behavior for the day. Like if you put on flipflops, you're saying: 'Hope I don't get chased today.' 'Be nice to people in sneakers.'" — **Demetri Martin**
+> "To hear some men talk of the government, you would suppose that Congress was the law of gravitation, and kept the planets in their places." — **Wendell Phillips**
 
 ---
 <p align="center">
