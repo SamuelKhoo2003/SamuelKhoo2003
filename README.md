@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "To hear some men talk of the government, you would suppose that Congress was the law of gravitation, and kept the planets in their places." — **Wendell Phillips**
+> "Man, after all my grandma put into me learning the piano, that was a hard day, telling her I was telling jokes for a living." — **Jamie Foxx**
 
 ---
 <p align="center">
