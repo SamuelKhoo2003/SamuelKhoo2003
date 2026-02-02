@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Man, after all my grandma put into me learning the piano, that was a hard day, telling her I was telling jokes for a living." — **Jamie Foxx**
+> "My dad's gay experiences really had a very positive influence on me and my straight relationships - how to better accept all the weirdness and ambiguity and ups and downs and paradoxes. I knew from the beginning I was writing about love." — **Mike Mills**
 
 ---
 <p align="center">
