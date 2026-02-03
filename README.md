@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My dad's gay experiences really had a very positive influence on me and my straight relationships - how to better accept all the weirdness and ambiguity and ups and downs and paradoxes. I knew from the beginning I was writing about love." — **Mike Mills**
+> "New England is the home of all that is good and noble with all her sternness and uncompromising opinions." — **Ellen Henrietta Swallow Richards**
 
 ---
 <p align="center">
