@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "New England is the home of all that is good and noble with all her sternness and uncompromising opinions." — **Ellen Henrietta Swallow Richards**
+> "No place epitomizes the American experience and the American spirit more than New York City." — **Michael Bloomberg**
 
 ---
 <p align="center">
