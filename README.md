@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "No place epitomizes the American experience and the American spirit more than New York City." — **Michael Bloomberg**
+> "Unlike curing cancer or heart disease, we already know how to beat hunger: food." — **Mario Batali**
 
 ---
 <p align="center">
