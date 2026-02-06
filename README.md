@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Unlike curing cancer or heart disease, we already know how to beat hunger: food." — **Mario Batali**
+> "Private property was the original source of freedom. It still is its main ballpark." — **Walter Lippmann**
 
 ---
 <p align="center">
