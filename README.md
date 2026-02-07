@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Private property was the original source of freedom. It still is its main ballpark." — **Walter Lippmann**
+> "The things you fear are undefeatable, not by their nature, but by your approach." — **Jewel**
 
 ---
 <p align="center">
