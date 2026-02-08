@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The things you fear are undefeatable, not by their nature, but by your approach." — **Jewel**
+> "Now, if we look at the way in which the labor movement itself has evolved over the last couple of decades, we see increasing numbers of black people who are in the leadership of the labor movement and this is true today." — **Angela Davis**
 
 ---
 <p align="center">
