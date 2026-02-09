@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Now, if we look at the way in which the labor movement itself has evolved over the last couple of decades, we see increasing numbers of black people who are in the leadership of the labor movement and this is true today." — **Angela Davis**
+> "At the age of 11 I was about 6 ft. tall and my voice had completely broken. That caused problems. I was this gangly, spotty, very unattractive kid. I wasn't cool and I wasn't a nerd. I didn't even want to fit in with anyone." — **Dan Stevens**
 
 ---
 <p align="center">
