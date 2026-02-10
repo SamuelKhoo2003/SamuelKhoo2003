@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "At the age of 11 I was about 6 ft. tall and my voice had completely broken. That caused problems. I was this gangly, spotty, very unattractive kid. I wasn't cool and I wasn't a nerd. I didn't even want to fit in with anyone." — **Dan Stevens**
+> "Music is where I have the most creative freedom, but I love producing. To me, that's kind of where all the action is. You get a chance to have your hands in every aspect of a film. From picking a director, sometimes picking a writer, to the actors, the wardrobe, set design, editing, music, and marketing." — **Ice Cube**
 
 ---
 <p align="center">
