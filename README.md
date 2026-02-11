@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Music is where I have the most creative freedom, but I love producing. To me, that's kind of where all the action is. You get a chance to have your hands in every aspect of a film. From picking a director, sometimes picking a writer, to the actors, the wardrobe, set design, editing, music, and marketing." — **Ice Cube**
+> "If you like a person you say 'let's go into business together.' Man is a social animal after all, but such partnerships are fraught with danger." — **Brian Tracy**
 
 ---
 <p align="center">
