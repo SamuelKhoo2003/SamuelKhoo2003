@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you like a person you say 'let's go into business together.' Man is a social animal after all, but such partnerships are fraught with danger." — **Brian Tracy**
+> "You don't have to have an attitude if you're famous." — **Adriana Lima**
 
 ---
 <p align="center">
