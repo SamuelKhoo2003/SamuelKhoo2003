@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You don't have to have an attitude if you're famous." — **Adriana Lima**
+> "Ducking for apples; change one letter and it's the story of my life." — **Parker, Dorothy**
 
 ---
 <p align="center">
