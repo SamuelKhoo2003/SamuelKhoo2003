@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Ducking for apples; change one letter and it's the story of my life." — **Parker, Dorothy**
+> "When I turned 30, due to my father's heart history and my family genetics, I vowed to start seeing a cardiologist every year and just really be proactive and take my own heart health into my own hands." — **Jennie Garth**
 
 ---
 <p align="center">
