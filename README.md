@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "When I turned 30, due to my father's heart history and my family genetics, I vowed to start seeing a cardiologist every year and just really be proactive and take my own heart health into my own hands." — **Jennie Garth**
+> "Corporate governance is a huge issue too. We don't have women on these corporate boards. More than half of the students in law school are women, more than half of the women, I think, in medical school now are women." — **Claire McCaskill**
 
 ---
 <p align="center">
