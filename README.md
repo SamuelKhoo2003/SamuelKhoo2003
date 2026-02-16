@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Corporate governance is a huge issue too. We don't have women on these corporate boards. More than half of the students in law school are women, more than half of the women, I think, in medical school now are women." — **Claire McCaskill**
+> "Faith never makes a confession." — **Henry David Thoreau**
 
 ---
 <p align="center">
