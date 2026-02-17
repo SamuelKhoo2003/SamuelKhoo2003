@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Faith never makes a confession." — **Henry David Thoreau**
+> "He that hath knowledge spareth his words." — **Francis Bacon**
 
 ---
 <p align="center">
