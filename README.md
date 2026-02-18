@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "He that hath knowledge spareth his words." — **Francis Bacon**
+> "The body is like a car: the older you become the more care you have to take care of it - and you don't leave a Ferrari out in the sun." — **Joan Collins**
 
 ---
 <p align="center">
