@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The body is like a car: the older you become the more care you have to take care of it - and you don't leave a Ferrari out in the sun." — **Joan Collins**
+> "It's easy to impress me. I don't need a fancy party to be happy. Just good friends, good food, and good laughs. I'm happy. I'm satisfied. I'm content." — **Maria Sharapova**
 
 ---
 <p align="center">
