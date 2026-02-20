@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's easy to impress me. I don't need a fancy party to be happy. Just good friends, good food, and good laughs. I'm happy. I'm satisfied. I'm content." — **Maria Sharapova**
+> "Eventually, we reach the point where we start to realize that we are not going to find peace, contentment, happiness, strength, fearlessness - all of the things that in our heart of hearts we wish we had - outside of us." — **Guy Finley**
 
 ---
 <p align="center">
