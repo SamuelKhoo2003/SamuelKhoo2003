@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Eventually, we reach the point where we start to realize that we are not going to find peace, contentment, happiness, strength, fearlessness - all of the things that in our heart of hearts we wish we had - outside of us." — **Guy Finley**
+> "I don't watch reality TV. I'm cool." — **Dave Attell**
 
 ---
 <p align="center">
