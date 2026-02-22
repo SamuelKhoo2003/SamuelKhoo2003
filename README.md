@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I don't watch reality TV. I'm cool." — **Dave Attell**
+> "Probably millions of Americans got up this morning with a cup of coffee, a cigarette and a donut. No wonder they are sick and fouled up." — **Jack LaLanne**
 
 ---
 <p align="center">
