@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Probably millions of Americans got up this morning with a cup of coffee, a cigarette and a donut. No wonder they are sick and fouled up." — **Jack LaLanne**
+> "What we have at present is a system of loss socialism. Whatever goes wrong is shouldered by the general public and anything that works is privatised. Worshippers of market freedom have suspended the most important economic principle: Risk and liability go hand in hand." — **Sigmar Gabriel**
 
 ---
 <p align="center">
