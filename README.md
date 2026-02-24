@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "What we have at present is a system of loss socialism. Whatever goes wrong is shouldered by the general public and anything that works is privatised. Worshippers of market freedom have suspended the most important economic principle: Risk and liability go hand in hand." — **Sigmar Gabriel**
+> "Exploitation films were famous for taking an issue an exploiting it because they could move much faster than a studio could. If there was any hot topic, they would run out and make a quick movie and make a buck on it, by changing it around and using it, in some way, to give some relevance." — **Robert Rodriguez**
 
 ---
 <p align="center">
