@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Exploitation films were famous for taking an issue an exploiting it because they could move much faster than a studio could. If there was any hot topic, they would run out and make a quick movie and make a buck on it, by changing it around and using it, in some way, to give some relevance." — **Robert Rodriguez**
+> "So much of what we do as artists is a combination of personal experience and imagination, and how that all creeps into your work is not so linear." — **Diana Krall**
 
 ---
 <p align="center">
