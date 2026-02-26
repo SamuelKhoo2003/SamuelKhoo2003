@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "So much of what we do as artists is a combination of personal experience and imagination, and how that all creeps into your work is not so linear." — **Diana Krall**
+> "I got to play with Nintendo's Wii, yes it's a funny name and not very revolutionary but it was fun whipping your arms around." — **Olivia Munn**
 
 ---
 <p align="center">
