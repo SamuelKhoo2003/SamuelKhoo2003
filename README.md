@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I got to play with Nintendo's Wii, yes it's a funny name and not very revolutionary but it was fun whipping your arms around." — **Olivia Munn**
+> "A person over age 65 who drinks says that his doctor recommends it." — **Smith, Bob**
 
 ---
 <p align="center">
