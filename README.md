@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A person over age 65 who drinks says that his doctor recommends it." — **Smith, Bob**
+> "Our life of poverty is as necessary as the work itself. Only in heaven will we see how much we owe to the poor for helping us to love God better because of them." — **Mother Teresa**
 
 ---
 <p align="center">
