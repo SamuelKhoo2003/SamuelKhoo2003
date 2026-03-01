@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Our life of poverty is as necessary as the work itself. Only in heaven will we see how much we owe to the poor for helping us to love God better because of them." — **Mother Teresa**
+> "Fear nothing but what thy industry may prevent be confident of nothing but what fortune cannot defeat it is no less folly to fear what is impossible to be avoided than to be secure when there is a possibility to be deprived." — **Francis Quarles**
 
 ---
 <p align="center">
