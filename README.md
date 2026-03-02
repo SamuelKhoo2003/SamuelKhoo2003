@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Fear nothing but what thy industry may prevent be confident of nothing but what fortune cannot defeat it is no less folly to fear what is impossible to be avoided than to be secure when there is a possibility to be deprived." — **Francis Quarles**
+> "I think that people don't know how to do anything anymore. My father was a janitor. He could take a car apart and put it back together. He could build a house in the back yard. Today, if you ask people what they know, they say, 'I know how to hire someone.'" — **Walter Mosley**
 
 ---
 <p align="center">
