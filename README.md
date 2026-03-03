@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think that people don't know how to do anything anymore. My father was a janitor. He could take a car apart and put it back together. He could build a house in the back yard. Today, if you ask people what they know, they say, 'I know how to hire someone.'" — **Walter Mosley**
+> "Florida has been really cool to us. This is our first big club tour, and Pennywise has been really nice." — **Brandon Thomas**
 
 ---
 <p align="center">
