@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Florida has been really cool to us. This is our first big club tour, and Pennywise has been really nice." — **Brandon Thomas**
+> "Most of the gaffes I've made have not been funny - they've been stupid." — **Jim Lehrer**
 
 ---
 <p align="center">
