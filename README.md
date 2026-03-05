@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Most of the gaffes I've made have not been funny - they've been stupid." — **Jim Lehrer**
+> "With our technology, with objects, literally three people in a garage can blow away what 200 people at Microsoft can do. Literally can blow it away. Corporate America has a need that is so huge and can save them so much money, or make them so much money, or cost them so much money if they miss it, that they are going to fuel the object revolution." — **Steve Jobs**
 
 ---
 <p align="center">
