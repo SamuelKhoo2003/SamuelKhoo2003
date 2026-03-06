@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "With our technology, with objects, literally three people in a garage can blow away what 200 people at Microsoft can do. Literally can blow it away. Corporate America has a need that is so huge and can save them so much money, or make them so much money, or cost them so much money if they miss it, that they are going to fuel the object revolution." — **Steve Jobs**
+> "In the West, you have always associated the Islamic faith 100 percent with Arab culture. This in itself is a fundamentalist attitude and it is mistaken." — **Youssou N'Dour**
 
 ---
 <p align="center">
