@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "No matter what age you are, or what your circumstances might be, you are special, and you still have something unique to offer. Your life, because of who you are, has meaning." — **Barbara de Angelis**
+> "There's no business like show business, but there are several businesses like accounting." — **David Letterman**
 
 ---
 <p align="center">
