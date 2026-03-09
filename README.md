@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There's no business like show business, but there are several businesses like accounting." — **David Letterman**
+> "God has a most wicked sense of humor." — **Maureen O'Hara**
 
 ---
 <p align="center">
