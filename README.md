@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "God has a most wicked sense of humor." — **Maureen O'Hara**
+> "I opened the large central window of my office room to its full on the fine early May morning. Then I stood for a few moments, breathing in the soft, warm air that was charged with the scent of white lilacs below." — **Angus Wilson**
 
 ---
 <p align="center">
