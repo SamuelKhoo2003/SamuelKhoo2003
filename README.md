@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I opened the large central window of my office room to its full on the fine early May morning. Then I stood for a few moments, breathing in the soft, warm air that was charged with the scent of white lilacs below." — **Angus Wilson**
+> "One of the things that is not so good is that a decision was made long ago about the size of an IP address - 32 bits. At the time it was a number much larger than anyone could imagine ever having that many computers but it turned out to be to small." — **Jon Postel**
 
 ---
 <p align="center">
