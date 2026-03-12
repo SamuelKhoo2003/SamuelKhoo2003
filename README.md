@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "One of the things that is not so good is that a decision was made long ago about the size of an IP address - 32 bits. At the time it was a number much larger than anyone could imagine ever having that many computers but it turned out to be to small." — **Jon Postel**
+> "What is research but a blind date with knowledge?" — **Will Harvey**
 
 ---
 <p align="center">
