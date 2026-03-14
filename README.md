@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You make mistakes, but I don't have any regrets. I'm the kind of person who takes responsibility for it and deals with it. I learn from everything I do. I work very hard, I have so many things going on in my life. Get to know me and see who I am." — **Kim Kardashian**
+> "Every age can be enchanting, provided you live within it." — **Brigitte Bardot**
 
 ---
 <p align="center">
