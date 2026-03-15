@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Every age can be enchanting, provided you live within it." — **Brigitte Bardot**
+> "When the will defies fear, when duty throws the gauntlet down to fate, when honor scorns to compromise with death - that is heroism." — **Robert Green Ingersoll**
 
 ---
 <p align="center">
