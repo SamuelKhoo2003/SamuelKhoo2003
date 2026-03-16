@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "When the will defies fear, when duty throws the gauntlet down to fate, when honor scorns to compromise with death - that is heroism." — **Robert Green Ingersoll**
+> "I pray God may preserve your health and life many years." — **Junipero Serra**
 
 ---
 <p align="center">
