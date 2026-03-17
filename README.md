@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I pray God may preserve your health and life many years." — **Junipero Serra**
+> "I can definitely say the older I've got the better I've become at being a dad and a husband." — **Rod Stewart**
 
 ---
 <p align="center">
