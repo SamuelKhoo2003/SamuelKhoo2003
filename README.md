@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Men are superior to women, for one thing they can urinate from a speeding car." — **Will Durst**
+> "It is strange. I see all the privileges and greatness of the future. It already looks grand, beautiful. Tell them I went lovingly, trustfully, peacefully." — **Thomas Starr King**
 
 ---
 <p align="center">
