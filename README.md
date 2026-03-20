@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is strange. I see all the privileges and greatness of the future. It already looks grand, beautiful. Tell them I went lovingly, trustfully, peacefully." — **Thomas Starr King**
+> "It's funny the way most people love the dead. Once you are dead, you are made for life." — **Jimi Hendrix**
 
 ---
 <p align="center">
