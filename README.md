@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's funny the way most people love the dead. Once you are dead, you are made for life." — **Jimi Hendrix**
+> "One should always be in love. That is the reason one should never marry." — **Oscar Wilde**
 
 ---
 <p align="center">
