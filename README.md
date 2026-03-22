@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "One should always be in love. That is the reason one should never marry." — **Oscar Wilde**
+> "I don't know how to depict intelligence." — **David Fincher**
 
 ---
 <p align="center">
