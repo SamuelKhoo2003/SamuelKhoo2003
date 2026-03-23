@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I don't know how to depict intelligence." — **David Fincher**
+> "Fear is not in the habit of speaking truth when perfect sincerity is expected, perfect freedom must be allowed nor has anyone who is apt to be angry when he hears the truth any cause to wonder that he does not hear it." — **Tacitus**
 
 ---
 <p align="center">
