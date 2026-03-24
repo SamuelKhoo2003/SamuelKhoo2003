@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Fear is not in the habit of speaking truth when perfect sincerity is expected, perfect freedom must be allowed nor has anyone who is apt to be angry when he hears the truth any cause to wonder that he does not hear it." — **Tacitus**
+> "If somebody invented cigarettes today, the government would not legalize them." — **Loni Anderson**
 
 ---
 <p align="center">
