@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If somebody invented cigarettes today, the government would not legalize them." — **Loni Anderson**
+> "All of us have moments in our lives that test our courage. Taking children into a house with a white carpet is one of them." — **Erma Bombeck**
 
 ---
 <p align="center">
