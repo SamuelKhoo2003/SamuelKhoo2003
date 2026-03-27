@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Have a sense of humor about life - you will need it. And be courteous." — **Peter Jennings**
+> "The main failure of education is that it has not prepared people to comprehend matters concerning human destiny." — **Norman Cousins**
 
 ---
 <p align="center">
