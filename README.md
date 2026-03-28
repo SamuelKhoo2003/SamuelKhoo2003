@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The main failure of education is that it has not prepared people to comprehend matters concerning human destiny." — **Norman Cousins**
+> "We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon." — **Franklin D. Roosevelt**
 
 ---
 <p align="center">
