@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We have always held to the hope, the belief, the conviction that there is a better life, a better world, beyond the horizon." — **Franklin D. Roosevelt**
+> "Was it not enough punishment and suffering in history that we were uprooted and made helpless slaves not only in new colonial outposts but also domestically." — **Robert Mugabe**
 
 ---
 <p align="center">
