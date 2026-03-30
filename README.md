@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Was it not enough punishment and suffering in history that we were uprooted and made helpless slaves not only in new colonial outposts but also domestically." — **Robert Mugabe**
+> "I assure you that the training that you get in a midget, in a sprint car and perhaps in a Silver Crown car is really the kind of experience that makes you into a damn good race driver." — **Rodger Ward**
 
 ---
 <p align="center">
