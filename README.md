@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I assure you that the training that you get in a midget, in a sprint car and perhaps in a Silver Crown car is really the kind of experience that makes you into a damn good race driver." — **Rodger Ward**
+> "Those who have known the famous are publicly debriefed of their memories, knowing as their own dusk falls that they will only be remembered for remembering someone else." — **Alan Bennett**
 
 ---
 <p align="center">
