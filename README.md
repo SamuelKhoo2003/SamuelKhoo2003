@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Those who have known the famous are publicly debriefed of their memories, knowing as their own dusk falls that they will only be remembered for remembering someone else." — **Alan Bennett**
+> "What's great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest." — **Andy Warhol**
 
 ---
 <p align="center">
