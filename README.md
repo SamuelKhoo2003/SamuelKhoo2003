@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "What's great about this country is that America started the tradition where the richest consumers buy essentially the same things as the poorest." — **Andy Warhol**
+> "My dad had a movie theater so I was there every night." — **Brion James**
 
 ---
 <p align="center">
