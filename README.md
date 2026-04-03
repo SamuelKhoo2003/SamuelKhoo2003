@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My dad had a movie theater so I was there every night." — **Brion James**
+> "Some of the most amazing human beings on the face of the planet go to sci-fi conventions, although I'm sure a few of them wouldn't admit it." — **Richard Hatch**
 
 ---
 <p align="center">
