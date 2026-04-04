@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Some of the most amazing human beings on the face of the planet go to sci-fi conventions, although I'm sure a few of them wouldn't admit it." — **Richard Hatch**
+> "Paul Farmer has helped to build amazing health care system in one of the poorest areas of Haiti. He founded Partners in Health, which serves the destitute and the sick in many parts of the world from Haiti to Boston and from Russia to Peru." — **Tracy Kidder**
 
 ---
 <p align="center">
