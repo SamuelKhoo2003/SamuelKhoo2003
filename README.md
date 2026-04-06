@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "God sometimes does try to the uttermost those whom he wishes to bless." — **Mahatma Gandhi**
+> "I think having children is the most amazing thing." — **Rachel Stevens**
 
 ---
 <p align="center">
