@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think having children is the most amazing thing." — **Rachel Stevens**
+> "People have an image of Italians. When I go somewhere in the world, I don't care where it is, when they look at me it's not about my intelligence. It's who can I beat up." — **Danny Aiello**
 
 ---
 <p align="center">
