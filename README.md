@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "People have an image of Italians. When I go somewhere in the world, I don't care where it is, when they look at me it's not about my intelligence. It's who can I beat up." — **Danny Aiello**
+> "Government, even in its best state, is but a necessary evil in its worst state, an intolerable one." — **Thomas Paine**
 
 ---
 <p align="center">
