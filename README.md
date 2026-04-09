@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Government, even in its best state, is but a necessary evil in its worst state, an intolerable one." — **Thomas Paine**
+> "You have to have been a Republican to know how good it is to be a Democrat." — **Jackie Kennedy**
 
 ---
 <p align="center">
