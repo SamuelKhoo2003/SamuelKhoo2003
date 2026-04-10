@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You have to have been a Republican to know how good it is to be a Democrat." — **Jackie Kennedy**
+> "I got out of autobiography because my story is, I was famous, it was hard for me, I got into therapy. I had trouble with food, I got a nutritionist. There's no story there." — **Courtney Thorne Smith**
 
 ---
 <p align="center">
