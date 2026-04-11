@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I got out of autobiography because my story is, I was famous, it was hard for me, I got into therapy. I had trouble with food, I got a nutritionist. There's no story there." — **Courtney Thorne Smith**
+> "I'd say it's been my biggest problem all my life... it's money. It takes a lot of money to make these dreams come true." — **Walt Disney**
 
 ---
 <p align="center">
