@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'd say it's been my biggest problem all my life... it's money. It takes a lot of money to make these dreams come true." — **Walt Disney**
+> "Nothing is more capable of troubling our reason, and consuming our health, than secret notions of jealousy in solitude." — **Aphra Behn**
 
 ---
 <p align="center">
