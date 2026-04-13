@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Nothing is more capable of troubling our reason, and consuming our health, than secret notions of jealousy in solitude." — **Aphra Behn**
+> "When one is trying to do something beyond his known powers it is useless to seek the approval of friends. Friends are at their best in moments of defeat." — **Henry Miller**
 
 ---
 <p align="center">
