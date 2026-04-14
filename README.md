@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "When one is trying to do something beyond his known powers it is useless to seek the approval of friends. Friends are at their best in moments of defeat." — **Henry Miller**
+> "Faith is deliberate confidence in the character of God whose ways you may not understand at the time." — **Oswald Chambers**
 
 ---
 <p align="center">
