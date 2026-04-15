@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Faith is deliberate confidence in the character of God whose ways you may not understand at the time." — **Oswald Chambers**
+> "These days, newish art can be priced between $10,000 and $25,000. When I tell artists that a new painting by a newish artist should go for around $1,200, they look at me like I'm a flesh-eating virus." — **Jerry Saltz**
 
 ---
 <p align="center">
