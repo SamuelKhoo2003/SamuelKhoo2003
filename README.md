@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "These days, newish art can be priced between $10,000 and $25,000. When I tell artists that a new painting by a newish artist should go for around $1,200, they look at me like I'm a flesh-eating virus." — **Jerry Saltz**
+> "I don't know that I have any role models now that are fixed. Definitely my mom - she's the coolest. She's worked really hard her whole life and I just think she's got a great attitude. Moms just know so much it's so silly." — **Larisa Oleynik**
 
 ---
 <p align="center">
