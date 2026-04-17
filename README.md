@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I don't know that I have any role models now that are fixed. Definitely my mom - she's the coolest. She's worked really hard her whole life and I just think she's got a great attitude. Moms just know so much it's so silly." — **Larisa Oleynik**
+> "If the markets had behaved badly, that would obviously add to people's sense of alarm... but there has been a lot of reassurance coming, particularly in the way the Brits handled all this. There seems to be no great fear that something like that is going to happen here." — **Brit Hume**
 
 ---
 <p align="center">
