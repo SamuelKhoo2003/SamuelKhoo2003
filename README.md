@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If the markets had behaved badly, that would obviously add to people's sense of alarm... but there has been a lot of reassurance coming, particularly in the way the Brits handled all this. There seems to be no great fear that something like that is going to happen here." — **Brit Hume**
+> "My parents have always been cool. They even became surrogates to friends of mine who didn't have such supportive parents." — **Olivia Williams**
 
 ---
 <p align="center">
