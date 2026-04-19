@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My parents have always been cool. They even became surrogates to friends of mine who didn't have such supportive parents." — **Olivia Williams**
+> "Have you heard about the Irishman who reversed into a car boot sale and sold the engine?" — **Frank Carson**
 
 ---
 <p align="center">
