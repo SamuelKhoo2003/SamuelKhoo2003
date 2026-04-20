@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Have you heard about the Irishman who reversed into a car boot sale and sold the engine?" — **Frank Carson**
+> "I was in the bath at the time, and my dad came running in and said, 'Guess who they want to play Harry Potter!?' and I started to cry. It was probably the best moment of my life." — **Daniel Radcliffe**
 
 ---
 <p align="center">
