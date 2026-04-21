@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I was in the bath at the time, and my dad came running in and said, 'Guess who they want to play Harry Potter!?' and I started to cry. It was probably the best moment of my life." — **Daniel Radcliffe**
+> "No matter how close to personal experience a story might be, inevitably you are going to get to a part that isn't yours and, actually, whether it happened or not becomes irrelevant. It is all about choosing the right words." — **Roddy Doyle**
 
 ---
 <p align="center">
