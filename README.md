@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "No matter how close to personal experience a story might be, inevitably you are going to get to a part that isn't yours and, actually, whether it happened or not becomes irrelevant. It is all about choosing the right words." — **Roddy Doyle**
+> "As winter strips the leaves from around us, so that we may see the distant regions they formerly concealed, so old age takes away our enjoyments only to enlarge the prospect of the coming eternity." — **Jean Paul**
 
 ---
 <p align="center">
