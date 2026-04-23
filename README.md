@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "As winter strips the leaves from around us, so that we may see the distant regions they formerly concealed, so old age takes away our enjoyments only to enlarge the prospect of the coming eternity." — **Jean Paul**
+> "When we are motivated by goals that have deep meaning, by dreams that need completion, by pure love that needs expressing, then we truly live." — **Greg Anderson**
 
 ---
 <p align="center">
