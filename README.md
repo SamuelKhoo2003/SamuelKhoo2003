@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "When we are motivated by goals that have deep meaning, by dreams that need completion, by pure love that needs expressing, then we truly live." — **Greg Anderson**
+> "I say let's go back to a truer use of the word 'freedom.' Let's start with President Franklin Roosevelt's Four Freedoms: freedom of speech and expression, freedom of worship, freedom from want and freedom from fear. I would add the freedom to bargain collectively. Those freedoms are under attack today." — **Richard Trumka**
 
 ---
 <p align="center">
