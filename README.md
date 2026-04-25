@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I say let's go back to a truer use of the word 'freedom.' Let's start with President Franklin Roosevelt's Four Freedoms: freedom of speech and expression, freedom of worship, freedom from want and freedom from fear. I would add the freedom to bargain collectively. Those freedoms are under attack today." — **Richard Trumka**
+> "If to do were as easy as to know what were good to do, chapels had been churches, and poor men's cottage princes' palaces." — **William Shakespeare**
 
 ---
 <p align="center">
