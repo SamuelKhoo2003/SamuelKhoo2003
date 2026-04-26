@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If to do were as easy as to know what were good to do, chapels had been churches, and poor men's cottage princes' palaces." — **William Shakespeare**
+> "But this is Miami, you can't come to Miami and not show any skin. You gotta show something. If you're all covered up in this heat, you're gonna make me pass out out just to look at you. It's sweaty in Miami-but the diamonds will keep me cool." — **Lil' Kim**
 
 ---
 <p align="center">
