@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "But this is Miami, you can't come to Miami and not show any skin. You gotta show something. If you're all covered up in this heat, you're gonna make me pass out out just to look at you. It's sweaty in Miami-but the diamonds will keep me cool." — **Lil' Kim**
+> "I want to swim in both directions at once. Desire success, court failure." — **Alan Rickman**
 
 ---
 <p align="center">
