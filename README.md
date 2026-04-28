@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I want to swim in both directions at once. Desire success, court failure." — **Alan Rickman**
+> "Government proposes, bureaucracy disposes. And the bureaucracy must dispose of government proposals by dumping them on us." — **P. J. O'Rourke**
 
 ---
 <p align="center">
