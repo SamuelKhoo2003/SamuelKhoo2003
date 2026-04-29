@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Government proposes, bureaucracy disposes. And the bureaucracy must dispose of government proposals by dumping them on us." — **P. J. O'Rourke**
+> "I have so much respect for my mom and all the women across the world." — **Jessica Simpson**
 
 ---
 <p align="center">
