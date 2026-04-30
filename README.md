@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I have so much respect for my mom and all the women across the world." — **Jessica Simpson**
+> "Computers and the Internet have made it really easy to rant. It's made everyone overly opinionated." — **Scott Weiland**
 
 ---
 <p align="center">
