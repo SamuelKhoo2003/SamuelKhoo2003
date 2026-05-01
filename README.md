@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Computers and the Internet have made it really easy to rant. It's made everyone overly opinionated." — **Scott Weiland**
+> "But when women are moved and lend help, when women, who are by nature calm and controlled, give encouragement and applause, when virtuous and knowledgeable women grace the endeavor with their sweet love, then it is invincible." — **Jose Marti**
 
 ---
 <p align="center">
