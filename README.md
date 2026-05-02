@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "But when women are moved and lend help, when women, who are by nature calm and controlled, give encouragement and applause, when virtuous and knowledgeable women grace the endeavor with their sweet love, then it is invincible." — **Jose Marti**
+> "Death, the final, triumphant lover." — **Bela Lugosi**
 
 ---
 <p align="center">
