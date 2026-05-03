@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Death, the final, triumphant lover." — **Bela Lugosi**
+> "A bachelor is a guy who never made the same mistake once." — **Phyllis Diller**
 
 ---
 <p align="center">
