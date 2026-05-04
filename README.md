@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A bachelor is a guy who never made the same mistake once." — **Phyllis Diller**
+> "If you cannot work with love but only with distaste, it is better that you should leave your work." — **Khalil Gibran**
 
 ---
 <p align="center">
