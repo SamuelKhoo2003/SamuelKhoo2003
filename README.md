@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you cannot work with love but only with distaste, it is better that you should leave your work." — **Khalil Gibran**
+> "Knowledge is ancient error reflecting on its youth." — **Francis Picabia**
 
 ---
 <p align="center">
