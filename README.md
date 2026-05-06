@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Knowledge is ancient error reflecting on its youth." — **Francis Picabia**
+> "Ignorant men don't know what good they hold in their hands until they've flung it away." — **Sophocles**
 
 ---
 <p align="center">
