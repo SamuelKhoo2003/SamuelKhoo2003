@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm a role model now. I didn't know I was gonna have 13-year-old fans, so I've tried to change a few things here and there. But I also know that the girls don't want me to be Miley Cyrus, either." — **Nicki Minaj**
+> "I want to be in 'Funny Girl.' And I want Ryan Murphy to direct it." — **Lea Michele**
 
 ---
 <p align="center">
