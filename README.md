@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I want to be in 'Funny Girl.' And I want Ryan Murphy to direct it." — **Lea Michele**
+> "I love a hand that meets my own with a grasp that causes some sensation." — **Osgood, Samuel**
 
 ---
 <p align="center">
