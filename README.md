@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I love a hand that meets my own with a grasp that causes some sensation." — **Osgood, Samuel**
+> "America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world." — **Bill Frist**
 
 ---
 <p align="center">
