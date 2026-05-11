@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world." — **Bill Frist**
+> "Everything we do should be a result of our gratitude for what God has done for us." — **Lauryn Hill**
 
 ---
 <p align="center">
