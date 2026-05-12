@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Everything we do should be a result of our gratitude for what God has done for us." — **Lauryn Hill**
+> "Cross country skiing is great if you live in a small country." — **Steven Wright**
 
 ---
 <p align="center">
