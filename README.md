@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Cross country skiing is great if you live in a small country." — **Steven Wright**
+> "An angry man opens his mouth and shuts his eyes." — **Cato the Elder**
 
 ---
 <p align="center">
