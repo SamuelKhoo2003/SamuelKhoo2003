@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "An angry man opens his mouth and shuts his eyes." — **Cato the Elder**
+> "Bad psychoanalysis would say I enjoyed pleasing people, working really hard and pleasing people, which is probably related to my father in some way. But I really liked working hard. When I worked at Disneyland, I'd do 12 hours straight and go home thrilled." — **Steve Martin**
 
 ---
 <p align="center">
