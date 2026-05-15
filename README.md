@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Bad psychoanalysis would say I enjoyed pleasing people, working really hard and pleasing people, which is probably related to my father in some way. But I really liked working hard. When I worked at Disneyland, I'd do 12 hours straight and go home thrilled." — **Steve Martin**
+> "Whatever I'm doing, I'm in that moment and I'm doing it. The rest of the world's lost. If I'm cooking some food or making soup, I want it to be lovely. If not, what's the point of doing it?" — **Sade Adu**
 
 ---
 <p align="center">
