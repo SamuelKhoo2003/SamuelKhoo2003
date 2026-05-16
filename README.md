@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Whatever I'm doing, I'm in that moment and I'm doing it. The rest of the world's lost. If I'm cooking some food or making soup, I want it to be lovely. If not, what's the point of doing it?" — **Sade Adu**
+> "I wanted to be a rich, famous rock-and-roll star in that order." — **Dee Snider**
 
 ---
 <p align="center">
