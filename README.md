@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I wanted to be a rich, famous rock-and-roll star in that order." — **Dee Snider**
+> "To forgive is to set a prisoner free and discover that the prisoner was you." — **Lewis B. Smedes**
 
 ---
 <p align="center">
