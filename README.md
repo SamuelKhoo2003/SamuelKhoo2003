@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "To forgive is to set a prisoner free and discover that the prisoner was you." — **Lewis B. Smedes**
+> "The jealousy and resentment that animate the terrorists also affect many of our former cold war allies." — **Richard Perle**
 
 ---
 <p align="center">
