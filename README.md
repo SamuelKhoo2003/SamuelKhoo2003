@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The jealousy and resentment that animate the terrorists also affect many of our former cold war allies." — **Richard Perle**
+> "Cricket makes no sense to me. I find it beautiful to watch and I like that they break for tea. That is very cool, but I don't understand. My friends from The Clash tried to explain it years and years ago, but I didn't understand what they were talking about." — **Jim Jarmusch**
 
 ---
 <p align="center">
