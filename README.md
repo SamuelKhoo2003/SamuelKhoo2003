@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Cricket makes no sense to me. I find it beautiful to watch and I like that they break for tea. That is very cool, but I don't understand. My friends from The Clash tried to explain it years and years ago, but I didn't understand what they were talking about." — **Jim Jarmusch**
+> "I propose that the government should get out of the business of marrying people and, instead, only give legal status to civil unions." — **Tony Campolo**
 
 ---
 <p align="center">
