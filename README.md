@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I propose that the government should get out of the business of marrying people and, instead, only give legal status to civil unions." — **Tony Campolo**
+> "You're only as young as the last time you changed your mind." — **Timothy Leary**
 
 ---
 <p align="center">
