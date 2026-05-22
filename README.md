@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You're only as young as the last time you changed your mind." — **Timothy Leary**
+> "Moderation has been called a virtue to limit the ambition of great men, and to console undistinguished people for their want of fortune and their lack of merit." — **Benjamin Disraeli**
 
 ---
 <p align="center">
