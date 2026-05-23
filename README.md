@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Moderation has been called a virtue to limit the ambition of great men, and to console undistinguished people for their want of fortune and their lack of merit." — **Benjamin Disraeli**
+> "Actually, if I don't eat healthy food I don't feel good. For me, I crave healthy food." — **Kristin Cavallari**
 
 ---
 <p align="center">
