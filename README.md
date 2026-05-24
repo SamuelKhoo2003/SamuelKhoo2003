@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Actually, if I don't eat healthy food I don't feel good. For me, I crave healthy food." — **Kristin Cavallari**
+> "The flesh endures the storms of the present alone the mind, those of the past and future as well as the present. Gluttony is a lust of the mind." — **Thomas Hobbes**
 
 ---
 <p align="center">
