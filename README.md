@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The flesh endures the storms of the present alone the mind, those of the past and future as well as the present. Gluttony is a lust of the mind." — **Thomas Hobbes**
+> "Imagine it's 1981. You're an artist, in love with art, smitten with art history. You're also a woman, with almost no mentors to look to art history just isn't that into you. Any woman approaching art history in the early eighties was attempting to enter an almost foreign country, a restricted and exclusionary domain that spoke a private language." — **Jerry Saltz**
 
 ---
 <p align="center">
