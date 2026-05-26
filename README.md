@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Imagine it's 1981. You're an artist, in love with art, smitten with art history. You're also a woman, with almost no mentors to look to art history just isn't that into you. Any woman approaching art history in the early eighties was attempting to enter an almost foreign country, a restricted and exclusionary domain that spoke a private language." — **Jerry Saltz**
+> "I'm not a driven businessman, but a driven artist. I never think about money. Beautiful things make money." — **Lord Acton**
 
 ---
 <p align="center">
