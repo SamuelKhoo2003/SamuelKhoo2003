@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm not a driven businessman, but a driven artist. I never think about money. Beautiful things make money." — **Lord Acton**
+> "I do not believe in the God of theology who rewards good and punishes evil." — **Albert Einstein**
 
 ---
 <p align="center">
