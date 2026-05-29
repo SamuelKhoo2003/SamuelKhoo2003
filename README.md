@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I have a loyalty that runs in my bloodstream, when I lock into someone or something, you can't get me away from it because I commit that thoroughly. That's in friendship, that's a deal, that's a commitment. Don't give me paper - I can get the same lawyer who drew it up to break it. But if you shake my hand, that's for life." — **Jerry Lewis**
+> "Of course there are critics who believe that no matter what we do, the Florida dream is over. They claim that we must accept the idea that inevitably our future is one of high taxes and big government." — **Marco Rubio**
 
 ---
 <p align="center">
