@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Of course there are critics who believe that no matter what we do, the Florida dream is over. They claim that we must accept the idea that inevitably our future is one of high taxes and big government." — **Marco Rubio**
+> "Wisdom comes alone through suffering." — **Aeschylus**
 
 ---
 <p align="center">
