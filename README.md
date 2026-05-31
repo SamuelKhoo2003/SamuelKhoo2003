@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Wisdom comes alone through suffering." — **Aeschylus**
+> "I'm happy to report that 'The New Press' is still in business to this day. But not thanks to me. I was a really bad publishing intern." — **Lev Grossman**
 
 ---
 <p align="center">
