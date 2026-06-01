@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm happy to report that 'The New Press' is still in business to this day. But not thanks to me. I was a really bad publishing intern." — **Lev Grossman**
+> "We have the duty to protect the life of an unborn child." — **Ronald Reagan**
 
 ---
 <p align="center">
