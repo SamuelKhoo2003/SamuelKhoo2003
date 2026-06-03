@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Forgiveness is not always easy. At times, it feels more painful than the wound we suffered, to forgive the one that inflicted it. And yet, there is no peace without forgiveness." — **Marianne Williamson**
+> "Until we get equality in education, we won't have an equal society." — **Sonia Sotomayor**
 
 ---
 <p align="center">
