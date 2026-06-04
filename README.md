@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Until we get equality in education, we won't have an equal society." — **Sonia Sotomayor**
+> "For the most part, comedians are pretty friendly with each other. They always say they badmouth each other, but most of the time, they're friends. We're the only ones that can really stand our type of humor." — **Colin Quinn**
 
 ---
 <p align="center">
