@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "For the most part, comedians are pretty friendly with each other. They always say they badmouth each other, but most of the time, they're friends. We're the only ones that can really stand our type of humor." — **Colin Quinn**
+> "The Klan had used fear, intimidation and murder to brutally oppress over African-Americans who sought justice and equality and it sought to respond to the young workers of the civil rights movement in Mississippi in the same way." — **Charles Rangel**
 
 ---
 <p align="center">
