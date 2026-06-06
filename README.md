@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The Klan had used fear, intimidation and murder to brutally oppress over African-Americans who sought justice and equality and it sought to respond to the young workers of the civil rights movement in Mississippi in the same way." — **Charles Rangel**
+> "The cool part about working for Disney is that they've allowed me to be a change agent." — **Christy Romano**
 
 ---
 <p align="center">
