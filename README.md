@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The cool part about working for Disney is that they've allowed me to be a change agent." — **Christy Romano**
+> "There are as many kinds of beauty as there are habitual ways of seeking happiness." — **Charles Baudelaire**
 
 ---
 <p align="center">
