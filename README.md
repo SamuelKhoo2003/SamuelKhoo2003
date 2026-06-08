@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There are as many kinds of beauty as there are habitual ways of seeking happiness." — **Charles Baudelaire**
+> "I had a dad you know." — **Darrell Hammond**
 
 ---
 <p align="center">
