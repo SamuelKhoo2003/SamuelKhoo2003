@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I had a dad you know." — **Darrell Hammond**
+> "I stand before you today because this vision of government as the engine of opportunity is what I believe in." — **Eliot Spitzer**
 
 ---
 <p align="center">
