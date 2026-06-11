@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Success is often achieved by those who don't know that failure is inevitable." — **Coco Chanel**
+> "We call that person who has lost his father, an orphan and a widower that man who has lost his wife. But that man who has known the immense unhappiness of losing a friend, by what name do we call him? Here every language is silent and holds its peace in impotence." — **Joseph Roux**
 
 ---
 <p align="center">
