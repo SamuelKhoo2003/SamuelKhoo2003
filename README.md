@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We call that person who has lost his father, an orphan and a widower that man who has lost his wife. But that man who has known the immense unhappiness of losing a friend, by what name do we call him? Here every language is silent and holds its peace in impotence." — **Joseph Roux**
+> "Where I am today... I still have my ups and downs, but I take it one day at a time and I just hope that I can be the best that I can possibly be, not only for myself, but also young people that are out there today that need someone to look up to." — **Demi Lovato**
 
 ---
 <p align="center">
