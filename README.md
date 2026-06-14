@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Where I am today... I still have my ups and downs, but I take it one day at a time and I just hope that I can be the best that I can possibly be, not only for myself, but also young people that are out there today that need someone to look up to." — **Demi Lovato**
+> "There is no subject on which more dangerous nonsense is talked and thought than marriage." — **George Bernard Shaw**
 
 ---
 <p align="center">
