@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There is no subject on which more dangerous nonsense is talked and thought than marriage." — **George Bernard Shaw**
+> "Religion is more than life. Remember that his own religion is the truest to every man even if it stands low in the scales of philosophical comparison." — **Mahatma Gandhi**
 
 ---
 <p align="center">
