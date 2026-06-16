@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Religion is more than life. Remember that his own religion is the truest to every man even if it stands low in the scales of philosophical comparison." — **Mahatma Gandhi**
+> "A happy home is one in which each spouse grants the possibility that the other may be right, though neither believes it." — **Don Fraser**
 
 ---
 <p align="center">
