@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A happy home is one in which each spouse grants the possibility that the other may be right, though neither believes it." — **Don Fraser**
+> "In the business world, everyone is paid in two coins: cash and experience. Take the experience first the cash will come later." — **Harold S. Geneen**
 
 ---
 <p align="center">
