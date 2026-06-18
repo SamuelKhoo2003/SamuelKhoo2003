@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "In the business world, everyone is paid in two coins: cash and experience. Take the experience first the cash will come later." — **Harold S. Geneen**
+> "The excitement of learning separates youth from old age. As long as you're learning you're not old." — **Rosalyn S. Yalow**
 
 ---
 <p align="center">
