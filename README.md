@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The excitement of learning separates youth from old age. As long as you're learning you're not old." — **Rosalyn S. Yalow**
+> "In the past, I had my idols but today I enjoy learning from all the soccer I watch." — **Andres Iniesta**
 
 ---
 <p align="center">
