@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "In the past, I had my idols but today I enjoy learning from all the soccer I watch." — **Andres Iniesta**
+> "On a day when you're tired, it's important to just say good morning to everyone so they're kind of aware that it's gonna be a good day. Jamie Lee Curtis told me that." — **Lindsay Lohan**
 
 ---
 <p align="center">
