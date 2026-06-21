@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "On a day when you're tired, it's important to just say good morning to everyone so they're kind of aware that it's gonna be a good day. Jamie Lee Curtis told me that." — **Lindsay Lohan**
+> "The president strongly believes that marriage in this country ought to be between a man and a woman. He also believes it is something that ought to be decided by the people. He doesn't believe that judges ought to impose their will on the people." — **Ken Mehlman**
 
 ---
 <p align="center">
