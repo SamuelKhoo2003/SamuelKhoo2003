@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The president strongly believes that marriage in this country ought to be between a man and a woman. He also believes it is something that ought to be decided by the people. He doesn't believe that judges ought to impose their will on the people." — **Ken Mehlman**
+> "All credibility, all good conscience, all evidence of truth come only from the senses." — **Friedrich Nietzsche**
 
 ---
 <p align="center">
