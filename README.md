@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "All credibility, all good conscience, all evidence of truth come only from the senses." — **Friedrich Nietzsche**
+> "We still believe in the America that is a land of opportunity and a beacon of freedom. We believe in the America that challenges each of us to be better and bigger than ourselves." — **Mitt Romney**
 
 ---
 <p align="center">
