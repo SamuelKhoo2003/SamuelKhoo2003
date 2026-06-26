@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The Declaration of Independence says when government fails, the people have the right to replace it. Well, New York State government has failed and the people have the right, indeed the people have the the people have the obligation, to act." — **Andrew Cuomo**
+> "The greatest honor history can bestow is that of peacemaker." — **Richard M. Nixon**
 
 ---
 <p align="center">
