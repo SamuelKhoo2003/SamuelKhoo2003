@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The greatest honor history can bestow is that of peacemaker." — **Richard M. Nixon**
+> "All men's misfortunes spring from their hatred of being alone." — **Jean de la Bruyere**
 
 ---
 <p align="center">
