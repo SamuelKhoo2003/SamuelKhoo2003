@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "All men's misfortunes spring from their hatred of being alone." — **Jean de la Bruyere**
+> "You can't let your past hold your future hostage." — **LL Cool J**
 
 ---
 <p align="center">
