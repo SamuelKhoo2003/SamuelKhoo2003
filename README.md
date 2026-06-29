@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You can't let your past hold your future hostage." — **LL Cool J**
+> "Over the past few years, the road to confrontation has shown its consequences: loss of innocent lives, destruction and fear. Most costly, however, was the loss of hope. The most precious gift that you can present to your peoples over the coming weeks is renewed hope born out of tangible progress on the ground." — **King Abdullah II**
 
 ---
 <p align="center">
