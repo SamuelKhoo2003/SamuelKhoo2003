@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's not like I'm the most famous person in the world." — **Ron Silver**
+> "Each age, it is found, must write its own books or rather, each generation for the next succeeding." — **Ralph Waldo Emerson**
 
 ---
 <p align="center">
