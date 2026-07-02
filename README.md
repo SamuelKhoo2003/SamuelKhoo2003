@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Each age, it is found, must write its own books or rather, each generation for the next succeeding." — **Ralph Waldo Emerson**
+> "A shady business never yields a sunny life." — **B. C. Forbes**
 
 ---
 <p align="center">
