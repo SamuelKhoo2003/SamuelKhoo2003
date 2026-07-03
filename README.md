@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A shady business never yields a sunny life." — **B. C. Forbes**
+> "Sometimes the best lighting of all is a power failure." — **Doug Coupland**
 
 ---
 <p align="center">
