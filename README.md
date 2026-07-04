@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Sometimes the best lighting of all is a power failure." — **Doug Coupland**
+> "I don't think you ever stop giving. I really don't. I think it's an on-going process. And it's not just about being able to write a check. It's being able to touch somebody's life." — **Oprah Winfrey**
 
 ---
 <p align="center">
