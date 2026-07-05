@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I don't think you ever stop giving. I really don't. I think it's an on-going process. And it's not just about being able to write a check. It's being able to touch somebody's life." — **Oprah Winfrey**
+> "To desire and strive to be of some service to the world, to aim at doing something which shall really increase the happiness and welfare and virtue of mankind - this is a choice which is possible for all of us and surely it is a good haven to sail for." — **Henry Van Dyke**
 
 ---
 <p align="center">
