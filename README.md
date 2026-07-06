@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "To desire and strive to be of some service to the world, to aim at doing something which shall really increase the happiness and welfare and virtue of mankind - this is a choice which is possible for all of us and surely it is a good haven to sail for." — **Henry Van Dyke**
+> "I am running for president to help create a better future. A future where everyone who wants a job can find one. Where no senior fears for the security of their retirement. An America where every parent knows that their child will get an education that leads them to a good job and a bright horizon." — **Mitt Romney**
 
 ---
 <p align="center">
