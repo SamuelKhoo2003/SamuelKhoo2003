@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I am running for president to help create a better future. A future where everyone who wants a job can find one. Where no senior fears for the security of their retirement. An America where every parent knows that their child will get an education that leads them to a good job and a bright horizon." — **Mitt Romney**
+> "Let me give you a definition of ethics: It is good to maintain and further life it is bad to damage and destroy life." — **Albert Schweitzer**
 
 ---
 <p align="center">
