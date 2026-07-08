@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Let me give you a definition of ethics: It is good to maintain and further life it is bad to damage and destroy life." — **Albert Schweitzer**
+> "At the end of the day, we must go forward with hope and not backward by fear and division." — **Jesse Jackson**
 
 ---
 <p align="center">
