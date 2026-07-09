@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "At the end of the day, we must go forward with hope and not backward by fear and division." — **Jesse Jackson**
+> "That men do not learn very much from the lessons of history is the most important of all the lessons of history." — **Aldous Huxley**
 
 ---
 <p align="center">
