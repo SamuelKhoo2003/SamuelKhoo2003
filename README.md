@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "That men do not learn very much from the lessons of history is the most important of all the lessons of history." — **Aldous Huxley**
+> "Behind every great fortune lies a great crime." — **Honore de Balzac**
 
 ---
 <p align="center">
