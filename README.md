@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Behind every great fortune lies a great crime." — **Honore de Balzac**
+> "The first duty of government is to see that people have food, fuel, and clothes. The second, that they have means of moral and intellectual education." — **John Ruskin**
 
 ---
 <p align="center">
