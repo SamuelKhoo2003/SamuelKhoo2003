@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The first duty of government is to see that people have food, fuel, and clothes. The second, that they have means of moral and intellectual education." — **John Ruskin**
+> "A mode of conduct, a standard of courage, discipline, fortitude and integrity can do a great deal to make a woman beautiful." — **Jacqueline Bisset**
 
 ---
 <p align="center">
