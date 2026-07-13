@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A mode of conduct, a standard of courage, discipline, fortitude and integrity can do a great deal to make a woman beautiful." — **Jacqueline Bisset**
+> "A common misconception is that the costs of health care are cheaper in rural America, when in fact the reality is that they are more expensive and more difficult to access." — **Blanche Lincoln**
 
 ---
 <p align="center">
