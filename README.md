@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A common misconception is that the costs of health care are cheaper in rural America, when in fact the reality is that they are more expensive and more difficult to access." — **Blanche Lincoln**
+> "I hope that no more groans of wounded men and women will ever go to the ear of the Great Spirit Chief above, and that all people may be one people." — **Chief Joseph**
 
 ---
 <p align="center">
