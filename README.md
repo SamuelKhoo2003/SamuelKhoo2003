@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I hope that no more groans of wounded men and women will ever go to the ear of the Great Spirit Chief above, and that all people may be one people." — **Chief Joseph**
+> "I don't consider Americans bullies, but I do consider the American government bullying." — **George Michael**
 
 ---
 <p align="center">
