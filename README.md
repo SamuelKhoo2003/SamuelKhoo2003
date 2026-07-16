@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I don't consider Americans bullies, but I do consider the American government bullying." — **George Michael**
+> "Love is never defeated, and I could add, the history of Ireland proves it." — **Pope John Paul II**
 
 ---
 <p align="center">
