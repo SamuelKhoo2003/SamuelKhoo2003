@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Love is never defeated, and I could add, the history of Ireland proves it." — **Pope John Paul II**
+> "Most North Americans know that human-caused global warming is real, even if political leaders don't always reflect or act on that knowledge." — **David Suzuki**
 
 ---
 <p align="center">
