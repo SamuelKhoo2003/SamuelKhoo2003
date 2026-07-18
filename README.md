@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Most North Americans know that human-caused global warming is real, even if political leaders don't always reflect or act on that knowledge." — **David Suzuki**
+> "The benefit of the radio is, something beyond your realm of knowledge can surprise you, can enter your realm of knowledge." — **Esperanza Spalding**
 
 ---
 <p align="center">
