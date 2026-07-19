@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The benefit of the radio is, something beyond your realm of knowledge can surprise you, can enter your realm of knowledge." — **Esperanza Spalding**
+> "Despise the enemy strategically, but take him seriously tactically." — **Mao Zedong**
 
 ---
 <p align="center">
