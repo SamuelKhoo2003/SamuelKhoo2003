@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Keep a good attitude and do the right thing even when it's hard. When you do that you are passing the test. And God promises you your marked moments are on their way." — **Joel Osteen**
+> "I want my boys to have an understanding of people's emotions, their insecurities, people's distress, and their hopes and dreams." — **Princess Diana**
 
 ---
 <p align="center">
