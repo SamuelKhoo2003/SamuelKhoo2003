@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The future is not Big Government. Self-serving politicians. Powerful bureaucrats. This has been tried, tested throughout history. The result has always been disaster. President Obama, your agenda is not new. It's not change, and it's not hope." — **Rush Limbaugh**
+> "You can't stop loving or wanting to love because when its right it's the best thing in the world. When you're in a relationship and its good, even if nothing else in your life is right, you feel like your whole world is complete." — **Keith Sweat**
 
 ---
 <p align="center">
