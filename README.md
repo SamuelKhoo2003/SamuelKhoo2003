@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You can't stop loving or wanting to love because when its right it's the best thing in the world. When you're in a relationship and its good, even if nothing else in your life is right, you feel like your whole world is complete." — **Keith Sweat**
+> "Education doesn't change life much. It just lifts trouble to a higher plane of regard." — **Robert Frost**
 
 ---
 <p align="center">
