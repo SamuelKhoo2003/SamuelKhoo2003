@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Education doesn't change life much. It just lifts trouble to a higher plane of regard." — **Robert Frost**
+> "A real failure does not need an excuse. It is an end in itself." — **Gertrude Stein**
 
 ---
 <p align="center">
