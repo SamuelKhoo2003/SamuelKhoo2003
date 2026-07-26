@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A real failure does not need an excuse. It is an end in itself." — **Gertrude Stein**
+> "I have a great deal of company in the house, especially in the morning when nobody calls." — **Henry David Thoreau**
 
 ---
 <p align="center">
