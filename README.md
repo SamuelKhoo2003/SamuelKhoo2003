@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I have a great deal of company in the house, especially in the morning when nobody calls." — **Henry David Thoreau**
+> "We really feel happier when things look bleak. Hope is endurance. Hope is holding on and going on and trusting in the Lord." — **Michael Novak**
 
 ---
 <p align="center">
