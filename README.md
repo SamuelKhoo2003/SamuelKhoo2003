@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We really feel happier when things look bleak. Hope is endurance. Hope is holding on and going on and trusting in the Lord." — **Michael Novak**
+> "I feel the 21st century is another new age. Not only can we collaborate again with nature, but we have to. It's an emergency." — **Bjork**
 
 ---
 <p align="center">
