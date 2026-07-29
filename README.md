@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I feel the 21st century is another new age. Not only can we collaborate again with nature, but we have to. It's an emergency." — **Bjork**
+> "It's up to the courage of the filmmakers to make art in cinema, not just business. John was rejected by studios, he borrowed money and did movies with his own money. You're either courageous or not. You have to find a way." — **Ben Gazzara**
 
 ---
 <p align="center">
