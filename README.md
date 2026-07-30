@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's up to the courage of the filmmakers to make art in cinema, not just business. John was rejected by studios, he borrowed money and did movies with his own money. You're either courageous or not. You have to find a way." — **Ben Gazzara**
+> "Pharmaceutical companies are enjoying unprecedented profits and access with this Administration. Yet the Republicans' prescription drug plan for seniors has been a colossal failure, and over 43 million Americans wake up every morning without health insurance." — **Jim Clyburn**
 
 ---
 <p align="center">
