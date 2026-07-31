@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Pharmaceutical companies are enjoying unprecedented profits and access with this Administration. Yet the Republicans' prescription drug plan for seniors has been a colossal failure, and over 43 million Americans wake up every morning without health insurance." — **Jim Clyburn**
+> "The most important thing is God's blessing and if you believe in God and you believe in yourself, you have nothing to worry about." — **Mohamed Al-Fayed**
 
 ---
 <p align="center">
