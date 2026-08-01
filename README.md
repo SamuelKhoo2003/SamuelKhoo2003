@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The most important thing is God's blessing and if you believe in God and you believe in yourself, you have nothing to worry about." — **Mohamed Al-Fayed**
+> "I'm a video game fan, and I always thought it would be cool to be able to control a character." — **Shia LaBeouf**
 
 ---
 <p align="center">
