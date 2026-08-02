@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm a video game fan, and I always thought it would be cool to be able to control a character." — **Shia LaBeouf**
+> "While I relish our warm months, winter forms our character and brings out our best." — **Tom Allen**
 
 ---
 <p align="center">
