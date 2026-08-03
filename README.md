@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "While I relish our warm months, winter forms our character and brings out our best." — **Tom Allen**
+> "But you know, my dad called me the laziest white kid he ever met. When I screamed back at him that he was putting down a race of people to call me lazy, his answer was that's not what he was doing, and that I was also the dumbest white kid he ever met." — **Norman Lear**
 
 ---
 <p align="center">
