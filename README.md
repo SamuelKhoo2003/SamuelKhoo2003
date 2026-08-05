@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "At the very outset I want to say how the people of America appreciate the steadfast support of the people of Morocco, the leadership of Morocco in our war against terrorism." — **Donald Evans**
+> "I like the outdoors and the natural world. Environmental issues." — **Mackenzie Crook**
 
 ---
 <p align="center">
