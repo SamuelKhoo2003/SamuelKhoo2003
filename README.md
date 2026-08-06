@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I like the outdoors and the natural world. Environmental issues." — **Mackenzie Crook**
+> "All still lifes are actually paintings of the world on the sixth day of creation, when God and the world were alone together, without man!" — **Robert Musil**
 
 ---
 <p align="center">
