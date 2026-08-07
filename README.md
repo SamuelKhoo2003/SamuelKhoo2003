@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "All still lifes are actually paintings of the world on the sixth day of creation, when God and the world were alone together, without man!" — **Robert Musil**
+> "If anybody had a reason to become a delinquent, to become a criminal, to be angry at the man, to be angry at the white man, to be angry at America, it's my dad, but he did not feel that way at all." — **Larry Elder**
 
 ---
 <p align="center">
