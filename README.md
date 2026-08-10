@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Look your best - who said love is blind?" — **Mae West**
+> "Fear is the mother of foresight." — **Taylor, Henry**
 
 ---
 <p align="center">
