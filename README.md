@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Fear is the mother of foresight." — **Taylor, Henry**
+> "Mere parsimony is not economy. Expense, and great expense, may be an essential part in true economy." — **Edmund Burke**
 
 ---
 <p align="center">
