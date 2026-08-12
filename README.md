@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Mere parsimony is not economy. Expense, and great expense, may be an essential part in true economy." — **Edmund Burke**
+> "The true poet for me is a priest. As soon as he dons the cassock, he must leave his family." — **Gustave Flaubert**
 
 ---
 <p align="center">
