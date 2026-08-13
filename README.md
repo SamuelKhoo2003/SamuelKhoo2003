@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The true poet for me is a priest. As soon as he dons the cassock, he must leave his family." — **Gustave Flaubert**
+> "The essence of all beautiful art, all great art, is gratitude." — **Friedrich Nietzsche**
 
 ---
 <p align="center">
