@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If children are not introduced to music at an early age, I believe something fundamental is actually being taken from them." — **Luciano Pavarotti**
+> "I do like to move and get physical in my movies." — **Nicolas Cage**
 
 ---
 <p align="center">
