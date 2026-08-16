@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I do like to move and get physical in my movies." — **Nicolas Cage**
+> "Opinion is the medium between knowledge and ignorance." — **Plato**
 
 ---
 <p align="center">
