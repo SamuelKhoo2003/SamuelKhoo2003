@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Opinion is the medium between knowledge and ignorance." — **Plato**
+> "I've been through it all, baby, I'm mother courage." — **Elizabeth Taylor**
 
 ---
 <p align="center">
