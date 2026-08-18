@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I've been through it all, baby, I'm mother courage." — **Elizabeth Taylor**
+> "Cure yourself of the affliction of caring how you appear to others. Concern yourself only with how you appear before God, concern yourself only with the idea that God may have of you." — **Miguel de Unamuno**
 
 ---
 <p align="center">
