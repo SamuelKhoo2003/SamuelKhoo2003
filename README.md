@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Cure yourself of the affliction of caring how you appear to others. Concern yourself only with how you appear before God, concern yourself only with the idea that God may have of you." — **Miguel de Unamuno**
+> "If you're writing, you're starting in private. It can really be this amazing, private, freeing experience. Forget that it's for other people - that comes in later." — **Lena Dunham**
 
 ---
 <p align="center">
