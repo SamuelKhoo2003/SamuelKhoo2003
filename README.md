@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you're writing, you're starting in private. It can really be this amazing, private, freeing experience. Forget that it's for other people - that comes in later." — **Lena Dunham**
+> "My message, especially to young people is to have courage to think differently, courage to invent, to travel the unexplored path, courage to discover the impossible and to conquer the problems and succeed. These are great qualities that they must work towards. This is my message to the young people." — **Abdul Kalam**
 
 ---
 <p align="center">
