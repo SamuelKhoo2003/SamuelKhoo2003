@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My message, especially to young people is to have courage to think differently, courage to invent, to travel the unexplored path, courage to discover the impossible and to conquer the problems and succeed. These are great qualities that they must work towards. This is my message to the young people." — **Abdul Kalam**
+> "Three groups spend other people's money: children, thieves, politicians. All three need supervision." — **Dick Armey**
 
 ---
 <p align="center">
