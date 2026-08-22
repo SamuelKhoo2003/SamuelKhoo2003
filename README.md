@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Three groups spend other people's money: children, thieves, politicians. All three need supervision." — **Dick Armey**
+> "All money means to me is a pride in accomplishment." — **Ray Kroc**
 
 ---
 <p align="center">
