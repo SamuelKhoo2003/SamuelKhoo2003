@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "All money means to me is a pride in accomplishment." — **Ray Kroc**
+> "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared." — **Buddha**
 
 ---
 <p align="center">
