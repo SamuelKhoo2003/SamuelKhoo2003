@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared." — **Buddha**
+> "Movies always are open to being remade because times change so much, and the tempo of movies changes. I think of it like a James Bond. They can have different actors play the same role... I've had people come up to me and say, 'We want to remake 'The Jerk' with so and so.' And I say, 'Fine.' It just doesn't bother me. It's an honor actually." — **Steve Martin**
 
 ---
 <p align="center">
