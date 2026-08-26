@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A true friend is one who overlooks your failures and tolerates your success!" — **Doug Larson**
+> "Inductive reason, which alone makes man master of his environment, is an achievement and when once born it must be reinforced by inhibiting the growth of other modes of knowledge." — **Muhammad Iqbal**
 
 ---
 <p align="center">
