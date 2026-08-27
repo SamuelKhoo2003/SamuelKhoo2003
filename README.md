@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Inductive reason, which alone makes man master of his environment, is an achievement and when once born it must be reinforced by inhibiting the growth of other modes of knowledge." — **Muhammad Iqbal**
+> "Politics are for foreigners with their endless wrongs and paltry rights. Politics are a lousy way to get things done. Politics are, like God's infinite mercy, a last resort." — **P. J. O'Rourke**
 
 ---
 <p align="center">
