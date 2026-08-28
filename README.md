@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Politics are for foreigners with their endless wrongs and paltry rights. Politics are a lousy way to get things done. Politics are, like God's infinite mercy, a last resort." — **P. J. O'Rourke**
+> "Faith is not contrary to reason." — **Sherwood Eddy**
 
 ---
 <p align="center">
