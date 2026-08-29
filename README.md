@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Faith is not contrary to reason." — **Sherwood Eddy**
+> "It's not going to do any good to land on Mars if we're stupid." — **Ray Bradbury**
 
 ---
 <p align="center">
