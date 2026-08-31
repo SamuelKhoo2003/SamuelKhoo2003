@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My wife and I just prefer Seattle. It's a beautiful city. Great setting. You open your front door in the morning and the air smells like pine and the sea, as opposed to bus exhaust." — **Ron Reagan**
+> "Age is something that doesn't matter, unless you are a cheese." — **Luis Bunuel**
 
 ---
 <p align="center">
