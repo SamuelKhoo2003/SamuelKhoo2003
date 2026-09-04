@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I was into opera as a kid - I'd play 'Carmen' and sing and dance. My mom signed me up for a theater group before preschool, and I never looked back." — **Nina Arianda**
+> "Love is an energy which exists of itself. It is its own value." — **Thornton Wilder**
 
 ---
 <p align="center">
