@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Love is an energy which exists of itself. It is its own value." — **Thornton Wilder**
+> "During a trip to Iraq last fall, I visited our theater hospital at Balad Air Force Base and witnessed these skilled medical professionals in action and met the brave soldiers whose lives they saved." — **Melissa Bean**
 
 ---
 <p align="center">
