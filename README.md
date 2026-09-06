@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "During a trip to Iraq last fall, I visited our theater hospital at Balad Air Force Base and witnessed these skilled medical professionals in action and met the brave soldiers whose lives they saved." — **Melissa Bean**
+> "Isn't it amazing the way the future succeeds in creating an appropriate past?" — **John Leonard**
 
 ---
 <p align="center">
