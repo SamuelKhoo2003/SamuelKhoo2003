@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Isn't it amazing the way the future succeeds in creating an appropriate past?" — **John Leonard**
+> "It is a fact often observed, that men have written good verses under the inspiration of passion, who cannot write well under other circumstances." — **Ralph Waldo Emerson**
 
 ---
 <p align="center">
