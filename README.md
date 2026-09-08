@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is a fact often observed, that men have written good verses under the inspiration of passion, who cannot write well under other circumstances." — **Ralph Waldo Emerson**
+> "Other famous men, those of much talk and few deeds, soon evaporate. Action is the dignity of greatness." — **Jose Marti**
 
 ---
 <p align="center">
