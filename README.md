@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Other famous men, those of much talk and few deeds, soon evaporate. Action is the dignity of greatness." — **Jose Marti**
+> "The same principles which at first view lead to skepticism, pursued to a certain point, bring men back to common sense." — **George Berkeley**
 
 ---
 <p align="center">
