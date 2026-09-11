@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Driving with one foot on the accelerator and the other on the brake is likely to get you nowhere, but certainly will burn out vital parts of your car. Similarly, cutting taxes on the middle class, but increasing them on the 'rich' is likely to result in an economic burnout." — **Terry Savage**
+> "Men shrink less from offending one who inspires love than one who inspires fear." — **Niccolo Machiavelli**
 
 ---
 <p align="center">
