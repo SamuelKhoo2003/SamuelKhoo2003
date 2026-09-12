@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Men shrink less from offending one who inspires love than one who inspires fear." — **Niccolo Machiavelli**
+> "Men can absent themselves from real life for their art more easily. Women are anchored into the quotidian business of getting food on the table, making sure everybody's socks match, the soccer gear is ready. I admire idealists, but they're usually enabled by someone who holds the tether on their balloon, who pays the bills and sweeps up after them." — **Geraldine Brooks**
 
 ---
 <p align="center">
