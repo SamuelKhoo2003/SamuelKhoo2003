@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'd always thought the Rats were good fun, but one of the very nice things about being of Saga age is that I can actually look back and think, When I was younger I was in a great band. It was always a collective thing." — **Bob Geldof**
+> "Communism has decided against God, against Christ, against the Bible, and against all religion." — **Billy Graham**
 
 ---
 <p align="center">
