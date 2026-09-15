@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Communism has decided against God, against Christ, against the Bible, and against all religion." — **Billy Graham**
+> "Women are so unforgiving of themselves. We don't recognize our own beauty because we're too busy comparing ourselves to other people." — **Kelly Osbourne**
 
 ---
 <p align="center">
