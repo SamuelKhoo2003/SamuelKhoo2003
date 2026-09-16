@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Women are so unforgiving of themselves. We don't recognize our own beauty because we're too busy comparing ourselves to other people." — **Kelly Osbourne**
+> "Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands." — **Anne Frank**
 
 ---
 <p align="center">
