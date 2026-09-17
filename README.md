@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands." — **Anne Frank**
+> "I think there's a future where the Web and print coexist and they each do things uniquely and complement each other, and we have what could be the ultimate and best-yet array of journalistic venues." — **Dave Eggers**
 
 ---
 <p align="center">
