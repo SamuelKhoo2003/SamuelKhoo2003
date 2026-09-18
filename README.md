@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think there's a future where the Web and print coexist and they each do things uniquely and complement each other, and we have what could be the ultimate and best-yet array of journalistic venues." — **Dave Eggers**
+> "Love is life. And if you miss love, you miss life." — **Leo Buscaglia**
 
 ---
 <p align="center">
