@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It is a common saying, and in everybody's mouth, that life is but a sojourn." — **Plato**
+> "It takes an extraordinary intelligence to contemplate the obvious." — **Alfred North Whitehead**
 
 ---
 <p align="center">
