@@ -4,8 +4,8 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building cool projects. Feel free to explore my [personal website](https://samuelkhoo.vercel.app/) for more about me and my work. Here's a bit about me:
 
-- 🎓 Currently a student at: **Imperial College London** 
-- 🌱 Currently studying: **Computer Engineering**
+- 🎓 Graduated from **Imperial College London** with a degree in **Computer Engineering**
+- 💻 Currently: **Software Infrastructure Engineer**
 - 🔭 Exploring: **New Recipes** 👨‍🍳
 - 🌏 My homeland: **Malaysia** 🇲🇾
 - 🎵 I love listening to **music** while coding. Check out what I'm listening to below!
