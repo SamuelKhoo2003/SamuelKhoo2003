@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It takes an extraordinary intelligence to contemplate the obvious." — **Alfred North Whitehead**
+> "We think that forgiveness is weakness, but it's absolutely not it takes a very strong person to forgive." — **T. D. Jakes**
 
 ---
 <p align="center">
