@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We think that forgiveness is weakness, but it's absolutely not it takes a very strong person to forgive." — **T. D. Jakes**
+> "I'm a mirror. If you're cool with me, I'm cool with you, and the exchange starts. What you see is what you reflect. If you don't like what you see, then you've done something. If I'm standoffish, that's because you are." — **Jay-Z**
 
 ---
 <p align="center">
