@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I'm a mirror. If you're cool with me, I'm cool with you, and the exchange starts. What you see is what you reflect. If you don't like what you see, then you've done something. If I'm standoffish, that's because you are." — **Jay-Z**
+> "Someday we'll look back on this moment and plow into a parked car." — **Evan Davis**
 
 ---
 <p align="center">
