@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Someday we'll look back on this moment and plow into a parked car." — **Evan Davis**
+> "Making movies is a very different experience in a lot of ways. It's difficult when you're used to owning the copyright and having a landlord's possessory rights - I rent my plays to the companies that do them and, if I'm upset, I can pull the play. But the only two directors I've worked with are pretty great." — **Tony Kushner**
 
 ---
 <p align="center">
