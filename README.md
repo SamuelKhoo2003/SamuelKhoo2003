@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Hunger, revenge, to sleep are petty foes, But only death the jealous eyes can close." — **William Wycherley**
+> "Above all, we must realize that no arsenal, or no weapon in the arsenals of the world, is so formidable as the will and moral courage of free men and women. It is a weapon our adversaries in today's world do not have." — **Ronald Reagan**
 
 ---
 <p align="center">
