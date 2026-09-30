@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "We live under a government of men and morning newspapers." — **Wendell Phillips**
+> "Is there in all the history of human folly a greater fool than a clergymen in politics?" — **Pat Robertson**
 
 ---
 <p align="center">
