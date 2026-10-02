@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "When I stand before God at the end of my life, I would hope that I would not have a single bit of talent left, and could say, 'I used everything you gave me'." — **Erma Bombeck**
+> "Money can't buy you happiness, but it can buy you a yacht big enough to pull up right alongside it." — **David Lee Roth**
 
 ---
 <p align="center">
