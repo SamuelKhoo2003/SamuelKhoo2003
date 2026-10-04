@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "History tells us that America does best when the private sector is energetic and entrepreneurial and the government is attentive and engaged. Who among us, really, would, looking back, wish to edit out either sphere at the entire expense of the other?" — **Jon Meacham**
+> "Massachusetts children cannot only lead the nation in test scores, they can be competitive with the best in the world. And the gap in achievement among races can virtually disappear." — **Mitt Romney**
 
 ---
 <p align="center">
