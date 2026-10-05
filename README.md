@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Massachusetts children cannot only lead the nation in test scores, they can be competitive with the best in the world. And the gap in achievement among races can virtually disappear." — **Mitt Romney**
+> "I had known Cole Porter in Hollywood and New York, spent many a warm hour at his home, and met the talented and original people who were drawn to him." — **Gene Tierney**
 
 ---
 <p align="center">
