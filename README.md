@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I had known Cole Porter in Hollywood and New York, spent many a warm hour at his home, and met the talented and original people who were drawn to him." — **Gene Tierney**
+> "Michael has a connection with children, just like Mickey Mouse does, and he brings happiness to them, and joy." — **Jermaine Jackson**
 
 ---
 <p align="center">
