@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Michael has a connection with children, just like Mickey Mouse does, and he brings happiness to them, and joy." — **Jermaine Jackson**
+> "Boldness is a mask for fear, however great." — **John Dryden**
 
 ---
 <p align="center">
