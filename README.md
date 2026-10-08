@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Boldness is a mask for fear, however great." — **John Dryden**
+> "The tragedy of modern war is that the young men die fighting each other - instead of their real enemies back home in the capitals." — **Edward Abbey**
 
 ---
 <p align="center">
