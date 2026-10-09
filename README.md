@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The tragedy of modern war is that the young men die fighting each other - instead of their real enemies back home in the capitals." — **Edward Abbey**
+> "Punk's influence on music, movies, art, design and fashion is no longer in doubt. It is used as the measurement for what is cool." — **Malcolm Mclaren**
 
 ---
 <p align="center">
