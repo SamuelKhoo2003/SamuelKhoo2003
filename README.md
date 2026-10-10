@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Punk's influence on music, movies, art, design and fashion is no longer in doubt. It is used as the measurement for what is cool." — **Malcolm Mclaren**
+> "I do not think white America is committed to granting equality to the American Negro. This is a passionately racist country it will continue to be so in the foreseeable future." — **Susan Sontag**
 
 ---
 <p align="center">
