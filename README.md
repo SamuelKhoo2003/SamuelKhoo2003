@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I do not think white America is committed to granting equality to the American Negro. This is a passionately racist country it will continue to be so in the foreseeable future." — **Susan Sontag**
+> "The great use of life is to spend it for something that will outlast it." — **William James**
 
 ---
 <p align="center">
