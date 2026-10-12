@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The great use of life is to spend it for something that will outlast it." — **William James**
+> "With 'The Host,' I think the actors could be really big names. That would be cool. I'd love to see Robert Redford put on a beard and be Jeb he would be amazing... Matt Damon has some very Jared-esque qualities, and then Casey Affleck as Ian and Ben Affleck as Kyle. Imagine the interplay." — **Stephenie Meyer**
 
 ---
 <p align="center">
