@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Roses are red, violets are blue, I'm schizophrenic, and so am I." — **Oscar Levant**
+> "If you seek Hamilton's monument, look around. You are living in it. We honor Jefferson, but live in Hamilton's country, a mighty industrial nation with a strong central government." — **George Will**
 
 ---
 <p align="center">
