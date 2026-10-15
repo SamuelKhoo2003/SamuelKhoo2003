@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If you seek Hamilton's monument, look around. You are living in it. We honor Jefferson, but live in Hamilton's country, a mighty industrial nation with a strong central government." — **George Will**
+> "A man is ethical only when life, as such, is sacred to him, that of plants and animals as that of his fellow men, and when he devotes himself helpfully to all life that is in need of help." — **Albert Schweitzer**
 
 ---
 <p align="center">
