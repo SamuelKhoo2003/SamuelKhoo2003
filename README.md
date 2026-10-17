@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A civilization is a heritage of beliefs, customs, and knowledge slowly accumulated in the course of centuries, elements difficult at times to justify by logic, but justifying themselves as paths when they lead somewhere, since they open up for man his inner distance." — **Antoine de Saint-Exupery**
+> "The education that prepared me was my general education classes, which I tried to avoid when I was a stupid undergraduate, but which gave me the foundation of general knowledge that makes a career as a writer possible." — **Orson Scott Card**
 
 ---
 <p align="center">
