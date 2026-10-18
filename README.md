@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The education that prepared me was my general education classes, which I tried to avoid when I was a stupid undergraduate, but which gave me the foundation of general knowledge that makes a career as a writer possible." — **Orson Scott Card**
+> "I've been on so many movies. Generally, I haven't gotten to be on the ground level. As of two years ago, in 'Dear John,' I got to really be on the ground floor. I wasn't a producer. I felt like I put the work in, and I did have a lot of sway on what got fixed, reshoots, so on and so forth. It felt really good." — **Channing Tatum**
 
 ---
 <p align="center">
