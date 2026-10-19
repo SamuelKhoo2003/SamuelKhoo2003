@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I've been on so many movies. Generally, I haven't gotten to be on the ground level. As of two years ago, in 'Dear John,' I got to really be on the ground floor. I wasn't a producer. I felt like I put the work in, and I did have a lot of sway on what got fixed, reshoots, so on and so forth. It felt really good." — **Channing Tatum**
+> "The public has lost faith in the ability of Social Security and Medicare to provide for old age. They've lost faith in the banking system and in conventional medical insurance." — **Ron Chernow**
 
 ---
 <p align="center">
