@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The public has lost faith in the ability of Social Security and Medicare to provide for old age. They've lost faith in the banking system and in conventional medical insurance." — **Ron Chernow**
+> "For me the goddess is the female of God, She is powerful if different." — **Tina Turner**
 
 ---
 <p align="center">
