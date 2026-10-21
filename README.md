@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "For me the goddess is the female of God, She is powerful if different." — **Tina Turner**
+> "Isn't it so weird the day you wake up and you're just going with the flow? And you just suddenly are a mom." — **Katherine Heigl**
 
 ---
 <p align="center">
