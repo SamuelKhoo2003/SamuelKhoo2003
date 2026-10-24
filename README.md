@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Because I'm a young black man driving a really nice, expensive car, I sometimes get harassed when I'm rolling through a ghetto neighbourhood." — **Coolio**
+> "I like food, like any other guy, but it is not the main thing in my life. I can do without it." — **Lee Child**
 
 ---
 <p align="center">
