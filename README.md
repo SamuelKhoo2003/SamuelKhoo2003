@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I like food, like any other guy, but it is not the main thing in my life. I can do without it." — **Lee Child**
+> "About astrology and palmistry: they are good because they make people vivid and full of possibilities. They are communism at its best. Everybody has a birthday and almost everybody has a palm." — **Kurt Vonnegut**
 
 ---
 <p align="center">
