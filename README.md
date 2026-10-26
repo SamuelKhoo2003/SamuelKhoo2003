@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "About astrology and palmistry: they are good because they make people vivid and full of possibilities. They are communism at its best. Everybody has a birthday and almost everybody has a palm." — **Kurt Vonnegut**
+> "I haven't spoken to my wife in years. I didn't want to interrupt her." — **Rodney Dangerfield**
 
 ---
 <p align="center">
