@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I haven't spoken to my wife in years. I didn't want to interrupt her." — **Rodney Dangerfield**
+> "The desire to live in our imagination is driven by this suspicion that we're disembodied sensibilities cobbled into our bodies. That idea has infused most of human thought since the very beginning." — **Richard Powers**
 
 ---
 <p align="center">
