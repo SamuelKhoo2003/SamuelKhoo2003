@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The desire to live in our imagination is driven by this suspicion that we're disembodied sensibilities cobbled into our bodies. That idea has infused most of human thought since the very beginning." — **Richard Powers**
+> "Men are happy to be laughed at for their humor, but not for their folly." — **Jonathan Swift**
 
 ---
 <p align="center">
