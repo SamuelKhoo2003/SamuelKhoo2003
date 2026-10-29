@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Men are happy to be laughed at for their humor, but not for their folly." — **Jonathan Swift**
+> "I find fear is a great motivator to work hard." — **Greg Kinnear**
 
 ---
 <p align="center">
