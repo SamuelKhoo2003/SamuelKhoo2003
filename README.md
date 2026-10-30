@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I find fear is a great motivator to work hard." — **Greg Kinnear**
+> "One of the funny things about the stock market is that every time one person buys, another sells, and both think they are astute." — **William Feather**
 
 ---
 <p align="center">
