@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Before becoming a mom, I never knew how good I had it to just spend time at a spa for a few hours. Now, those days are far and between. So when I have an hour, it's all about the mani and pedi." — **Tia Mowry**
+> "When I was a kid, my mom used to run the vacuum cleaner, and the noise would bother me so much that I would run into the woods to calm down. I feel like that vacuum cleaner has been on since I moved to New York City." — **Steve Burns**
 
 ---
 <p align="center">
