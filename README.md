@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "When I was a kid, my mom used to run the vacuum cleaner, and the noise would bother me so much that I would run into the woods to calm down. I feel like that vacuum cleaner has been on since I moved to New York City." — **Steve Burns**
+> "Obviously, I'm attracted to heavier movies." — **Clive Owen**
 
 ---
 <p align="center">
