@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Obviously, I'm attracted to heavier movies." — **Clive Owen**
+> "Jews read the books of Moses not just as history but as divine command. The question to which they are an answer is not, 'What happened?' but rather, 'How then shall I live?' And it's only with the exodus that the life of the commands really begins." — **Jonathan Sacks**
 
 ---
 <p align="center">
