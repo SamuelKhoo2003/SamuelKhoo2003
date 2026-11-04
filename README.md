@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Jews read the books of Moses not just as history but as divine command. The question to which they are an answer is not, 'What happened?' but rather, 'How then shall I live?' And it's only with the exodus that the life of the commands really begins." — **Jonathan Sacks**
+> "I swear my car won't run unless I'm picking my nose: At least, I'm that superstitious about it, so I don't want to take any chances." — **Adam Carolla**
 
 ---
 <p align="center">
