@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Movies have takes. But plays are like life - you don't really get takes." — **Chris Rock**
+> "The attitude and capacity of the factory, the old metal table and the new ideas of the wooden furniture quickly and naturally suggested the possibility of metal furniture." — **Donald Judd**
 
 ---
 <p align="center">
