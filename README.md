@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "The attitude and capacity of the factory, the old metal table and the new ideas of the wooden furniture quickly and naturally suggested the possibility of metal furniture." — **Donald Judd**
+> "Suddenly life has new meaning to me, there's beauty up above and things we never take notice of, you wake up suddenly you're in love." — **Billy Ocean**
 
 ---
 <p align="center">
