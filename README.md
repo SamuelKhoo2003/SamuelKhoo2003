@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Suddenly life has new meaning to me, there's beauty up above and things we never take notice of, you wake up suddenly you're in love." — **Billy Ocean**
+> "At times I experience hardship in trying to find the proper point of balance between traditional things and my own personality." — **Princess Masako**
 
 ---
 <p align="center">
