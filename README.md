@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "At times I experience hardship in trying to find the proper point of balance between traditional things and my own personality." — **Princess Masako**
+> "We don't have to sacrifice a strong economy for a healthy environment." — **Dennis Weaver**
 
 ---
 <p align="center">
