@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Life is but thought." — **Sara Teasdale**
+> "If one must fight or create, it is necessary that this be preceded by the broadest possible knowledge." — **Karel Capek**
 
 ---
 <p align="center">
