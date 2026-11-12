@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "If one must fight or create, it is necessary that this be preceded by the broadest possible knowledge." — **Karel Capek**
+> "Gaming in general is a male thing. It isn't that gaming is designed to exclude women. Everybody who's tried to design a game to interest a large female audience has failed. And I think that has to do with the different thinking processes of men and women." — **Gary Gygax**
 
 ---
 <p align="center">
