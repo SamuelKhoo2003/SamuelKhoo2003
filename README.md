@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Gaming in general is a male thing. It isn't that gaming is designed to exclude women. Everybody who's tried to design a game to interest a large female audience has failed. And I think that has to do with the different thinking processes of men and women." — **Gary Gygax**
+> "I think that much of this was running in background as I contemplated whether or not to attend the PS 99 reunion, although I certainly anticipated that I would not it smelled like death, not youth." — **John Thorn**
 
 ---
 <p align="center">
