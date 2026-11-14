@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I think that much of this was running in background as I contemplated whether or not to attend the PS 99 reunion, although I certainly anticipated that I would not it smelled like death, not youth." — **John Thorn**
+> "A bank is a place that will lend you money if you can prove that you don't need it." — **Bob Hope**
 
 ---
 <p align="center">
