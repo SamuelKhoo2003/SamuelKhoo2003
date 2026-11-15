@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A bank is a place that will lend you money if you can prove that you don't need it." — **Bob Hope**
+> "You can't have a sustainable US economy without a great education system. Teach students to do the job right. You don't have an innovative economy unless you have a great education." — **Walter Isaacson**
 
 ---
 <p align="center">
