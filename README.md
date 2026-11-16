@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "You can't have a sustainable US economy without a great education system. Teach students to do the job right. You don't have an innovative economy unless you have a great education." — **Walter Isaacson**
+> "A man acquainted with history may, in some respect, be said to have lived from the beginning of the world, and to have been making continual additions to his stock of knowledge in every century." — **David Hume**
 
 ---
 <p align="center">
