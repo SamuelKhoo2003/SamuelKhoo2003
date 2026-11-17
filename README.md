@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A man acquainted with history may, in some respect, be said to have lived from the beginning of the world, and to have been making continual additions to his stock of knowledge in every century." — **David Hume**
+> "From the naturalistic point of view, all men are equal. There are only two exceptions to this rule of naturalistic equality: geniuses and idiots." — **Mikhail Bakunin**
 
 ---
 <p align="center">
