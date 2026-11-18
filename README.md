@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "From the naturalistic point of view, all men are equal. There are only two exceptions to this rule of naturalistic equality: geniuses and idiots." — **Mikhail Bakunin**
+> "There can be no failure to a man who has not lost his courage, his character, his self respect, or his self-confidence. He is still a King." — **Orison Swett Marden**
 
 ---
 <p align="center">
