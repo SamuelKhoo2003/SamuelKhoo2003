@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There can be no failure to a man who has not lost his courage, his character, his self respect, or his self-confidence. He is still a King." — **Orison Swett Marden**
+> "A lot of the greatest compositions were made famous by Sinatra." — **Michael Bolton**
 
 ---
 <p align="center">
