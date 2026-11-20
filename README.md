@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A lot of the greatest compositions were made famous by Sinatra." — **Michael Bolton**
+> "I don't think that anyone seriously fears that the world can be blown to pieces all together. But what one can fear and rightly so are regional things, like in the Middle East, India, Pakistan, the Korean Peninsula, borders in Africa, etc." — **Hans Blix**
 
 ---
 <p align="center">
