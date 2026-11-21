@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "I don't think that anyone seriously fears that the world can be blown to pieces all together. But what one can fear and rightly so are regional things, like in the Middle East, India, Pakistan, the Korean Peninsula, borders in Africa, etc." — **Hans Blix**
+> "Real courage is knowing what faces you and knowing how to face it." — **Timothy Dalton**
 
 ---
 <p align="center">
