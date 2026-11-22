@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Real courage is knowing what faces you and knowing how to face it." — **Timothy Dalton**
+> "A lot of people think Japanese food is difficult, a lot of work. But you don't have to buy the knife I have. You don't have to train as long as I have. You can do my cooking in your kitchen." — **Masaharu Morimoto**
 
 ---
 <p align="center">
