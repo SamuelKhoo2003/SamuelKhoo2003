@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "A lot of people think Japanese food is difficult, a lot of work. But you don't have to buy the knife I have. You don't have to train as long as I have. You can do my cooking in your kitchen." — **Masaharu Morimoto**
+> "There was really no friendship in modeling, though a certain amount of warmth comes from running into models you know on shoots, because you end up in so many unfamiliar places, from Alaska to Africa." — **Carol Alt**
 
 ---
 <p align="center">
