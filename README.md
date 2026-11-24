@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "There was really no friendship in modeling, though a certain amount of warmth comes from running into models you know on shoots, because you end up in so many unfamiliar places, from Alaska to Africa." — **Carol Alt**
+> "It's very difficult for the American people to believe that our government, one of the richest on Earth, is also one of the stingiest on Earth." — **Jimmy Carter**
 
 ---
 <p align="center">
