@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "It's very difficult for the American people to believe that our government, one of the richest on Earth, is also one of the stingiest on Earth." — **Jimmy Carter**
+> "Marriage equality changed life for people." — **Andrew Cuomo**
 
 ---
 <p align="center">
