@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "Marriage equality changed life for people." — **Andrew Cuomo**
+> "My Mom always cooked healthy. Greek food lends itself to cooking healthy." — **Cat Cora**
 
 ---
 <p align="center">
