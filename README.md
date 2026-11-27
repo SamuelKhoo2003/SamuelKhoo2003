@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My Mom always cooked healthy. Greek food lends itself to cooking healthy." — **Cat Cora**
+> "My family is from the South, and I can remember all those ladies I grew up with, like my great-aunts, who had handkerchiefs. There's something sweet about them." — **Laura Linney**
 
 ---
 <p align="center">
