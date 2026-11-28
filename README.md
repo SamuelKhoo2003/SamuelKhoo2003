@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 ## ✨ Quote of the Day ✨
 
-> "My family is from the South, and I can remember all those ladies I grew up with, like my great-aunts, who had handkerchiefs. There's something sweet about them." — **Laura Linney**
+> "Failure is nature's plan to prepare you for great responsibilities." — **Napolean Hill**
 
 ---
 <p align="center">
